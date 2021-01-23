@@ -54,3 +54,5 @@
 参考阅读：
 
 [变格表](ending-table.md)
+
+[关系语法手册](../basic-relation/summary.md)

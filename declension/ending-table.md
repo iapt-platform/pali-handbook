@@ -20,12 +20,13 @@
 
 | 结尾 | 性  | 例子  |   |
 | ---------- | ------------- | -------- |-------- |
-| an |[阳性](masculine.md) |     |[查看](an.md)|
-| in,ī |[阳性](masculine.md) |     |[查看](in.md)|
-| in,ī | 中性  |     |[查看](in.md)|
+| an |[阳性](masculine.md) |     |[查看](an-masculine.md)|
+| ant | [阳性](masculine.md)  |     |[查看](ant-masculine.md)|
+| ant | [中性](neutral.md)  |     |[查看](ant-neutral.md)|
+| in,ī |[阳性](masculine.md) |     |[查看](in-masculine.md)|
+| in | [中性](neutral.md)  |     |[查看](in-neutral.md)|
 | as/o | 阴性  |     |[查看](as.md)|
 | us |[阳性](masculine.md) |     |[查看](au.md)|
-| ant | 中性  |     |[查看](ant.md)|
 | ar | 阴性  |     |[查看](ar.md)|
 
 
