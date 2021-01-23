@@ -22,4 +22,5 @@
 | [接尾词]() |  |
 | [Sandhi]() |  |
 | [复合词]() |  |
+| [词与词关系语法](basic-relation/summary.md) |  |
 | [进阶语法](grammar/summary.md) |  |
