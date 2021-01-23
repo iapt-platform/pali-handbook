@@ -6,11 +6,10 @@
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
-| [主格](nom.md) | -o | Puriso | -ā | Purisa |
-| [呼格](voc.md) | - a, a | Purisa | -ā | Purisā |
-| [宾格](acc.md) |  |  |  |  |
-| [工具格](instr.md) |  |  |  |  |
-| [来源格](abl.md) |  |  |  |  |
-| [属格](gen.md) |  |  |  |  |
-| [与格](dat.md) |  |  |  |  |
-| [位置格](loc.md) |  |  |  |  |
+| [主格](nom.md) | -o | Puris**o** | -ā | Puris**ā** |
+| [呼格](voc.md) | - a <br>-ā | Puris**a**<br>puris**ā** | -ā | Puris**ā** |
+| [宾格](acc.md) |-aṃ  | puris**aṃ** |  -e| puris**e** |
+| [工具格](instr.md) |-ena  | puri**ena** |-ehi<br>-ebhi  |puris**ehi**<br>puris**ebhi**|
+| [来源格](abl.md) |-ā <br>-smā<br>-mhā |puris**ā**<br>purisa**smā**<br>purisa**mhā** | -ehi<br>-ebhi |puris**ehi**<br>puris**ebhi**  |
+| [属格](gen.md)<br>[与格](dat.md)  | -ssa |puri**ssa**  | -naṃ |purisā**naṃ**  |
+| [位置格](loc.md) |-e<br>smiṃ<br>mhi  |puris**e**<br>purisa**smiṃ**<br>purisa**mhi**  |-su  |purise**su**  |
