@@ -26,10 +26,10 @@
 | ---------- | ------ | ----- |----|
 | 时态 |  |  |  |
 | [现在时](present.md) | Vattamàna | pres. | Present Indicative Tense |
-| [将来时](fur.md) | Bhavissanti | fur. | Future Tense |
+| [将来时](fut.md) | Bhavissanti | fut. | Future Tense |
 | [不定过去](aor.md) | Ajjatanī / Bhūta | aor. | Aorist Tense |
 | [过去完成时](perf.md) | Parokkhā | perf.  | Past Perfect Tense |
-| [过去未完成时](imperf.md) | Hiyyattanã / Anajjatana  | imperf. | Past Imperfect Tense |
+| [过去未完成时](impf.md) | Hiyyattanã / Anajjatana  | imperf. | Past Imperfect Tense |
 | 语气 |  |  |  |
 | [祈使句](imp.md) | Pañcamī | imp. | Imperative |
 | [愿望](opt.md) | Sattamī | opt. | Optative |
