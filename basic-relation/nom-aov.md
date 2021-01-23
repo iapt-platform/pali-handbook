@@ -1,4 +1,4 @@
-# [基本关系语法](summary.md)>[主格](nom.md)>AOV
+[基本关系语法](summary.md)>[主格](nom.md)>AOV
 
 # AOV 
 
