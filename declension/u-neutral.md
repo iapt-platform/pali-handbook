@@ -1,16 +1,11 @@
 [返回变格目录](summary.md)
 
-# a 结尾的[中性](neutral.md)名词
+# u 结尾的[中性](neutral.md)名词
 
-例词： Purisa(男人)
+例词： assu(泪)
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
-| [主格](nom.md) |  |  |  |  |
-| [呼格](voc.md) |  |  |  |  |
-| [宾格](acc.md) |  |  |  |  |
-| [工具格](instr.md) |  |  |  |  |
-| [来源格](abl.md) |  |  |  |  |
-| [属格](gen.md) |  |  |  |  |
-| [与格](dat.md) |  |  |  |  |
-| [位置格](loc.md) |  |  |  |  |
+| [主格](nom.md) |-x  |assu  |-ū<br>-ni  |ass**ū**<br>assū**ni**  |
+| [呼格](voc.md) |-x<br>-ū  |assu<br>ass**ū**  |-ū<br>-ni  |ass**ū**<br>assū**ni**  |
+| [宾格](acc.md) |-uṃ  |ass**uṃ**  |-ū<br>-ni  |ass**ū**<br>assū**ni**  |
