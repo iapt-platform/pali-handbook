@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* [变格](declension/README.md)
+* 变格
   * [变格表](declension/ending-table.md)
   * [格](declension/declension.md)
   * [数](declension/number.md)
