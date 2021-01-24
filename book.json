@@ -2,26 +2,13 @@
         "title": "巴利语手册",
         "description": "巴利语手册 包含各种变格表",
         "structure": {
-        "readme": "readme.md"
+        "readme": "readme.md",
+        "summary":"SUMMARY.md"
         },
         "introduction": {
                 "path": "readme.md",
                 "title": "巴利语手册"
             },
-        "pluginsConfig": {
-                "fontSettings": {
-                "theme": "white",
-                "family": "serif",
-                "size": 2
-                },
-                "ga": {
-                        "token": "UA-39088953-8"
-                },
-                "duoshuo": {
-                        "short_name": "wiznote",
-                        "theme": "default"
-                }
-        },
 	"styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
