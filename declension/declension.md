@@ -19,13 +19,13 @@
 
 | 序号 | 名称 | 巴利语 | 英文 | 其他名称 | 常见作用 |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| 1 | [**主**格](nom.md) | Paccatta-vacana paṭhamā-vibhatti | **nom.** nominative | 体格 | 动作的发出者 |
-| 2 | [**宾**格](acc.md) | Upayoga-vacana dutiyā-vibhatti | **acc.** accusative | 业格 受格 对格 | 动作的承受者 |
-| 3 | [工**具**格](instr.md) | Karaṇa-vacana tatiyā-vibhatti | **inst**r. instrumental | 具作格 具格 | 动作的方式与手段 |
-| 4 | [**目的**格](dat.md) | Sampadāna-vacana catutthī-vibhatti | **dat.** dative | 与格 为格 | 动作的目的 |
-| 5 | [来**源**格](abl.md) | Nissakka-vacana pañcamī-vibhatti | **abl.** ablative | 离格 夺格 从格 | 动作的起因 |
-| 6 | [**属**格](gen.md) | Sāmi-vacana chaṭṭhī-vibhatti | **gen.** genitive | 所有格 | 限定名词的所有者 |
-| 7 | [**处**格](loc.md) | Bhumma-vacana sattamī-vibhatti | **loc.** locative | 位\(置\)格 在格 于格 依格 | 动作发生的时空背景 |
+| 1 | [**主**格](nom.md) | Paccatta-vacana<br>paṭhamā-vibhatti | **nom.** nominative | 体格 | 动作的发出者 |
+| 2 | [**宾**格](acc.md) | Upayoga-vacana<br>dutiyā-vibhatti | **acc.** accusative | 业格 受格 对格 | 动作的承受者 |
+| 3 | [工**具**格](instr.md) | Karaṇa-vacana<br>tatiyā-vibhatti | **inst**r. instrumental | 具作格 具格 | 动作的方式与手段 |
+| 4 | [**目的**格](dat.md) | Sampadāna-vacana<br>catutthī-vibhatti | **dat.** dative | 与格 为格 | 动作的目的 |
+| 5 | [来**源**格](abl.md) | Nissakka-vacana<br>pañcamī-vibhatti | **abl.** ablative | 离格 夺格 从格 | 动作的起因 |
+| 6 | [**属**格](gen.md) | Sāmi-vacana<br>chaṭṭhī-vibhatti | **gen.** genitive | 所有格 | 限定名词的所有者 |
+| 7 | [**处**格](loc.md) | Bhumma-vacana<br>sattamī-vibhatti | **loc.** locative | 位\(置\)格 在格 于格 依格 | 动作发生的时空背景 |
 | 8 | [**呼**格](voc.md) | Āmantana-vacana | **voc.** vocative |  | 当面称呼 如：喂，老张！ |
 
 
