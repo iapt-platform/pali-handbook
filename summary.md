@@ -1,19 +1,10 @@
-# 快速入门指南
+# Summary
 
-* [开始学习](shortcut/summary.md)
+* [Introduction](README.md)
+* [PartⅠ](part1/README.md)
+  - [Read](part1/read.md)
 
-# 一万小时巴利语慢成教程
+### 第二部分
 
-* [开始学习](palistep/summary.md)
-
-# 语法手册
-
-* [变格](declension/summary.md)
-* [动词](verbal/summary.md)
-* [不变词]()
-* [接头词]()
-* [接尾词]()
-* [Sandhi]()
-* [复合词]()
-* [词与词关系语法](basic-relation/summary.md)
-* [进阶语法](grammar/summary.md)
+* [PartⅡ](part2/README.md)
+  - [Write](part2/write.md)

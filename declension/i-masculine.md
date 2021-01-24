@@ -1,6 +1,6 @@
-[返回变格目录](readme.md)
-
 # i 结尾的[阳性](masculime.md)名词
+
+[返回变格目录](readme.md)
 
 例词：Muni(圣贤)
 
