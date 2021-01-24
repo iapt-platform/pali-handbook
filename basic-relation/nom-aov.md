@@ -1,6 +1,6 @@
-[基本关系语法](readme.md)>[主格](nom.md)>AOV
-
 # AOV 
+
+[基本关系语法](readme.md)>[主格](nom.md)>AOV
 
 - English： Active Object Relation
 - 中文： 受動者-動詞關係（vutta）
