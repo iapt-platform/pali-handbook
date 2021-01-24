@@ -37,4 +37,4 @@
 | [宾格](acc.md) | Brahmān**aṃ**<br>Brahma**ṃ** | Brahmān**o**<br>Brahm**e**  |
 | [工具格](instr.md)<br>[来源格](abl.md)  | Brahm**unā** | Brahm**ehi**<br>Brahm**ebhi**  |
 | [属格](gen.md)<br>[与格](dat.md) | Brahm**uno**<br>Brahma**ssa**<br>Brahm**ussa** | Brahm**ūnaṃ**<br>Brahmān**aṃ** |
-| [位置格](loc.md) | Brahmasmiṃ<br>Brahman**i**<br>Brahm**e** | Brahm**esu** |
+| [位置格](loc.md) | Brahma**smiṃ**<br>Brahman**i**<br>Brahm**e** | Brahm**esu** |
