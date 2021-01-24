@@ -14,23 +14,49 @@
 
 这个小尾巴就像单词的工作证或公司员工的胸牌。指示了该人的工作岗位。使阅读巴利语文章更加容易。
 
-**八种格**
-| 序号 | 名称 | 巴利语 | 英文缩写 | 其他名称 |  常见作用 |
-| --- | ----- | ------ |---- | ---- | ---- |
-| 1 | [主格](nom.md) | Puriso | nom. |  | 动作的发出者 |
-| 2 | [呼格](voc.md) | Puriso | voc. |  | 喊人（喂，老张！） |
-| 3 | [宾格](acc.md) | Puriso | acc. | 受格 | 动作的承受者 |
-| 4 | [工具格](instr.md) | Puriso | instr. | 具格 | 动作使用的工具 |
-| 5 | [来源格](abl.md) | Puriso | abl. | 离格 | 动作的原因 |
-| 6 | [属格](gen.md) | Puriso | gen. |  | 物品所有者 |
-| 7 | [与格](dat.md) | Puriso | dat. | 为格 | 第二宾语 |
-| 8 | [位置格](loc.md) | Puriso | loc. | 处格 | 动作发生的位置，时间 |
+## 八种**格**
 
-**三种性**
+| 序号 | 名称 | 巴利语 | 英文 | 其他名称 |  常见作用 |
+| --- | ----- | ------ |:----:| ---- | ---- |
+| 1 | [**主**格](nom.md) | Paccatta-vacana<br>paṭhamā-vibhatti | **nom.**<br>nominative | 体格 | 动作的发出者 |
+| 2 | [**宾**格](acc.md) | Upayoga-vacana<br>dutiyā-vibhatti | **acc.**<br>accusative | 业格<br>受格 | 动作的承受者 |
+| 3 | [工**具**格](instr.md) | Karaṇa-vacana<br>tatiyā-vibhatti | **inst**r.<br>instrumental | 具作格<br>具格 | 动作的方式与手段 |
+| 4 | [**目的**格](dat.md) | Sampadāna-vacana<br>catutthī-vibhatti | **dat.**<br>dative | 与格<br>为格 | 动作的目的 |
+| 5 | [来**源**格](abl.md) | Nissakka-vacana<br>pañcamī-vibhatti | **abl.**<br>ablative | 离格<br> | 动作的起因 |
+| 6 | [**属**格](gen.md) | Sāmi-vacana<br>chaṭṭhī-vibhatti | **gen.**<br>genitive | 所有格 | 限定名词的所有者 |
+| 7 | [**处**格](loc.md) | Bhumma-vacana<br>sattamī-vibhatti | **loc.**<br>locative | 位置格 | 动作发生的空间、时间 |
+| 8 | [**呼**格](voc.md) | Āmantana-vacana | **voc.**<br>vocative |  | 当面称呼<br>如：喂，老张！ |
 
-1. [阳性](masculine.md)
-2. [中性](neutral.md)
-3. [阴性](feminine.md)
+
+## **数**
+
+```
+语法范畴之一。指凭借一定的语法形式所表示的名词、代词、形容词、动词等的数量特征。
+……
+英语中…通过附加虚语素-s表示出来的。
+……
+通常认为汉语里的名词有独立的数范畴，多数的意义用虚词“们”表示出来。例如“学生”能表单数，“学生们”是多数。
+
+——《初级巴利文课程》
+```
+|名称|巴利|英文|详情|
+|:-:|:-:|:-:|:-:|
+|**单**数|ekavacana|**sg.**<br>singular|[查看](number.md)|
+|**复**数|bahuvacana|**pl.**<br>plural|[查看](number.md)|
+
+# 性
+```
+法范畴之一。指凭借一定的语法形式所表示的名词、代
+词、形容词等在语法上的性
+别。一般分阳性、阴性、中性三类。汉语里没有“性”的语法范畴。
+——《初级巴利文课程》
+```
+|名称|巴利|英文|详情|
+|:-:|:-:|:-:|:-:|
+|**阳**性|**pu**<br>pulliṅga|**m.**<br>Masculine|[查看](masculine.md)|
+|**中**性|**na**<br>napuṃsakaliṅga|**n.**<br>Neutral|[查看](neutral.md)|
+|**阴**性|**thī**<br>itthiliṅga|**f.**<br>Masculine|[查看](feminine.md)|
+
 
 
 许多阳性词跟男人，男性天神，或雄性动物有关。如Purisa(男人)但也不全是。
@@ -43,7 +69,16 @@
 
 有些单词有两个性。
 
-而形容词，代词，数词是变色龙，修饰什么词就会变成那个词的性。所以称为三性词。
+而形容词，分词，代词，数词是“变色龙”，修饰什么词就会变成那个词的性，所以称为[三性词](3_gender.md)。
+
+
+## 性数格变化
+
+在巴利语中，识别格位变化的标志是名词后面的“小尾巴”，称之为**语尾**，
+
+每个名词性词至少有：2数（单、复）×8格位=16種变化
+
+对于三性词
 
 **单复数**
 
@@ -51,6 +86,8 @@
 2. [复数](pl.md)
 
 参考阅读：
+
+[数](number.md)
 
 [变格表](ending-table.md)
 
