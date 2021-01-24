@@ -1,0 +1,21 @@
+# Table of contents
+
+* [首页](readme.md)
+* [变格](declension/README.md)
+  * [变格表](declension/ending-table.md)
+  * [格](declension/declension.md)
+  * [数](declension/number.md)
+  * [性](declension/gender.md)
+* [动词](verbal/README.md)
+  * [现在时](verbal/present.md)
+* [基本关系语法](basic-relation/README.md)
+  * [主格](basic-relation/nom.md)
+  * [呼格](basic-relation/voc.md)
+  * [宾格](basic-relation/acc.md)
+* [高级语法](grammar/README.md)
+  * [Hoti](grammar/hoti.md)
+  * [Tabba](grammar/tabba.md)
+* 快速指南
+  * [开始](shortcut/shortcut.md)
+  * [句子构成](shortcut/1-sentence.md)  
+  * [名词](shortcut/2-noun.md)
