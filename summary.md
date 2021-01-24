@@ -3,6 +3,9 @@
 * [首页](readme.md)
 * 变格
   * [变格表](declension/ending-table.md)
+    * [a阳性](declension/a-masculine.md)
+    * [a中性](declension/a-neutral.md)
+    * [ā阴性](declension/a-feminine.md)
   * [格](declension/declension.md)
   * [数](declension/number.md)
   * [性](declension/gender.md)
