@@ -16,8 +16,8 @@
 
 | 章节 |  内容  | 
 | ---------- | ------ |
-| [变格](declension/summary.md) | 名词，形容词，数词，代词 |
-| [动词](verbal/summary.md) |  |
+| [变格表](declension/ending-table.md) | 名词，形容词，数词，代词 |
+| [动词表](verbal/summary.md) |  |
 | [不变词]() |  |
 | [接头词]() |  |
 | [接尾词]() |  |

@@ -1,4 +1,4 @@
-# 目录
+# Summary
 ## 快速入门指南
 
 * [开始学习](shortcut/summary.md)
