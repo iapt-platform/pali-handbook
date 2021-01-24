@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* [变格](declension/README.md)
+* 变格
   * [变格表](declension/ending-table.md)
   * [格](declension/declension.md)
   * [数](declension/number.md)
@@ -16,6 +16,6 @@
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
 * 快速指南
-  * [开始](shortcut/shortcut.md)
-  * [句子构成](shortcut/1-sentence.md)  
-  * [名词](shortcut/2-noun.md)
+  * [开始](shortcut/readme.md)
+  * [句子构成](shortcut/sentence.md)  
+  * [名词](shortcut/noun.md)
