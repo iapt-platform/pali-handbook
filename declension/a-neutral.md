@@ -1,15 +1,16 @@
-# a 结尾的[中性](neutral.md)名词
+# a 结尾的中性名词
 
-[返回变格目录](readme.md)
+[返回变格目录](declension.md)
 
-例词： rūpa(色)
+例词： rūpa\(色\)
 
-| 变格 | 单数 | 例子 |复数 | 例子 |
-| --- | ----- | ------ |---- | ---- |
-| [主格](nom.md) |-aṃ  |rūp**aṃ**  | -ā<br>-āni |rūp**ā**<br>rūp**āni**  |
-| [呼格](voc.md) | -a<br>-ā | rūp**a**<br>rūp**ā** |-ā<br>-āni  |rūp**ā**<br>rūp**āni**  |
-| [宾格](acc.md) | -aṃ |rūp**aṃ**  |-e<br>-āni  |rūp**e**<br>rūp**āni**|
-| [工具格](instr.md) |-ena  | rūp**ena** |-ehi<br>-ebhi  |rūp**ehi**<br>rūp**ebhi**|
-| [来源格](abl.md) |-ā <br>-smā<br>-mhā |rūp**ā**<br>rūpa**smā**<br>rūpa**mhā** | -ehi<br> -ebhi    |rūp**ehi**<br>rūp**ebhi**  |
-| [属格](gen.md)<br>[与格](dat.md)  | -ssa |rūpa**ssa**  |-naṃ |rūpā**naṃ**  |
-| [位置格](loc.md) |-e<br>smiṃ<br>mhi  |rūp**e**<br>rūpa**smiṃ**<br>rūpa**mhi**  |-su  |rūpe**su**  |
+| 变格 | 单数 | 例子 | 复数 | 例子 |
+| :--- | :--- | :--- | :--- | :--- |
+| [主格](nom.md) | -aṃ | rūp**aṃ** | -ā -āni | rūp**ā** rūp**āni** |
+| [呼格](voc.md) | -a -ā | rūp**a** rūp**ā** | -ā -āni | rūp**ā** rūp**āni** |
+| [宾格](acc.md) | -aṃ | rūp**aṃ** | -e -āni | rūp**e** rūp**āni** |
+| [工具格](instr.md) | -ena | rūp**ena** | -ehi -ebhi | rūp**ehi** rūp**ebhi** |
+| [来源格]() | -ā  -smā -mhā | rūp**ā** rūpa**smā** rūpa**mhā** | -ehi  -ebhi | rūp**ehi** rūp**ebhi** |
+| [属格]() [与格]() | -ssa | rūpa**ssa** | -naṃ | rūpā**naṃ** |
+| [位置格]() | -e smiṃ mhi | rūp**e** rūpa**smiṃ** rūpa**mhi** | -su | rūpe**su** |
+
