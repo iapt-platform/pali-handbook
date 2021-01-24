@@ -10,7 +10,7 @@
 | i |Muni<br>[查看](i-masculine.md)|Akkhi<br>[查看](i-neutral.md)|Jāti<br>[查看](i-feminine.md)|
 | u |taru<br>[查看](u-masculine.md)|assu<br>[查看](u-neutral.md)|dhenu<br>[查看](u-feminine.md)|
 
-## 辅音尾
+## 辅音尾	
 
 | 结尾 |[阳性](masculine.md)|[中性](neutral.md)|[阴性](feminine.md)|
 | ---------- | ------------- | -------- |-------- |
