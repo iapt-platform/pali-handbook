@@ -25,8 +25,8 @@
 | ant | [中性](neutral.md)  |     |[查看](ant-neutral.md)|
 | in,ī |[阳性](masculine.md) |     |[查看](in-masculine.md)|
 | in | [中性](neutral.md)  |     |[查看](in-neutral.md)|
-| as/o | 阴性  |     |[查看](as.md)|
-| us |[阳性](masculine.md) |     |[查看](au.md)|
+| as/o | [中性](neutral.md)  |     |[查看](as-neutral.md)|
+| us |[阳性](masculine.md) |     |[查看](us.md)|
 | ar | 阴性  |     |[查看](ar.md)|
 
 
