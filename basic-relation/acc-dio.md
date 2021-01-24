@@ -1,4 +1,4 @@
-[基本关系语法](summary.md)>[宾格](acc.md)>AOV
+[基本关系语法](readme.md)>[宾格](acc.md)>AOV
 
 # AOV 
 

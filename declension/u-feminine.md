@@ -1,4 +1,4 @@
-[返回变格目录](summary.md)
+[返回变格目录](readme.md)
 
 # u 结尾的[阴性](feminine.md)名词
 

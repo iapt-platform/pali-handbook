@@ -1,4 +1,4 @@
-[返回变格目录](summary.md)
+[返回变格目录](readme.md)
 
 # i 结尾的[中性](neutral.md)名词
 
