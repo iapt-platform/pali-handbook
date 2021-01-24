@@ -1,6 +1,6 @@
-[返回变格目录](readme.md)
-
 # u 结尾的[中性](neutral.md)名词
+
+[返回变格目录](readme.md)
 
 例词： assu(泪)
 
