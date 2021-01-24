@@ -7,7 +7,7 @@
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
 | [主格](nom.md) |-x|Mun**i**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [呼格](voc.md) |-x<br>-ī|Mun**i**<br>Mun**i**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
+| [呼格](voc.md) |-x<br>-ī|Mun**i**<br>Mun**ī**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
 | [宾格](acc.md) |-m|Muni**ṃ**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
 | [工具格](instr.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br> Muni**hi** <br> Muni**bhi** |
 | [来源格](abl.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br>  Muni**hi** <br> Muni**bhi** |
