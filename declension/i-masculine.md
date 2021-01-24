@@ -1,15 +1,16 @@
-# i 结尾的[阳性](masculime.md)名词
+# i 结尾的阳性名词
 
-[返回变格目录](readme.md)
+[返回变格目录](declension.md)
 
-例词：Muni(圣贤)
+例词：Muni\(圣贤\)
 
-| 变格 | 单数 | 例子 |复数 | 例子 |
-| --- | ----- | ------ |---- | ---- |
-| [主格](nom.md) |-x|Mun**i**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [呼格](voc.md) |-x<br>-ī|Mun**i**<br>Mun**ī**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [宾格](acc.md) |-m|Muni**ṃ**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [工具格](instr.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br> Muni**hi** <br> Muni**bhi** |
-| [来源格](abl.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br>  Muni**hi** <br> Muni**bhi** |
-| [属格](gen.md)<br>[与格](dat.md) |-no| Muni**no** | - naṃ| Munī**naṃ**<br> Muni**naṃ**|
-| [位置格](loc.md) |-smiṃ<br>-mhi| Muni**smiṃ**<br> Muni**mhi** |  - su | Muni**su** <br> Muni**su** |
+| 变格 | 单数 | 例子 | 复数 | 例子 |
+| :--- | :--- | :--- | :--- | :--- |
+| [主格](nom.md) | -x | Mun**i** | -ī -ayo | Mun**ī**   Mun**ayo** |
+| [呼格](voc.md) | -x -ī | Mun**i** Mun**ī** | -ī -ayo | Mun**ī**   Mun**ayo** |
+| [宾格](acc.md) | -m | Muni**ṃ** | -ī -ayo | Mun**ī**   Mun**ayo** |
+| [工具格](instr.md) | -nā | Muni**nā** | -hi -bhi | Munī**hi**   Munī**bhi**   Muni**hi**   Muni**bhi** |
+| [来源格]() | -nā | Muni**nā** | -hi -bhi | Munī**hi**   Munī**bhi**    Muni**hi**   Muni**bhi** |
+| [属格]() [与格]() | -no | Muni**no** | - naṃ | Munī**naṃ**  Muni**naṃ** |
+| [位置格]() | -smiṃ -mhi | Muni**smiṃ**  Muni**mhi** | - su | Muni**su**   Muni**su** |
+
