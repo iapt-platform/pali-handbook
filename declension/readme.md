@@ -19,38 +19,35 @@
 | 序号 | 名称 | 巴利语 | 英文 | 其他名称 |  常见作用 |
 | --- | ----- | ------ |:----:| ---- | ---- |
 | 1 | [**主**格](nom.md) | Paccatta-vacana<br>paṭhamā-vibhatti | **nom.**<br>nominative | 体格 | 动作的发出者 |
-| 2 | [**宾**格](acc.md) | Upayoga-vacana<br>dutiyā-vibhatti | **acc.**<br>accusative | 业格<br>受格 | 动作的承受者 |
+| 2 | [**宾**格](acc.md) | Upayoga-vacana<br>dutiyā-vibhatti | **acc.**<br>accusative | 业格<br>受格<br>对格 | 动作的承受者 |
 | 3 | [工**具**格](instr.md) | Karaṇa-vacana<br>tatiyā-vibhatti | **inst**r.<br>instrumental | 具作格<br>具格 | 动作的方式与手段 |
 | 4 | [**目的**格](dat.md) | Sampadāna-vacana<br>catutthī-vibhatti | **dat.**<br>dative | 与格<br>为格 | 动作的目的 |
-| 5 | [来**源**格](abl.md) | Nissakka-vacana<br>pañcamī-vibhatti | **abl.**<br>ablative | 离格<br> | 动作的起因 |
+| 5 | [来**源**格](abl.md) | Nissakka-vacana<br>pañcamī-vibhatti | **abl.**<br>ablative | 离格<br>夺格<br>从格 | 动作的起因 |
 | 6 | [**属**格](gen.md) | Sāmi-vacana<br>chaṭṭhī-vibhatti | **gen.**<br>genitive | 所有格 | 限定名词的所有者 |
-| 7 | [**处**格](loc.md) | Bhumma-vacana<br>sattamī-vibhatti | **loc.**<br>locative | 位置格 | 动作发生的空间、时间 |
+| 7 | [**处**格](loc.md) | Bhumma-vacana<br>sattamī-vibhatti | **loc.**<br>locative | 位(置)格<br>在格<br>于格<br>依格 | 动作发生的时空背景 |
 | 8 | [**呼**格](voc.md) | Āmantana-vacana | **voc.**<br>vocative |  | 当面称呼<br>如：喂，老张！ |
 
 
 ## **数**
 
-```
-语法范畴之一。指凭借一定的语法形式所表示的名词、代词、形容词、动词等的数量特征。
+
+>语法范畴之一。指凭借一定的语法形式所表示的名词、代词、形容词、动词等的数量特征。
 ……
 英语中…通过附加虚语素-s表示出来的。
 ……
 通常认为汉语里的名词有独立的数范畴，多数的意义用虚词“们”表示出来。例如“学生”能表单数，“学生们”是多数。
+>>——《初级巴利文课程》
 
-——《初级巴利文课程》
-```
 |名称|巴利|英文|详情|
 |:-:|:-:|:-:|:-:|
 |**单**数|ekavacana|**sg.**<br>singular|[查看](number.md)|
 |**复**数|bahuvacana|**pl.**<br>plural|[查看](number.md)|
 
 # 性
-```
-法范畴之一。指凭借一定的语法形式所表示的名词、代
-词、形容词等在语法上的性
-别。一般分阳性、阴性、中性三类。汉语里没有“性”的语法范畴。
-——《初级巴利文课程》
-```
+
+>指凭借一定的语法形式所表示的名词、代词、形容词等在语法上的性别。一般分阳性、阴性、中性三类。汉语里没有“性”的语法范畴。
+>>——《初级巴利文课程》
+
 |名称|巴利|英文|详情|
 |:-:|:-:|:-:|:-:|
 |**阳**性|**pu**<br>pulliṅga|**m.**<br>Masculine|[查看](masculine.md)|
@@ -78,12 +75,10 @@
 
 每个名词性词至少有：2数（单、复）×8格位=16種变化
 
-对于三性词
+对于三性词而言，则要在乘以3性而有48種变化。倘若穷举一切可能，则会更多。但根据对巴利圣典进行统计分析的结果来看，实际上的语尾变格和变位，更加趋近于1/9法则——10%的语尾覆盖90%的变化词
 
-**单复数**
+这里，我们建议初学者通过查询[变格表](ending-table.md)的方式来逐步熟练，在不断地练习中形成自然记忆——高频语尾见多了自然忘不掉，低频语尾记不住也没关系。
 
-1. [单数](sg.md)
-2. [复数](pl.md)
 
 参考阅读：
 
