@@ -2,8 +2,7 @@
         "title": "巴利语手册",
         "description": "巴利语手册 包含各种变格表",
         "structure": {
-        "readme": "readme.md",
-        "summary":"SUMMARY.md"
+        "readme": "readme.md"
         },
         "introduction": {
                 "path": "readme.md",

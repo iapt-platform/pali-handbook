@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* [declension](declension/README.md)
+* [变格](declension/README.md)
   * [工具格](declension/instr.md)
   * [主格](declension/nom.md)
   * [来源格](declension/abl.md)
