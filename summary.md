@@ -1,12 +1,13 @@
-# 快速入门指南
+# 目录
+## 快速入门指南
 
 * [开始学习](shortcut/summary.md)
 
-# 一万小时巴利语慢成教程
+## 一万小时巴利语慢成教程
 
 * [开始学习](palistep/summary.md)
 
-# 语法手册
+## 语法手册
 
 * [变格](declension/summary.md)
 * [动词](verbal/summary.md)
