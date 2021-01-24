@@ -1,7 +1,5 @@
 # 变格表
 
-[返回首页](../summary.md)
-
 ## 元音尾
 
 | 结尾 | [阳性](masculine.md) | [中性](neutral.md) |[阴性](feminine.md)|
