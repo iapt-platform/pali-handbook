@@ -17,7 +17,7 @@
 | 章节 | 内容 |
 | :--- | :--- |
 | [变格表](declension/ending-table.md) | 名词，形容词，数词，代词 |
-| [动词表](verbal/readme.md) |  |
+| [动词变化表](verbal/verb-table.md) |  |
 | [不变词](readme.md) |  |
 | [接头词](readme.md) |  |
 | [接尾词](readme.md) |  |
