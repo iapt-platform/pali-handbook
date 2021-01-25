@@ -3,15 +3,22 @@
 * [首页](readme.md)
 * 变格
   * [变格表](declension/ending-table.md)
-    * [a阳性](declension/a-masculine.md)
-    * [a中性](declension/a-neutral.md)
-    * [ā阴性](declension/a-feminine.md)
-    * [i阳性](declension/i-masculine.md)
-    * [i中性](declension/i-neutral.md)
-    * [ī阴性](declension/i-feminine.md)
-    * [u阳性](declension/u-masculine.md)
-    * [u中性](declension/u-neutral.md)
-    * [ū阴性](declension/u-feminine.md)
+    * 元音结尾
+      * [a阳性](declension/a-masculine.md)
+      * [a中性](declension/a-neutral.md)
+      * [ā阴性](declension/a-feminine.md)
+      * [i阳性](declension/i-masculine.md)
+      * [i中性](declension/i-neutral.md)
+      * [ī阴性](declension/i-feminine.md)
+      * [u阳性](declension/u-masculine.md)
+      * [u中性](declension/u-neutral.md)
+      * [ū阴性](declension/u-feminine.md)
+    * 辅音结尾
+      * [an 阳性](an-masculine.md)
+      * [ant 阳性](ant-masculine.md)
+      * [ant 中性](ant-neutral.md)
+    * 代词
+    * 数词
   * [格](declension/declension.md)
     * [主格](declension/nom.md)
     * [呼格](declension/voc.md)
