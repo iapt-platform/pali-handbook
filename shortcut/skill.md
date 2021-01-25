@@ -22,9 +22,4 @@ pron. 代词
 
 **性数格统一**
 
-## 使用问答
-这是什么词性？
-what's the gender, Masculine, Neutral, Feminine?
 
-这是什么变格/变化？
-What's the case/declension? 
