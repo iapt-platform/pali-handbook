@@ -17,6 +17,11 @@
       * [an 阳性](an-masculine.md)
       * [ant 阳性](ant-masculine.md)
       * [ant 中性](ant-neutral.md)
+      * [in 阳性](in-masculine.md)
+      * [in 中性](in-neutral.md)
+      * [as 中性](as-neutral.md)
+      * [查看](us.md)
+      * [查看](ar.md)
     * 代词
     * 数词
   * [格](declension/declension.md)
