@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* 变格
+* [变格](declension/README.md)
   * [变格表](declension/ending-table.md)
     * 元音结尾
       * [a阳性](declension/a-masculine.md)

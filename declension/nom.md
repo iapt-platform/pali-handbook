@@ -4,7 +4,7 @@
 * 巴利术语：
   * Paccatta-vacana\(注释书\)
   * paṭhamā-vibhatti\(语法书\)
-* 英文缩写：nom.
+* 英文缩写：**nom.**
 * 英文全称：nominative
 
 ## 定义：
