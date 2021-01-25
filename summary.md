@@ -54,6 +54,7 @@
   * [数](declension/number.md)
   * [性](declension/gender.md)
 * [动词](verbal/verbal.md)
+  * [动词变化表](verbal/verb-table.md)
   * [时态和语气](verbal/ten.md)
     * [现在时](verbal/present.md)
   * [分词](verbal/participle.md)
