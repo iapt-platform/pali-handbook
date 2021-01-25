@@ -11,12 +11,12 @@
 
 巴利语单词的一个属性。每个变格词
 
-```text
-Nouns which denote males are masculine;
+>Nouns which denote males are masculine;<br>
 ……
  e.g. rukkha (tree), canda (moon) are masculine.
-——《The New Pali Course》
-```
+>
+>——《The New Pali Course》
+
 
 ## 常见用法：
 
