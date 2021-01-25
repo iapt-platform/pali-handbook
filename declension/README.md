@@ -39,7 +39,7 @@
 | **单**数 | ekavacana | **sg.** singular | [查看](number.md) |
 | **复**数 | bahuvacana | **pl.** plural | [查看](number.md) |
 
-### 性
+### 性（gender）
 
 > 指凭借一定的语法形式所表示的名词、代词、形容词等在语法上的性别。一般分阳性、阴性、中性三类。汉语里没有“性”的语法范畴。
 >
@@ -49,7 +49,7 @@
 | :---: | :---: | :---: | :---: |
 | **阳**性 | **pu** pulliṅga | **m.** Masculine | [查看](masculine.md) |
 | **中**性 | **na** napuṃsakaliṅga | **n.** Neutral | [查看](neutral.md) |
-| **阴**性 | **thī** itthiliṅga | **f.** Masculine | [查看](feminine.md) |
+| **阴**性 | **thī** itthiliṅga | **f.** Feminine | [查看](feminine.md) |
 
 许多阳性词跟男人，男性天神，或雄性动物有关。如Purisa\(男人\)但也不全是。
 

@@ -19,9 +19,9 @@
 
 | 人称 | 单数 | 例子 | 复数 | 例子 |
 | :--- | :--- | :--- | :--- | :--- |
-| 第三人称 | ti | pacati | nti | pacanti |
-| 第二人称 | si | pacasi | tha | pacatha |
-| 第一人称 | mi | pacami | ma | pacama |
+| 第三人称 | ti | paca**ti** | nti | paca**nti** |
+| 第二人称 | si | paca**si** | tha | paca**tha** |
+| 第一人称 | mi | pac**āmi** | ma | pac**āma** |
 
 ## 翻译指南
 

@@ -1,6 +1,6 @@
 # readme
 
-## 变格
+## 变格declension
 
 [首页](../summary.md)
 
