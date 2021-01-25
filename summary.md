@@ -28,7 +28,7 @@
       * [第二人称](tumha.md)
       * 第三人称
     * [数词](declension/number-ref.md)
-    * [基数词和序数词表](number-cardinal-ordinal.md) 
+    * [基数词和序数词表](declension/number-cardinal-ordinal.md) 
     * [Eka 变化表](eka.md)
     * [Dvi 变化表](dvi.md)
     * [Ubha 变化表](ubha.md)
