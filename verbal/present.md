@@ -35,16 +35,13 @@
 
 1. perpetual events, i.e. those that are always going on.  
 
-
    e.g.: The earth goes round the sun.
 
 2. events that happen regularly.  
 
-
    e.g.: He comes everyday.
 
 3. events that will take place in near future.  
-
 
    e.g.: I am going to Japan.
 

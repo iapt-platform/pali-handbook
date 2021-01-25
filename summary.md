@@ -20,14 +20,21 @@
       * [in 阳性](in-masculine.md)
       * [in 中性](in-neutral.md)
       * [as 中性](as-neutral.md)
-      * [查看](us.md)
+      * [us](us.md)
       * [ar 阳性](ar-masculine.md)
       * [ar 阴性](ar-feminine.md)
     * 代词
       * [第一人称](amha.md)
       * [第二人称](tumha.md)
       * 第三人称
-    * 数词
+    * [数词](declension/number-ref.md)
+    * [基数词和序数词表](number-cardinal-ordinal.md) 
+    * [Eka 变化表](eka.md)
+    * [Dvi 变化表](dvi.md)
+    * [Ubha 变化表](ubha.md)
+    * [Ti 变化表](ti.md)
+    * [Catu 变化表](catu.md)
+    *[Pañca 变化表](panca.md)
   * [格](declension/declension.md)
     * [主格](declension/nom.md)
     * [呼格](declension/voc.md)
