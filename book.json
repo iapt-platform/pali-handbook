@@ -16,5 +16,5 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
 	},
-	"language": "zh"
+	"language": "zh-hans"
 }
