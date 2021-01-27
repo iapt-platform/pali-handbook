@@ -26,6 +26,17 @@
 
 ## 进阶用法：
 
+>1. 作及物動詞的直接受詞。
+>2. 為行動（motion）的所到“目標”或“範圍”。 
+>3. 作主要受詞的同位語或補語。
+>4. 表達“關於…人、事、物” 。
+>5. 表達問候（greetings）或詛咒（imprecations）的對象。
+>6. 言說或持取等動詞的“雙受詞” 。
+>7. 作 “時間副詞”，表示不確定的時間。
+>8. 某些形容詞的“n.s.acc.”，可做副詞，用來修飾形容詞、動詞、副詞、片語、句子。
+
+>>——《简明实用文法》
+
 * [hoti](https://github.com/visuddhinanda/pali-handbook/tree/2bef661ecb042a49d05ba6e3a55b4cf13d6f1b57/declension/hoti.md)句式中只有主格
 * [tabba](https://github.com/visuddhinanda/pali-handbook/tree/2bef661ecb042a49d05ba6e3a55b4cf13d6f1b57/declension/tabba.md)句式中动词\(~tabba\)为主格
 
