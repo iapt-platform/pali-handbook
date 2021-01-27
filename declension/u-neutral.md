@@ -6,7 +6,7 @@
 
 | 变格 | 单数 | 例子 | 复数 | 例子 |
 | :--- | :--- | :--- | :--- | :--- |
-| [主格](nom.md) | -x | assu | -ū -ni | ass**ū** assū**ni** |
-| [呼格](voc.md) | -x -ū | assu ass**ū** | -ū -ni | ass**ū** assū**ni** |
-| [宾格](acc.md) | -uṃ | ass**uṃ** | -ū -ni | ass**ū** assū**ni** |
+| [主格](../../declension/nom.md) | -x | assu | -ū -ni | ass**ū** assū**ni** |
+| [呼格](../../declension/voc.md) | -x -ū | assu ass**ū** | -ū -ni | ass**ū** assū**ni** |
+| [宾格](../../declension/acc.md) | -uṃ | ass**uṃ** | -ū -ni | ass**ū** assū**ni** |
 

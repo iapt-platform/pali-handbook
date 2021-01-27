@@ -6,10 +6,10 @@
 
 | 变格 | 单数 | 例子 | 复数 | 例子 |
 | :--- | :--- | :--- | :--- | :--- |
-| [主格](nom.md) | -x | dhenu | -ū -uyo | dhen**ū** dhen**uyo** |
-| [呼格](voc.md) | -x -ā | dhenu dhen**ū** | -ū -uyo | dhen**ū** dhen**uyo** |
-| [宾格](acc.md) | -ṃ | dhenu**ṃ** | -ū -uyo | dhen**ū** dhen**uyo** |
-| [工具格](instr.md) [来源格]() | -yā | dhenu**yā** | -hi -bhi | dhenu**hi**, dhenū**hi** dhenu**bhi**dhenū**bhi** |
-| [属格]()  [与格]() | -yā | dhenu**yā** | -naṃ | dhenu**naṃ**， dhenū**naṃ** |
-| [位置格]() | -yā -yaṃ | dhenu**yā** dhenu**yaṃ** | -su | dhenu**su** dhenū**su** |
+| [主格](../../declension/nom.md) | -x | dhenu | -ū -uyo | dhen**ū** dhen**uyo** |
+| [呼格](../../declension/voc.md) | -x -ā | dhenu dhen**ū** | -ū -uyo | dhen**ū** dhen**uyo** |
+| [宾格](../../declension/acc.md) | -ṃ | dhenu**ṃ** | -ū -uyo | dhen**ū** dhen**uyo** |
+| [工具格](../../declension/instr.md) [来源格](../../declension/abl.md) | -yā | dhenu**yā** | -hi -bhi | dhenu**hi**, dhenū**hi** dhenu**bhi**dhenū**bhi** |
+| [目的格](../../declension/dat.md)<br>[属格](../../declension/gen.md) | -yā | dhenu**yā** | -naṃ | dhenu**naṃ**， dhenū**naṃ** |
+| [位置格](../../declension/lov.md) | -yā -yaṃ | dhenu**yā** dhenu**yaṃ** | -su | dhenu**su** dhenū**su** |
 

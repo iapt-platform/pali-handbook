@@ -6,10 +6,10 @@
 
 | 变格 | 单数 | 例子 | 复数 | 例子 |
 | :--- | :--- | :--- | :--- | :--- |
-| [主格](nom.md) | -x | sālā | -x -āyo | sālā sāl**āyo** |
-| [呼格](voc.md) | -e | sāl**e** | -x -āyo | sālā sāl**āyo** |
-| [宾格](acc.md) | -aṃ | sāl**aṃ** | -x -āyo | sālā sāl**āyo** |
-| [工具格](instr.md)  [来源格]() | -ya | sālā**ya** | -hi -bhi | sālā**hi** sālā**bhi** |
-| [与格]()  [属格]() | -ya | sālā**ya** | -naṃ | sālā**naṃ** |
-| [位置格]() | -ya -yaṃ | sālā**ya** sālā**yaṃ** | -su | sālās**u** |
+| [主格](../../declension/nom.md) | -x | sālā | -x -āyo | sālā sāl**āyo** |
+| [呼格](../../declension/voc.md) | -e | sāl**e** | -x -āyo | sālā sāl**āyo** |
+| [宾格](../../declension/acc.md) | -aṃ | sāl**aṃ** | -x -āyo | sālā sāl**āyo** |
+| [工具格](../../declension/instr.md)  [来源格](../../declension/abl.md) | -ya | sāl**āya** | -hi -bhi | sāl**āhi** sāl**ābhi** |
+| [目的格](../../declension/dat.md)<br>[属格](../../declension/gen.md) | -ya | sāl**āya** | -naṃ | sāl**ānaṃ** |
+| [位置格](../../declension/lov.md) | -ya -yaṃ | sāl**āya** sālā**yaṃ** | -su | sāl**āsu** |
 

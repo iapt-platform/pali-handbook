@@ -11,5 +11,5 @@
 |[宾格](../../declension/acc.md)|-ṃ|purisa**ṃ**|-e|puris**e**|
 |[工具格](../../declension/instr.md)|-ena|puris**ena**|-ehi<br>-ebhi|puris**ehi**<br>puris**ebhi**|
 |[来源格](../../declension/abl.md)|-ā<br>-smā<br>-mhā|puris**ā**<br>purisa**smā**<br>purisa**mhā**|-ehi<br>-ebhi|puris**ehi**<br>puris**ebhi**|
-|[属格](../../declension/gen.md)<br>[与格](../declension/dat.md)|-ssa|puri**ssa**|-naṃ|puris**ānaṃ**|
+|[属格](../../declension/gen.md)<br>[目的格](../declension/dat.md)|-ssa|puri**ssa**|-naṃ|puris**ānaṃ**|
 |[位置格](../../declension/loc.md)|-e<br>-smiṃ<br>-mhi|puris**e**<br>purisa**smiṃ**<br>purisa**mhi**|-su|puris**esu**|
