@@ -4,13 +4,14 @@
 
 例词： rūpa\(色\)
 
-| 变格 | 单数 | 例子 | 复数 | 例子 |
-| :--- | :--- | :--- | :--- | :--- |
-| [主格](../../declension/nom.md) | -aṃ | rūp**aṃ** | -ā -āni | rūp**ā** rūp**āni** |
-| [呼格](../../declension/voc.md) | -a -ā | rūp**a** rūp**ā** | -ā -āni | rūp**ā** rūp**āni** |
-| [宾格](../../declension/acc.md) | -aṃ | rūp**aṃ** | -e -āni | rūp**e** rūp**āni** |
-| [工具格](../../declension/instr.md) | -ena | rūp**ena** | -ehi -ebhi | rūp**ehi** rūp**ebhi** |
-| [来源格](../../declension/abl.md) | -ā  -smā -mhā | rūp**ā** rūpa**smā** rūpa**mhā** | -ehi  -ebhi | rūp**ehi** rūp**ebhi** |
-| [目的格](../../declension/dat.md)<br>[属格](../../declension/gen.md) | -ssa | rūpa**ssa** | -naṃ | rūpā**naṃ** |
-| [位置格](../../declension/lov.md) | -e smiṃ mhi | rūp**e** rūpa**smiṃ** rūpa**mhi** | -su | rūpe**su** |
+
+| 变格 | 单数 | 例子 |复数 | 例子 |
+| --- | ----- | ------ |---- | ---- |
+| [主格<br>nom.](nom.md) |-aṃ  |rūp**aṃ**  | -ā<br>-āni |rūp**ā**<br>rūp**āni**  |
+| [呼格<br>voc.](voc.md) | -a<br>-ā | rūp**a**<br>rūp**ā** |-ā<br>-āni  |rūp**ā**<br>rūp**āni**  |
+| [宾格<br>acc.](acc.md) | -aṃ |rūp**aṃ**  |-e<br>-āni  |rūp**e**<br>rūp**āni**|
+| [工具格<br>instr.](instr.md) |-ena  | rūp**ena** |-ehi<br>-ebhi  |rūp**ehi**<br>rūp**ebhi**|
+| [来源格<br>abl.](abl.md) |-ā <br>-smā<br>-mhā |rūp**ā**<br>rūpa**smā**<br>rūpa**mhā** | -ehi<br> -ebhi    |rūp**ehi**<br>rūp**ebhi**  |
+| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md)  | -ssa |rūpa**ssa**  |-naṃ |rūpā**naṃ**  |
+| [位置格<br>loc.](loc.md) |-e<br>smiṃ<br>mhi  |rūp**e**<br>rūpa**smiṃ**<br>rūpa**mhi**  |-su  |rūpe**su**  |
 

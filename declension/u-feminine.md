@@ -4,12 +4,13 @@
 
 例词： dhenu\(母牛\)
 
-| 变格 | 单数 | 例子 | 复数 | 例子 |
-| :--- | :--- | :--- | :--- | :--- |
-| [主格](../../declension/nom.md) | -x | dhenu | -ū -uyo | dhen**ū** dhen**uyo** |
-| [呼格](../../declension/voc.md) | -x -ā | dhenu dhen**ū** | -ū -uyo | dhen**ū** dhen**uyo** |
-| [宾格](../../declension/acc.md) | -ṃ | dhenu**ṃ** | -ū -uyo | dhen**ū** dhen**uyo** |
-| [工具格](../../declension/instr.md) [来源格](../../declension/abl.md) | -yā | dhenu**yā** | -hi -bhi | dhenu**hi**, dhenū**hi** dhenu**bhi**dhenū**bhi** |
-| [目的格](../../declension/dat.md)<br>[属格](../../declension/gen.md) | -yā | dhenu**yā** | -naṃ | dhenu**naṃ**， dhenū**naṃ** |
-| [位置格](../../declension/lov.md) | -yā -yaṃ | dhenu**yā** dhenu**yaṃ** | -su | dhenu**su** dhenū**su** |
+
+| 变格 | 单数 | 例子 |复数 | 例子 |
+| --- | ----- | ------ |---- | ---- |
+| [主格<br>nom.](nom.md) |-x  |dhenu  |-ū<br>-uyo  |dhen**ū**<br>dhen**uyo**  |
+| [呼格<br>voc.](voc.md) |-x<br>-ā  |dhenu<br>dhen**ū**  |-ū<br>-uyo  |dhen**ū**<br>dhen**uyo**  |
+| [宾格<br>acc.](acc.md) |-ṃ  |dhenu**ṃ**  |-ū<br>-uyo  |dhen**ū**<br>dhen**uyo**  |
+| [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md)  |-yā  |dhenu**yā**  |-hi<br>-bhi  |dhenu**hi**, dhenū**hi**<br>dhenu**bhi**dhenū**bhi** | 
+| [属格<br>gen.](gen.md)<br> [与格<br>dat.](dat.md)  |-yā  |dhenu**yā**  |-naṃ  |dhenu**naṃ**， dhenū**naṃ**|
+| [位置格<br>loc.](loc.md) |-yā<br>-yaṃ  |dhenu**yā**<br>dhenu**yaṃ**  |-su  |dhenu**su**<br>dhenū**su**  |
 
