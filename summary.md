@@ -1,26 +1,93 @@
-# 快速入门指南
+# Table of contents
 
-适合零基础的学习者的指南。包含变格，动词以及句法的基本的概念。
-
-[开始学习](shortcut/summary.md)
-
-# 一万小时巴利语慢成教程
-
-从小白到专家之路。如果您打算学习巴利语到能够阅读和翻译经典（包含义註复註）的程度。这是一个能够满足您的愿望的学习指南。
-
-[开始学习](palistep/summary.md)
-
-
-# 语法手册
-
-| 章节 |  内容  | 
-| ---------- | ------ |
-| [变格](declension/summary.md) | 名词，形容词，数词，代词 |
-| [动词](verbal/summary.md) |  |
-| [不变词]() |  |
-| [接头词]() |  |
-| [接尾词]() |  |
-| [Sandhi]() |  |
-| [复合词]() |  |
-| [词与词关系语法](basic-relation/summary.md) |  |
-| [进阶语法](grammar/summary.md) |  |
+* [首页](readme.md)
+* [变格](declension/README.md)
+  * [变格表](declension/ending-table.md)
+    * 元音结尾
+      * [a阳性](declension/a-masculine.md)
+      * [a中性](declension/a-neutral.md)
+      * [ā阴性](declension/a-feminine.md)
+      * [i阳性](declension/i-masculine.md)
+      * [i中性](declension/i-neutral.md)
+      * [ī阴性](declension/i-feminine.md)
+      * [u阳性](declension/u-masculine.md)
+      * [u中性](declension/u-neutral.md)
+      * [ū阴性](declension/u-feminine.md)
+    * 辅音结尾
+      * [an 阳性](declension/an-masculine.md)
+      * [ant 阳性](declension/ant-masculine.md)
+      * [ant 中性](declension/ant-neutral.md)
+      * [in 阳性](declension/in-masculine.md)
+      * [in 中性](declension/in-neutral.md)
+      * [as 中性](declension/as-neutral.md)
+      * [us](declension/us.md)
+      * [ar 阳性](declension/ar-masculine.md)
+      * [ar 阴性](declension/ar-feminine.md)
+    * 代词
+      * [第一人称](declension/amha.md)
+      * [第二人称](declension/tumha.md)
+      * 第三人称
+        * [ta](declension/ta.md)
+        * [eta](declension/eta.md)
+        * [ya](declension/eta.md)
+        * [sa](declension/eta.md)
+      * [ka](declension/ka.md)
+      * [kaci](declension/eta.md)
+      * [sabba](declension/eta.md)
+    * [数词](declension/number-ref.md)
+      * [基数词和序数词表](declension/number-cardinal-ordinal.md) 
+      * [Eka 变化表](declension/eka.md)
+      * [Dvi 变化表](declension/dvi.md)
+      * [Ubha 变化表](declension/ubha.md)
+      * [Ti 变化表](declension/ti.md)
+      * [Catu 变化表](declension/catu.md)
+      * [Pañca 变化表](declension/panca.md)
+  * [格](declension/declension.md)
+    * [主格](declension/nom.md)
+    * [呼格](declension/voc.md)
+    * [宾格](declension/acc.md)
+    * [来源格](declension/abl.md)
+    * [工具格](declension/instr.md)
+    * [属格](declension/gen.md)
+    * [为格](declension/dat.md)
+    * [位置格](declension/loc.md)
+  * [数](declension/number.md)
+  * [性](declension/gender.md)
+* [动词](verbal/verbal.md)
+  * [动词变化表](verbal/verb-table.md)
+  * [时态和语气](verbal/ten.md)
+    * [现在时](verbal/present.md)
+  * [分词](verbal/participle.md)
+    * [现在分词](verbal/prp.md)
+    * [过去分词](verbal/pp.md)
+    * [未来分词](verbal/fpp.md)
+    * [连续体](verbal/ger.md)
+    * [不定体](verbal/inf.md)
+* [基本关系语法](basic-relation/README.md)
+  * [主格](basic-relation/nom.md)
+    * [NIO](nom-nio.md)
+    * [NID](nom-nid.md)
+    * [DASO-P](nom-daso.md)
+    * [DASO-S](nom-daso.md)
+    * [DASD-P](nom-dasd.md)
+    * [DASD-S](nom-dasd.md)
+    * [ASV](nom-asv.md)
+    * [AOV](nom-aov.md)
+    * [DAO](nom-dao.md)
+  * [呼格](basic-relation/voc.md)
+  * [宾格](basic-relation/acc.md)
+    * [IOV](iov.md)
+    * [DIO-P](dio.md)
+    * [DIO-S](dio.md)
+    * [STC](stc.md)
+    * [ADV](adv.md)
+* [高级语法](grammar/README.md)
+  * [Hoti](grammar/hoti.md)
+  * [Tabba](grammar/tabba.md)
+* 参考手册
+  * [语法缩略语表](grammar-abbr.md) |  |
+  * [三藏缩略语表](pali-abbr.md) |  |
+* 快速指南
+  * [开始](shortcut/readme.md)
+  * [句子构成](shortcut/sentence.md)  
+  * [名词](shortcut/noun.md)

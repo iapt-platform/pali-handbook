@@ -1,8 +1,9 @@
-[返回变格目录](summary.md)
+# a 结尾的中性名词
 
-# a 结尾的[中性](neutral.md)名词
+[返回变格目录](declension.md)
 
-例词： rūpa(色)
+例词： rūpa\(色\)
+
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
@@ -13,3 +14,4 @@
 | [来源格<br>abl.](abl.md) |-ā <br>-smā<br>-mhā |rūp**ā**<br>rūpa**smā**<br>rūpa**mhā** | -ehi<br> -ebhi    |rūp**ehi**<br>rūp**ebhi**  |
 | [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md)  | -ssa |rūpa**ssa**  |-naṃ |rūpā**naṃ**  |
 | [位置格<br>loc.](loc.md) |-e<br>smiṃ<br>mhi  |rūp**e**<br>rūpa**smiṃ**<br>rūpa**mhi**  |-su  |rūpe**su**  |
+

@@ -1,8 +1,9 @@
-[返回变格目录](summary.md)
+# i 结尾的中性名词
 
-# i 结尾的[中性](neutral.md)名词
+[返回变格目录](declension.md)
 
-例词：Akkhi(眼睛)
+例词：Akkhi\(眼睛\)
+
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | ---| -----| ------|----| ----|
@@ -12,3 +13,4 @@
 | [来源格<br>abl.](abl.md) |-nā|Akkhi**nā**|-hi<br>-bhi| Akkhī**hi**<br>Akkhī**bhi**<br> Akkhi**hi**<br>Akkhi**bhi** |
 | [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |-no| Akkhi**no** | -naṃ | Akkhi**naṃ**<br>Akkhi**naṃ** |
 | [位置格<br>loc.](loc.md) |-smiṃ<br>-mhi| Akkhi**smiṃ**<br>Akkhi**mhi** |  -su | Akkhi**su**<br>Akkhi**su** |
+

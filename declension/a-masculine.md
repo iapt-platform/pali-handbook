@@ -1,8 +1,9 @@
-[返回变格目录](summary.md)
+#a结尾的[阳性](masculime.md)名词
 
-# a 结尾的[阳性](masculime.md)名词
+[返回变格目录](declension.md)
 
-例词：Purisa(男人)
+例词：Purisa\(男人\)
+
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |

@@ -1,8 +1,8 @@
-[返回变格目录](summary.md)
+# u 结尾的中性名词
 
-# u 结尾的[中性](neutral.md)名词
+[返回变格目录](declension.md)
 
-例词： assu(泪)
+例词： assu\(泪\)
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
@@ -13,3 +13,4 @@
 | [来源格<br>abl.](abl.md) |-nā<br>-smā<br>-mhā  |assu**nā**<br>assu**smā**<br>assu**mhā**  | -hi<br>-bhi |assu**hi**, assū**hi**<br>assu**bhi**, assū**bhi**    |
 | [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |-no<br>-ssa|assu**no**<br>assu**ssa**  |-naṃ  |assu**naṃ**<br>assū**naṃ**  |
 | [位置格<br>loc.](loc.md) |-smiṃ<br>-mhi  |assu**smiṃ**<br>taru**mhi**  |-su  |assu**su**, assū**su**  |
+

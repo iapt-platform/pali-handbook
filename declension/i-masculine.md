@@ -1,8 +1,9 @@
-[返回变格目录](summary.md)
+#i结尾的[阳性](masculime.md)名词
 
-# i 结尾的[阳性](masculime.md)名词
+[返回变格目录](declension.md)
 
-例词：Muni(圣贤)
+例词：Muni\(圣贤\)
+
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
@@ -13,3 +14,4 @@
 | [来源格<br>abl.](abl.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br>  Muni**hi** <br> Muni**bhi** |
 | [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |-no| Muni**no** | - naṃ| Munī**naṃ**<br> Muni**naṃ**|
 | [位置格<br>loc.](loc.md) |-smiṃ<br>-mhi| Muni**smiṃ**<br> Muni**mhi** |  - su | Muni**su** <br> Muni**su** |
+

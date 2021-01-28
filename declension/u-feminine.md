@@ -1,8 +1,9 @@
-[返回变格目录](summary.md)
+# u 结尾的阴性名词
 
-# u 结尾的[阴性](feminine.md)名词
+[返回变格目录](declension.md)
 
-例词： dhenu(母牛)
+例词： dhenu\(母牛\)
+
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
@@ -12,3 +13,4 @@
 | [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md)  |-yā  |dhenu**yā**  |-hi<br>-bhi  |dhenu**hi**, dhenū**hi**<br>dhenu**bhi**dhenū**bhi** | 
 | [属格<br>gen.](gen.md)<br> [与格<br>dat.](dat.md)  |-yā  |dhenu**yā**  |-naṃ  |dhenu**naṃ**， dhenū**naṃ**|
 | [位置格<br>loc.](loc.md) |-yā<br>-yaṃ  |dhenu**yā**<br>dhenu**yaṃ**  |-su  |dhenu**su**<br>dhenū**su**  |
+
