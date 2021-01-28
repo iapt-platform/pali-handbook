@@ -18,10 +18,10 @@
 
 ## 常见用法：
 
+通常，主格是动作的发出者。
+
 >「主格」语尾变化的名词被使用**当作一个句子的主词**。
 >>——《巴利入门》
-
-
 
 
 **例句：**
@@ -38,6 +38,13 @@
 >4. “**往诣结构**”的“**对象**”，也就是yena（某人nom.）tena…这句型。
 >5. 在使用“**引号iti**”时所引用的“**单词内容**”。
 >>——《简明实用文法》
+
+>594.主格用法跟英語非常像,它是動詞的主詞。動詞在人稱及單、複數上, 必須與主詞一致(見590)。
+>
+>(i) 主格被用作同位語(apposition),如: malliko kosalaraja (Mallika指茉莉、勝鬘夫人,其夫為憍薩羅國王波斯匿。malliko 指波斯匿王,與kosalaraja憍薩羅國王為同位語。)
+>
+>(ii) 書名標題裡獨立使用主格,不需採適當的語尾變化,如: mahajanakajataka (《大闍那伽王本生經》,“The Birth Story of Mahajanaka”)
+>>——《实用巴利文法》（A Practical Grammar of the Pali Language）
 
 * [主格之关系语法手册](../basic-relation/nom.md)
 * [主格相关句型手册](../grammar/grammar.md)
