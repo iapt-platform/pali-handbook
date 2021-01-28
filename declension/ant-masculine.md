@@ -4,13 +4,14 @@
 
 例词：sīlav\(具戒者\)
 
-| 变格 | 单数 | 例子 | 复数 | 例子 |
-| :--- | :--- | :--- | :--- | :--- |
-| [主格](../../declension/nom.md) | -ā -anto | sīlav**ā** sīlav**anto** | -anto -antā | sīlav**anto** sīlav**antā** |
-| [呼格](../../declension/voc.md) | -a -ā -aṃ | sīlav**a** sīlav**ā** sīlav**aṃ** | -anto -antā | sīlav**anto** sīlav**antā** |
-| [宾格](../../declension/acc.md) | -aṃ -antaṃ | sīlav**aṃ** sīlav**antaṃ** | -anto -ante | sīlav**anto** sīlav**ante** |
-| [工具格](../../declension/instr.md) | -atā -antena | sīlav**atā** sīlav**antena** | -antehi -antebhi | sīlav**antehi** sīlav**antebhi** |
-| [来源格](../../declension/abl.md) | -atā -antā -antasmā -antamhā | sīlav**atā** sīlav**antā** sīlav**antasmā** sīlav**antamhā** | -antehi -antebhi | sīlav**antehi** sīlav**antebhi** |
-| [目的格](../../declension/dat.md)<br>[属格](../../declension/gen.md) | -vto -antassa -assa | sīlav**ato** sīlav**antassa** sīlav**assa** | -ataṃ -antānaṃ | sīlav**ataṃ** sīlav**antānaṃ** |
-| [位置格](../../declension/lov.md) | -ati -ante -antasmiṃ -antamhi | sīlav**ati** sīlav**ante** sīlav**antasmiṃ** sīlav**antamhi** | -antesu | sīlav**antesu** |
+
+| 变格 | 单数 | 例子 |复数 | 例子 |
+| --- | ----- | ------ |---- | ---- |
+| [主格<br>nom.](nom.md) | -ā<br>-anto | sīlav**ā**<br>sīlav**anto** | -anto<br>-antā |sīlav**anto**<br>sīlav**antā**  |
+| [呼格<br>voc.](voc.md) | -a<br>-ā<br>-aṃ | sīlav**a**<br>sīlav**ā**<br>sīlav**aṃ** |-anto<br>-antā | sīlav**anto**<br>sīlav**antā** |
+| [宾格<br>acc.](acc.md) |-aṃ<br>-antaṃ  |sīlav**aṃ**<br>sīlav**antaṃ**  |-anto<br>-ante  |sīlav**anto**<br>sīlav**ante**  |
+| [工具格<br>instr.](instr.md) |-atā<br>-antena  |sīlav**atā**<br>sīlav**antena**  |-antehi<br>-antebhi|sīlav**antehi**<br>sīlav**antebhi**  |
+| [来源格<br>abl.](abl.md) |-atā<br>-antā<br>-antasmā<br>-antamhā  |sīlav**atā**<br>sīlav**antā**<br>sīlav**antasmā**<br>sīlav**antamhā**  |-antehi<br>-antebhi  |sīlav**antehi**<br>sīlav**antebhi**  |
+| [与格<br>dat.](dat.md)<br>[属格<br>gen.](gen.md) |-vto<br>-antassa<br>-assa  |sīlav**ato**<br>sīlav**antassa**<br>sīlav**assa**  |-ataṃ<br>-antānaṃ  |sīlav**ataṃ**<br>sīlav**antānaṃ**  |
+| [位置格<br>loc.](loc.md) |-ati<br>-ante<br>-antasmiṃ<br>-antamhi |sīlav**ati**<br>sīlav**ante**<br>sīlav**antasmiṃ**<br>sīlav**antamhi**  |-antesu  |sīlav**antesu**  |
 
