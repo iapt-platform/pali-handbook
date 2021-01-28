@@ -84,6 +84,8 @@
 * [高级语法](grammar/README.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
+* 参考手册
+  * [语法缩略语表](abbr.md)
 * 快速指南
   * [开始](shortcut/readme.md)
   * [句子构成](shortcut/sentence.md)  
