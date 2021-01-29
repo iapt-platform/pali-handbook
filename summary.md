@@ -84,7 +84,7 @@
 * [高级语法](grammar/README.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
-* [二次衍生](derivative\prefix.md)
+* [二次衍生](derivative\readme.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
 * 参考手册
