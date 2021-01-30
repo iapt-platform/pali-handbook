@@ -16,5 +16,6 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
 	},
-	"language": "zh-hans"
+        "plugins": ["mermaid-gb3"],
+        "language": "zh-hans"
 }
