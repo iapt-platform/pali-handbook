@@ -2,11 +2,15 @@
 
 Dvi (二, two)
 
-注意：该词没有单复数的区别
+**注意：该词没有单复数的区别**
 
 | 格 | 拼写 |
-| -- | -- |
-|主、對格|dve, duve|
-|屬、為格|dvinnaṃ, duvinnaṃ|
-|具、從格|dvihi, dvibhi|
-|處格|dvisu|
+| --- | --- |
+| [主格](nom.md) | dve<br>duve | 
+| [宾格](acc.md) | dve<br>duve | 
+| [工具格](instr.md) | dvīhi<br>dvibhi<br>dvībhi |
+| [与格](dat.md) | dvinnaṃ<br>duvinnaṃ |
+| [来源格](abl.md) | dvīhi<br>dvībhi |
+| [属格](gen.md) | dvinnaṃ<br>duvinnaṃ |
+| [位置格](loc.md) | dvīsu |
+|[在复合词中] | dvi |
