@@ -1,15 +1,16 @@
-#i结尾的[阴性](feminine.md)名词
+# catu变格表[阳复.中复.阴复]名词
 
-[返回变格目录](declension.md)
-
-例词：catu(出身)
+例词：catu(四)
 
 
-| 变格 |复数 | 例子 |
-| --- | ----- | ------ |
-| [主格<br>nom.](nom.md) |
-| [呼格<br>voc.](voc.md) |
-| [宾格<br>acc.](acc.md) | 
-| [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md) | 
- [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |
-| [位置格<br>loc.](loc.md) |
+| 变格 |阳复数 |中复数 |阴复数 |
+| --- | ----- | ------ | ------ |
+| [主格<br>nom.](nom.md)<br>[宾格<br>acc.](nom.md) |cattāro<br>caturo |cattāri |cattasso|
+| [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md) |ctūhi |ctūhi |ctūhi |
+ [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |catunnaṃ |catunnaṃ |catassannaṃ  |
+| [位置格<br>loc.](loc.md) |catusu<br>catūsu |catusu<br>catūsu |catusu<br>catūsu  |
+
+
+[在复合词中<br>comps.](comps.md) ：
+- catur
+- catu

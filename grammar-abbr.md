@@ -28,10 +28,10 @@
 | sandhi      | slur.        | 连读 | 连读     |                             |
 |             | interj.      | 感叹 | 感叹    | interjection                |
 | samāsa.     | comp.        | 复合 | 复合    |                             |
-|             | prefix.      | 前缀 | 前缀     | prefix                      |
+|             | pref. / prefix.      | 前缀 | 前缀     | prefix                      |
 |             | part         | 待定片段 |   |                          |
 | dhātu       | root.        | 词根 | 词根     |                             |
-|             | suffix.      | 后缀 | 后缀     |                             |
+|             | suf./suffix.      | 后缀 | 后缀     |                             |
 | vibhatti    | case end.    | 语尾 | 语尾     |                             |
 |             | note.        | 原版注释| 原版注释 | note from original article  |
 | 变格 |      |   |       |  |

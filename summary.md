@@ -49,7 +49,7 @@
     * [来源格](declension/abl.md)
     * [工具格](declension/instr.md)
     * [属格](declension/gen.md)
-    * [为格](declension/dat.md)
+    * [目的格](declension/dat.md)
     * [位置格](declension/loc.md)
   * [数](declension/number.md)
   * [性](declension/gender.md)
@@ -57,6 +57,11 @@
   * [动词变化表](verbal/verb-table.md)
   * [时态和语气](verbal/ten.md)
     * [现在时](verbal/present.md)
+    * [过去时](verbal/aor.md)
+    * [未来时](verbal/fut.md)
+    * [命令式](verbal/imp.md)
+    * [潜能式](verbal/opt.md)
+    * [条件式](verbal/cond.md)
   * [分词](verbal/participle.md)
     * [现在分词](verbal/prp.md)
     * [过去分词](verbal/pp.md)
@@ -84,6 +89,9 @@
 * [高级语法](grammar/README.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
+* [二次衍生](derivative\readme.md)
+  * [接头词](derivative\prefix.md)
+  * [接尾词](derivative\suffix.md)
 * 参考手册
   * [语法缩略语表](grammar-abbr.md) |  |
   * [三藏缩略语表](pali-abbr.md) |  |

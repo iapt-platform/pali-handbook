@@ -20,28 +20,28 @@
 |sorasa, sorasa|十六	|sorasama|第十六|
 |sattadasa, sattarasa|十七	|sattadasama|第十七|
 |atthadasa, attharasa|十八	|atthadasama|第十八|
-|ekunavisati, ekunavisaj|十九	|ekunavisatima|第十九|
-|visati, visaj|二十	|visatima|第二十|
-|ekavisati, ekavisaj|二一	|ekavisatima|第二一|
+|ekunavisati, ekunavisaṃ|十九	|ekunavisatima|第十九|
+|visati, visaṃ|二十	|visatima|第二十|
+|ekavisati, ekavisaṃ|二一	|ekavisatima|第二一|
 |dvavisati|二二	|dvavisatima|第二二|
 |tevisati|二三	|tevisatima|第二三|
 |catuvisati|二四	|catuvisatima|第二四|
 |pabcavisati|二五	|pabcavisatima|第二五|
 |chabbisati|二六	|chabbisatima|第二六|
 |sattabisati, sattavisati|二七	|sattabisatima|第二七|
-|atthavisaj|二八	|atthavisatima|第二八|
-|ekunatijsati, ekunatijsaj|二九	|ekunatijsatima|第二九|
-|tijsati, tijsaj|三十	|tijsatima|第三十|
+|atthavisaṃ|二八	|atthavisatima|第二八|
+|ekunatijsati, ekunatijsaṃ|二九	|ekunatijsatima|第二九|
+|tijsati, tijsaṃ|三十	|tijsatima|第三十|
 |ekatijsati|三一	|ekatijsatima|第三一|
 |dvattijsati|三二	|dvattijsatima|第三二|
-|cattalisaj, cattarisaj|四十	|cattalisatima|第四十|
-|pabbasa, pabbasaj|五十	|pabbasama|第五十|
+|cattalisaṃ, cattarisaṃ|四十	|cattalisatima|第四十|
+|pabbasa, pabbasaṃ|五十	|pabbasama|第五十|
 |satthi|六十	|satthima|第六十|
 |sattati|七十	|sattatima |第七十|
 |asiti|八十	|asitima|第八十|
 |navuti|九十	|navutima|第九十|
-|sataj|一百	|satama|第一百|
-|basataj, dvasataj|兩百	|basatama|第兩百|
-|sahassaj|一千	|sahassama|第一千|
-|dasasahassaj|一萬	|dasasahassama|第一萬|
+|sataṃ|一百	|satama|第一百|
+|basataṃ, dvasataṃ|兩百	|basatama|第兩百|
+|sahassaṃ|一千	|sahassama|第一千|
+|dasasahassaṃ|一萬	|dasasahassama|第一萬|
 |koti |一俱胝	|kotima|第一俱胝|
