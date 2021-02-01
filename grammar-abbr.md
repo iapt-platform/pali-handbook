@@ -6,7 +6,7 @@
 | nāma        | n.           | 名   |  名词    | noun |
 | kriyā       | v.           | 动  | 动     | verb |
 | kriyā:bya   | v.ind.       | 动不变 | 动不变  | verb indeclinable |
-| bya         | ind.         | 不变 | 不变     | indeclinable |
+| bya         | ind. / indecl. /【无】  | 不变 | 不变     | indeclinable |
 | karaṇattha  | adv.         | 副  | 副       | adverb |
 | ti          | adj. / a.        | 形  | 形      | adjective |
 |             | v:base.      | 动原型 | 动原型  | verb : root |
@@ -35,7 +35,7 @@
 | vibhatti    | case end.    | 语尾 | 语尾     |                             |
 |             | note.        | 原版注释| 原版注释 | note from original article  |
 | 变格 |      |   |       |  |
-| na          | nt.          | 中 | 中性       | neuter     |
+| na          | nt.  / n.        | 中 | 中性       | neuter     |
 | pu          | m.           | 阳 | 阳性       | masculine  |
 | thī         | f.           | 阴 | 阴性       | feminine   |
 | eka         | sg.          | 单 | 单数       | singular    |
