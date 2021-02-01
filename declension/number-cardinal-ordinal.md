@@ -44,4 +44,6 @@
 |basataṃ, dvasataṃ|兩百	|basatama|第兩百|
 |sahassaṃ|一千	|sahassama|第一千|
 |dasasahassaṃ|一萬	|dasasahassama|第一萬|
-|koti |一俱胝	|kotima|第一俱胝|
+|satasahassaṃ|十万	|dasasahassama|第十万|
+|koti |千万	|kotima|第一千万|
+|satasahassakoṭi|十万	|dasasahassama|第十万|
