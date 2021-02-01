@@ -9,4 +9,4 @@
 |屬、為格|ekassa|ekassa|ekissa<br>ekissaya|ekesaṃ|ekesaṃ|ekasaṃ|
 |具格|ekena|ekena|ekaya|ekehi<br>ekebhi|ekehi<br>ekebhi|ekahi<br>ekabhi|
 |從格|ekasma<br>ekamha|ekasma<br>ekamha|ekaya|ekehi<br>ekebhi|ekehi<br>ekebhi|ekahi<br>ekabhi|
-|處格|ekasmiṃ<br>ekamhi|ekasmiṃ<br>ekamhi|ekaya<br>ekissaṃ|ekesu|ekehi<br>ekebhi|ekasu|
+|處格|ekasmiṃ<br>ekamhi|ekasmiṃ<br>ekamhi|ekaya<br>ekissaṃ|ekesu|ekehi<br>ekebhi|e
