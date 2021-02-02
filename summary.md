@@ -29,6 +29,7 @@
       * 第三人称
         * [ta](declension/ta.md)
         * [eta](declension/eta.md)
+        * [ima](declension/ima.md)
         * [ya](declension/ya.md)
       * [ka](declension/ka.md)
       * [kaci](declension/eta.md)
