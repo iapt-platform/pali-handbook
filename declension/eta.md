@@ -1,14 +1,36 @@
-# 代词-第三人称 Eta
+# 代词-第三人称eta
 
-词干： Eta
+词干：eta
 释义： 
 
-
-| 变格 | 单数  |复数 |
+## 阳性
+变格 | 单数 |复数 |
 | --- | ----- | ------ |
-| [主格<br>nom.](nom.md) | -x | sālā |
-| [呼格<br>voc.](voc.md) |-e  | sāl**e** |-x<br>-āyo  |sālā<br>sāl**āyo**  |
-| [宾格<br>acc.](acc.md) | -aṃ |sāl**aṃ**  |-x<br>-āyo  |sālā<br>sāl**āyo**  |
-| [工具格<br>instr.](instr.md) <br>[来源格<br>abl.](abl.md)|-ya |sālā**ya**  |-hi<br>-bhi  |sālā**hi**<br>sālā**bhi**  |
-|[与格<br>dat.](dat.md)<br> [属格<br>gen.](gen.md) |-ya  |sālā**ya**  |-naṃ  |sālā**naṃ**  |
-| [位置格<br>loc.](loc.md) |-ya<br>-yaṃ  |sālā**ya**<br>sālā**yaṃ**  |-su  |sālās**u**  |
+| [主格<br>nom.](nom.md) |eso |ete |
+| [宾格<br>acc.](acc.md) |etaṃ |ete |
+| [工具格<br>instr.](instr.md) |etena |etehi<br>etebhi |
+| [来源格<br>abl.](abl.md) |etasmā<be>etamhā |etehi<br>etebhi |
+| [与格<br>dat.](dat.md)<br>[属格<br>gen.](gen.md) |etassa |etesaṃ<br>etesānaṃ |
+| [位置格<br>loc.](loc.md) |etasmiṃ<br>etamhi |etesu |
+
+
+## 中性
+变格 | 单数 |复数 |
+| --- | ----- | ------ |
+| [主格<br>nom.](nom.md) |etaṃ |etāni |
+| [宾格<br>acc.](acc.md) |etaṃ |etāni |
+| [工具格<br>instr.](instr.md) |etena |etehi<br>etebhi |
+| [来源格<br>abl.](abl.md) |etasmā<be>etamhā |etehi<br>etebhi |
+| [与格<br>dat.](dat.md)<br>[属格<br>gen.](gen.md) |etassa |etesaṃ<br>etesānaṃ |
+| [位置格<br>loc.](loc.md) |etasmiṃ<br>etamhi |etesu |
+
+
+
+## 阴性
+变格 | 单数 |复数 |
+| --- | ----- | ------ |
+| [主格<br>nom.](nom.md) |esā |etā<br>etāyo |
+| [宾格<br>acc.](acc.md) |etaṃ |etā<br>etāyo |
+| [工具格<br>instr.](instr.md)<brt>[来源格<br>abl.](abl.md) |etāya<br>etassā<br>etissā |etāhi<br>etabhi |
+| [与格<br>dat.](dat.md)<br>[属格<br>gen.](gen.md)  |etāya<br>etassā<br>etissā<br>etassāya<br>etissāya |etāsam<br>etāsānam |
+| [位置格<br>loc.](loc.md) |etāya<br>etāyam<br>etassā<br>etissā<br>etassam<br>etissam |etāsu |
