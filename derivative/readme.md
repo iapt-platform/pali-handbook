@@ -1,5 +1,15 @@
 # 衍生词
 
+- 英语： Secondary Derivatives 
+- 巴利术语： Taddhita
+
+
+动词的二次衍生包含：
+
+1. [谓语动词](verbal.md)
+2. [分词](particle.md)
+3. 不变分词
+
 ## 单词构成
 
 ### 变格词

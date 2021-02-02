@@ -1,7 +1,8 @@
-# ā 结尾的阴性名词
+# 代词-第三人称 Ta
 
+词干： Ta
+释义： 这，那，他，她，它
 
-例词： sālā\(棚\)
 
 | 变格 | 单数 | 例子 |复数 | 例子 |
 | --- | ----- | ------ |---- | ---- |
@@ -11,4 +12,3 @@
 | [工具格<br>instr.](instr.md) <br>[来源格<br>abl.](abl.md)|-ya |sālā**ya**  |-hi<br>-bhi  |sālā**hi**<br>sālā**bhi**  |
 |[与格<br>dat.](dat.md)<br> [属格<br>gen.](gen.md) |-ya  |sālā**ya**  |-naṃ  |sālā**naṃ**  |
 | [位置格<br>loc.](loc.md) |-ya<br>-yaṃ  |sālā**ya**<br>sālā**yaṃ**  |-su  |sālās**u**  |
-

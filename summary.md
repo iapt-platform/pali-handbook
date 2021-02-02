@@ -29,11 +29,11 @@
       * 第三人称
         * [ta](declension/ta.md)
         * [eta](declension/eta.md)
-        * [ya](declension/eta.md)
-        * [sa](declension/eta.md)
+        * [ima](declension/ima.md)
+        * [ya](declension/ya.md)
       * [ka](declension/ka.md)
       * [kaci](declension/eta.md)
-      * [sabba](declension/eta.md)
+      * [sabba](declension/sabba.md)
     * [数词](declension/number-ref.md)
       * [基数词和序数词表](declension/number-cardinal-ordinal.md) 
       * [Eka 变化表](declension/eka.md)
@@ -90,6 +90,7 @@
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
 * [二次衍生](derivative\readme.md)
+  * [分词](derivative\particle.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
 * 参考手册

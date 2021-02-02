@@ -1,17 +1,13 @@
 #i结尾的[阳性](masculime.md)名词
 
-[返回变格目录](declension.md)
-
-例词：Muni\(圣贤\)
-
-
-| 变格 | 单数 | 例子 |复数 | 例子 |
+| 变格 | 单数 | 例词 |复数 | 例词 |
 | --- | ----- | ------ |---- | ---- |
-| [主格<br>nom.](nom.md) |-x|Mun**i**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [呼格<br>voc.](voc.md) |-x<br>-ī|Mun**i**<br>Mun**i**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [宾格<br>acc.](acc.md) |-m|Muni**ṃ**|-ī<br>-ayo| Mun**ī** <br> Mun**ayo** |
-| [工具格<br>instr.](instr.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br> Muni**hi** <br> Muni**bhi** |
-| [来源格<br>abl.](abl.md) |-nā|Muni**nā**|-hi<br>-bhi| Munī**hi** <br> Munī**bhi** <br>  Muni**hi** <br> Muni**bhi** |
-| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |-no| Muni**no** | - naṃ| Munī**naṃ**<br> Muni**naṃ**|
-| [位置格<br>loc.](loc.md) |-smiṃ<br>-mhi| Muni**smiṃ**<br> Muni**mhi** |  - su | Muni**su** <br> Muni**su** |
-
+| [主格<br>nom.](nom.md) | ī |    | ī<br>ino |   |
+| [宾格<br>acc.](acc.md) | inaṃ<br>im |    | ī<br>ino |    |
+| [工具格<br>instr.](instr.md) | inā |    | īhi<br>ibhi |    |
+| [与格<br>dat.](dat.md) | ino<br>iaas |    | īnaṃ |    |
+| [来源格<br>abl.](abl.md) | inā<br>imhā<br>ismā |    | īhi<br>ibhi |    |
+| [属格<br>gen.](gen.md) | ino<br>issa |    | īnaṃ |    |
+| [位置格<br>loc.](loc.md) | ini<br>imhi<br>ismim |    | īsu |    |
+| [呼格<br>voc.](voc.md) | ī |    | ī<br>ino |    |
+| [在复合词中] | i<br>ī |
