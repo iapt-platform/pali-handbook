@@ -25,10 +25,18 @@
 
 ## 进阶用法：
 
-* [主格之关系语法手册](../basic-relation/nom.md)
-* [主格相关句型手册](../grammar/grammar.md)
-* [hoti](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/declension/hoti.md)句式中只有主格
-* [tabba](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/declension/tabba.md)句式中动词\(~tabba\)为主格
+>1. 表達“所有、範圍”（某人、事、物的所有者；部分的全體）
+>2. 是“名詞與名詞”間的關係。直接放在名詞前，表該名詞的“所有者”。
+>3. 表達“某人有…想法”（gen.+be動詞）
+>4. 表達“經過…的時間”
+>5. 作“分詞”的
+>		- 作者=>功用等於“具格”
+>		- 受者=>功用等於“對格”
+>6. 可以代替具格表達“充滿、具有”之義。
+>7. 常與表“方位”的不變詞連用，表達“在ā的（gen.）前、後、北方…等”。
+>>——《简明实用文法》
+
+
 
 ## 相关资料：
 
