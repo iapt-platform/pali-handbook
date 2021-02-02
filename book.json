@@ -3,7 +3,8 @@
         "description": "巴利语手册 包含各种变格表",
         "structure": {
         "readme": "readme.md",
-        "summary":"summary.md"
+        "summary":"summary.md",
+        "glossory":"glossory.md"
         },
         "introduction": {
                 "path": "readme.md",
