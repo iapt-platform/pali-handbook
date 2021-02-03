@@ -7,7 +7,7 @@
 | --- | ----- | ------ | ------ |
 | [主格<br>nom.](nom.md)<br>[宾格<br>acc.](nom.md) |cattāro<br>caturo |cattāri |cattasso|
 | [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md) |ctūhi |ctūhi |ctūhi |
- [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |catunnaṃ |catunnaṃ |catassannaṃ  |
+ [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md) |catunnaṃ |catunnaṃ |catassannaṃ  |
 | [位置格<br>loc.](loc.md) |catusu<br>catūsu |catusu<br>catūsu |catusu<br>catūsu  |
 
 
