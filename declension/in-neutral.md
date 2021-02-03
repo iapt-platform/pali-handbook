@@ -5,7 +5,7 @@
 | [主格<br>nom.](nom.md) | i |    | ī<br>ayo |   |
 | [宾格<br>acc.](acc.md) | iṃ |    | ī<br>ayo |    |
 | [工具格<br>instr.](instr.md) | inā |    | īhi<br>ībhi<br>ibhi |    |
-| [与格<br>dat.](dat.md) | ino<br>issa |    | īnaṃ |    |
+| [目的格<br>dat.](dat.md) | ino<br>issa |    | īnaṃ |    |
 | [来源格<br>abl.](abl.md) | inā<br>imhā<br>ismā |    | īhi<br>ībhi<br>ibhi |    |
 | [属格<br>gen.](gen.md) | ino<br>issa |    | īnaṃ |    |
 | [位置格<br>loc.](loc.md) | imhi<br>ismiṃ |    | īsu |    |

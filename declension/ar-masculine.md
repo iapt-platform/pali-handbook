@@ -12,5 +12,5 @@
 | [宾格<br>acc.](acc.md) |-aṃ  | puris**aṃ** |  -e| puris**e** |
 | [工具格<br>instr.](instr.md) |-ena  | puri**ena** |-ehi<br>-ebhi  |puris**ehi**<br>puris**ebhi**|
 | [来源格<br>abl.](abl.md) |-ā <br>-smā<br>-mhā |puris**ā**<br>purisa**smā**<br>purisa**mhā** | -ehi<br>-ebhi |puris**ehi**<br>puris**ebhi**  |
-| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md)  | -ssa |puri**ssa**  | -naṃ |purisā**naṃ**  |
+| [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md)  | -ssa |puri**ssa**  | -naṃ |purisā**naṃ**  |
 | [位置格<br>loc.](loc.md) |-e<br>smiṃ<br>mhi  |puris**e**<br>purisa**smiṃ**<br>purisa**mhi**  |-su  |purise**su**  |
