@@ -4,7 +4,7 @@
 释义： 我，我们
 
 
- 变格 | 单数 |复数 |
+| 变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md) | ahaṃ | mayaṃ<br>amhe |
 | [宾格<br>acc.](acc.md) | maṃ<br>mamaṃ<br>me | amhe<br>amhākaṃ<br>no |
