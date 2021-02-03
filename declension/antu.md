@@ -12,7 +12,7 @@
 | [宾格<br>acc.](acc.md) |-antaṃ|bhagavantaṃ|-ante|bhagavante|
 | [工具格<br>instr.](instr.md) |-atā<br>-antena|bhagavantā<br>bhagavantena|-antehi|bhagavantehi|
 | [来源格<br>abl.](abl.md) |-atā<br>-antā<br>-antasmā<br>-antamhā|bhagavatā<br>bhagavantā<br>bhagavantasmā<br>bhagavantamhā|-antehi|bhagavantehi|
-| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md)  |-ato<br>-antassa|bhagavato<br>bhagavantassa|-ataṃ<br>-antānaṃ|bhagavataṃ<br>-bhagavantānaṃ|
+| [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md)  |-ato<br>-antassa|bhagavato<br>bhagavantassa|-ataṃ<br>-antānaṃ|bhagavataṃ<br>-bhagavantānaṃ|
 | [位置格<br>loc.](loc.md) |-ati<br>-ante<br>-antasmiṃ<br>-antamhi|bhagavati<br>bhagavante<br>bhagavantasmiṃ<br>bhagavantamhi|-antesu|bhagavantesu|
 
 # bhagavantu 结尾的中性名词
@@ -29,7 +29,7 @@
 | [宾格<br>acc.](acc.md) |-antaṃ|bhagavantaṃ|-antāni<br>-ante<br>-anti|bhagavantāni<br>bhagavante<br>bhagavanti|
 | [工具格<br>instr.](instr.md) |-atā<br>-antena|bhagavatā<br>bhagavantena|-antehi|bhagavantehi
 | [来源格<br>abl.](abl.md) |-atā<br>-antā<br>-antasmā<br>-antamhā|bhagavatā<br>bhagavantā<br>bhagavantasmā<br>bhagavantamhā|-antehi|bhagavantehi|
-| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md)  |-ato<br>-antassa|bhagavato<br>bhagavantassa|-antaṃ<br>-antānaṃ|bhagavataṃ<br>bhagavamtānaṃ|
+| [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md)  |-ato<br>-antassa|bhagavato<br>bhagavantassa|-antaṃ<br>-antānaṃ|bhagavataṃ<br>bhagavamtānaṃ|
 | [位置格<br>loc.](loc.md) |-ati<br>-ante<br>-antasmiṃ<br>-antamhi|bhagavati<br>bhagavante<br>bhagavantasmiṃ<br>bhagavantamhi|-antesu|bhagavantesu|
 
 
@@ -50,7 +50,7 @@
 | [呼格<br>voc.](voc.md) |-ati<br>-atī|bhagavati<br>bhagavatī|-atīatyo|bhagavatīyo|
 | [宾格<br>acc.](acc.md) |-atiṃ|bhagavatiṃ|-atī<br>-atiyo|bhagavatī<br>bhagavatiyo|
 | [工具格<br>instr.](instr.md) <br>[来源格<br>abl.](abl.md)|-atiyā|bhagavatiyā|-atīhi|bhagavatīhi|
-|[与格<br>dat.](dat.md)<br> [属格<br>gen.](gen.md) |-atiyā|bhagavatiyā|-atīnaṃ|bhagavatīnaṃ|
+|[目的格<br>dat.](dat.md)<br> [属格<br>gen.](gen.md) |-atiyā|bhagavatiyā|-atīnaṃ|bhagavatīnaṃ|
 | [位置格<br>loc.](loc.md) |-atiyā<br>-atiyaṃ|bhagavatiyā<br>bhagavatiyaṃ|-atīsu|bhagavatīsu|
 |
  [在复合词中<br>comps.](comps.md) ：
