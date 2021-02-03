@@ -35,4 +35,6 @@
 
 |||
 |--|--|
-|kuhij, 哪里?<br>kudā, 何时?<br>kadā, 何时？|  kuhibci, kuhibcanaj  (任何地方, anywhere)<br>kudācanaṃ（有时 sometimes。 在任何时候ever）<br>kadāci（sometimes）|
+|kuhiṃ,哪里?|kuhiñci, kuhiñcanaṃ  任何地方|
+|kudā,何时?|kudācanaṃ 有时, 在任何时候|
+|kadā,何时?|kadāci 有时|
