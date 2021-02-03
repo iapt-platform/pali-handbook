@@ -7,7 +7,7 @@
 | --- | ----- | ------ | ------ |
 | [主格<br>nom.](nom.md)<br>[宾格<br>acc.](nom.md) |tayo|tīni|tisso|
 | [工具格<br>instr.](instr.md)<br>[来源格<br>abl.](abl.md) |tīhi|tīhi|tīhi|
- [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |tiṇṇaṃ<br>tiṇṇanna|tiṇṇaṃ<br>tiṇṇanna|tiṇṇaṃ<br>tissannaṃ||
+ [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md) |tiṇṇaṃ<br>tiṇṇanna|tiṇṇaṃ<br>tiṇṇanna|tiṇṇaṃ<br>tissannaṃ||
 | [位置格<br>loc.](loc.md) |tīsu|tīsu|tīsu|
 
 

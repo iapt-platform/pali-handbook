@@ -11,6 +11,6 @@
 | [宾格<br>acc.](acc.md) |-uṃ  |ass**uṃ**  |-ū<br>-ni  |ass**ū**<br>assū**ni**  |
 | [工具格<br>instr.](instr.md) |-nā  |assu**nā**  |-hi<br>-bhi  |assu**hi**, assū**hi**<br>assu**bhi**, assū**bhi**  |
 | [来源格<br>abl.](abl.md) |-nā<br>-smā<br>-mhā  |assu**nā**<br>assu**smā**<br>assu**mhā**  | -hi<br>-bhi |assu**hi**, assū**hi**<br>assu**bhi**, assū**bhi**    |
-| [属格<br>gen.](gen.md)<br>[与格<br>dat.](dat.md) |-no<br>-ssa|assu**no**<br>assu**ssa**  |-naṃ  |assu**naṃ**<br>assū**naṃ**  |
+| [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md) |-no<br>-ssa|assu**no**<br>assu**ssa**  |-naṃ  |assu**naṃ**<br>assū**naṃ**  |
 | [位置格<br>loc.](loc.md) |-smiṃ<br>-mhi  |assu**smiṃ**<br>taru**mhi**  |-su  |assu**su**, assū**su**  |
 
