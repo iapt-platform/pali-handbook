@@ -101,4 +101,4 @@
   * [开始](shortcut/readme.md)
   * [句子构成](shortcut/sentence.md)  
   * [名词](shortcut/noun.md)
-* 从入门到专家-一万小时慢成教程
+* 从入门到专家——一万小时慢成教程
