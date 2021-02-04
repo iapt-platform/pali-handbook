@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* [变格](declension/README.md)
+* [变格手册](declension/README.md)
   * [变格表](declension/ending-table.md)
     * 元音结尾
       * [a阳性](declension/a-masculine.md)
@@ -53,7 +53,7 @@
     * [位置格](declension/loc.md)
   * [数](declension/number.md)
   * [性](declension/gender.md)
-* [动词](verbal/verbal.md)
+* [动词手册](verbal/verbal.md)
   * [动词变化表](verbal/verb-table.md)
   * [时态和语气](verbal/ten.md)
     * [现在时](verbal/present.md)
@@ -68,7 +68,7 @@
     * [未来分词](verbal/fpp.md)
     * [连续体](verbal/ger.md)
     * [不定体](verbal/inf.md)
-* [基本关系语法](basic-relation/README.md)
+* [基本关系语法手册](basic-relation/README.md)
   * [主格](basic-relation/nom.md)
     * [NIO](nom-nio.md)
     * [NID](nom-nid.md)
@@ -86,10 +86,10 @@
     * [DIO-S](dio.md)
     * [STC](stc.md)
     * [ADV](adv.md)
-* [高级语法](grammar/README.md)
+* [高级语法手册](grammar/README.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
-* [二次衍生](derivative\readme.md)
+* [二次衍生手册](derivative\readme.md)
   * [分词](derivative\particle.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
@@ -101,3 +101,4 @@
   * [开始](shortcut/readme.md)
   * [句子构成](shortcut/sentence.md)  
   * [名词](shortcut/noun.md)
+* 从入门到专家-一万小时慢成教程
