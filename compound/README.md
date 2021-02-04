@@ -8,14 +8,14 @@
 >注:复合词的第一个或前面几个成员，格位的语尾变化通常省略;只有少数字例保存了语尾变化。
 
 ## 六种复合词<br>六離合释
-|巴利语|汉语|英语|
+|巴利语|结构|作用/关系|
 |---|--|-|
-|[dvanda](1_dvanda.md)|[相违释](1_dvanda.md)|Copulativeor Aggregative Compounds|
-|[tappurisa](2_tappurisa.md)|[依主释](./2_tappurisa.md)|Dependent Determinate Compounds|
-|[kammadhāraya](3_kammadhāraya.md)|[持业释](3_kammadhāraya.md)|Descriptive Determinate Compounds|
-|[digu](4_digu.md)|[带数释](4_digu.md)|Numeral Determinate Compounds|
-|[abyayībhāva](5_abyayībhāva.md)|[邻近释](5_abyayībhāva.md)|Adverbial Compounds|
-|[bahubbīhi](6_bahubbīhi.md)|[有财释](6_bahubbīhi.md)|Relative Or Attributive Compounds|
+|[dvanda](1_dvanda.md)<br>[相违释](1_dvanda.md)<br>[相连释](1_dvanda.md)|並列的名詞|名词|
+|[tappurisa](2_tappurisa.md)<br>[依主释](./2_tappurisa.md)|名詞＋名詞|名词<br>格的關係|
+|[kammadhāraya](3_kammadhāraya.md)<br>[持业释](3_kammadhāraya.md)|形容詞＋名詞<br>名詞＋名詞|名詞<br>同位语关系|
+|[digu](4_digu.md)<br>[带数释](4_digu.md)|數詞＋名詞|名词|
+|[abyayībhāva](5_abyayībhāva.md)<br>[邻近释](5_abyayībhāva.md)|不變詞＋名詞<br>接頭詞＋名詞|副词|
+|[bahubbīhi](6_bahubbīhi.md)<br>[有财释](6_bahubbīhi.md)<br>[多财释](6_bahubbīhi.md)|名詞、形容詞、不變詞、接頭詞|形容词|
 
 
 
