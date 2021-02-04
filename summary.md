@@ -93,7 +93,7 @@
   * [分词](derivative\particle.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
-* [复合词]
+* [复合词](compound/README.md)
 * 参考手册
   * [语法缩略语表](grammar-abbr.md)
   * [三藏缩略语表](pali-abbr.md)
