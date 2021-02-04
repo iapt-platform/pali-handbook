@@ -6,9 +6,17 @@
 
 [开始学习](shortcut/summary.md)
 
+## wikipali简介
+
+设计思路
+- [Youtube](https://youtube.com/playlist?list=PL_1iJBQvNPFHT6UisME_cOSts5fFecK14)
+
+
 ## 一万小时巴利语慢成教程
 
 从小白到专家之路。如果您打算学习巴利语到能够阅读和翻译经典（包含义註复註）的程度。这是一个能够满足您的愿望的学习指南。
+
+
 
 [开始学习](palistep/summary.md)
 

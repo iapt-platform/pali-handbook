@@ -93,7 +93,7 @@
   * [分词](derivative\particle.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
-* [复合词]
+* [复合词](compound/README.md)
 * 参考手册
   * [语法缩略语表](grammar-abbr.md)
   * [三藏缩略语表](pali-abbr.md)
@@ -101,4 +101,4 @@
   * [开始](shortcut/readme.md)
   * [句子构成](shortcut/sentence.md)  
   * [名词](shortcut/noun.md)
-* 从入门到专家-一万小时慢成教程
+* 从入门到专家——一万小时慢成教程

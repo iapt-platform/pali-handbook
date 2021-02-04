@@ -1,14 +1,14 @@
-# 鄰近釋
-注:
-- (a)邻近释复合词第一个成员为不变化词。
-- (b)邻近释复合词一 般呈现受格单數语形,字尾 ṃ,并且不作语尾变化。
-- (c)如果最后成员字尾为长 母音 a,则要以 aṃ 取代;若字尾为(非 a)其它长母音,则长母音要短化。 
+# 不变释<br>邻近释
+注意:
+1. 邻近释复合词第一个成员为**不变化词**。
+2. 邻近释复合词一 般呈现受格单数语形,字尾ṃ,并且不作语尾变化。
+3. 如果最后成员字尾为长母音 a,则要以 aṃ 取代;若字尾为(非 a)其它长母音,则长母音要短化。
  
 范例(i): 
 - upagaṅgaṃ=upa+gaṅgayaṃ (loc.) (近于恒河, near the Ganges); 
 - upanagaraṃ = upa +nagaraṃ, (loc.), (近于城镇, near the town); 
-- upagu=upa+gunnaṃ (复數) (近于牛群,close to the cows); 
-- anurathaṃ=anu+rathe (于战車后, behind the chariot); 
+- upagu=upa+gunnaṃ (复数) (近于牛群,close to the cows); 
+- anurathaṃ=anu+rathe (于战车后, behind the chariot); 
 - yāvajīvaṃ=yāva+jīva (从格abl.) (尽形寿, as long as life lasts); 
 - antopāsādaṃ=anto+pāsādassa (在宫殿内,within the palace); 
 - anuvassaṃ =anu +vassaṃ (每年, year after year, every year); 
@@ -22,7 +22,7 @@
 - upavadhu=upa+vadhu (近其 妻, near his wife); 
 - adhikumāi =adhi+kumāri (年轻女孩, the young girl) 
  
-(ii) 有时语尾格位会被保留;保留的格位主要是从格和处格。但是在多數情况下, 相同的复合词,也会見到有中性字语形。当不变化词为 pari, apa, ā, bahi, yāva 等,从格语尾可保留。
+(ii) 有时语尾格位会被保留;保留的格位主要是从格和处格。但是在多数情况下, 相同的复合词,也会見到有中性字语形。当不变化词为 pari, apa, ā, bahi, yāva 等,从格语尾可保留。
 
 例: 
 - yāvajivā 或 yāvajivaṃ (尽形寿, as long as life lasts); 
