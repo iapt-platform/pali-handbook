@@ -8,7 +8,9 @@
 
 ## wikipali简介
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPXqXaxQkEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+设计思路
+- [Youtube](https://youtube.com/playlist?list=PL_1iJBQvNPFHT6UisME_cOSts5fFecK14)
+
 
 ## 一万小时巴利语慢成教程
 
