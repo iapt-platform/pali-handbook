@@ -4,7 +4,7 @@
 释义： 为什么？如何？
 
 ## 阳性
-变格 | 单数 |复数 |
+|变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md) | ko | ke |
 | [宾格<br>acc.](acc.md) | kaṃ | ke |
@@ -15,7 +15,7 @@
 
 
 ## 中性
-变格 | 单数 |复数 |
+|变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md)<br>[宾格<br>acc.](acc.md) | kiṃ | kāni |
 | [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md) | kissa<br>kassa | kesaṃ<br>kesānaṃ |
@@ -26,7 +26,7 @@
 
 
 ## 阴性
-变格 | 单数 |复数 |
+|变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md) | kā | kā<br>kāyo |
 | [宾格<br>acc.](acc.md) | kaṃ | kā<br>kāyo |
