@@ -87,18 +87,22 @@
     * [STC](stc.md)
     * [ADV](adv.md)
 * [高级语法手册](grammar/README.md)
+  * [Hoti](grammar/iti.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
 * [二次衍生手册](derivative\readme.md)
   * [分词](derivative\particle.md)
+  * [谓语动词](derivative\verbal.md)
   * [接头词](derivative\prefix.md)
   * [接尾词](derivative\suffix.md)
-* [复合词]
-* 参考手册
+* 其他参考手册
   * [语法缩略语表](grammar-abbr.md)
   * [三藏缩略语表](pali-abbr.md)
-* 快速指南
-  * [开始](shortcut/readme.md)
-  * [句子构成](shortcut/sentence.md)  
-  * [名词](shortcut/noun.md)
-* 从入门到专家-一万小时慢成教程
+  * [连音手册](sandhi/readme.md)
+  * [文章结构手册](article/readme.md)
+* 教程
+  * 巴利语零基础快速入门
+    * [开始](shortcut/readme.md)
+    * [句子构成](shortcut/sentence.md)  
+    * [名词](shortcut/noun.md)
+  * 从入门到专家-一万小时慢成教程
