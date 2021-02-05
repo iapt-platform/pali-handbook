@@ -34,37 +34,37 @@
 |             | suf./suffix.      | 后缀 | 后缀     |                             |
 | vibhatti    | case end.    | 语尾 | 语尾     |                             |
 |             | note.        | 原版注释| 原版注释 | note from original article  |
-| 变格 |      |   |       |  |
-| na          | nt.  / n.        | 中 | 中性       | neuter     |
-| pu          | m.           | 阳 | 阳性       | masculine  |
+| 变格        |              |     |         
+| pu          | m.           | 阳 | 阳性       | masculine  |  |          |
+| na          | nt.  / n.    | 中 | 中性       | neuter     |
 | thī         | f.           | 阴 | 阴性       | feminine   |
 | eka         | sg.          | 单 | 单数       | singular    |
 | bahu        | pl.          | 复 | 复数       | plural      |
 | paccatta    | nom.         | 主 | [主格](declension/nom.md)       | nominative                  |
-| upayoga     | acc.         | 宾 | [宾格/受格](declension/acc.md)  | accusative                  |
+| upayoga     | acc.         | 宾 | [宾格](declension/acc.md)；受格；为格  | accusative                  |
 | karaṇa      | inst.        | 具 | [工具格](declension/instr.md)       | instrumental                |
-| sampadāna   | dat.         | 与 | [目的格/与事格](declension/dat.md) | dative                      |
+| sampadāna   | dat.         | 与 | [与事格](declension/dat.md)；目的格 | dative                      |
 | nissakka    | abl.         | 源 | [来源格](declension/abl.md)       | ablative                    |
 | sāmi        | gen.         | 属 | [属格](declension/gen.md)       | genitive                    |
-| bhumma      | loc.         | 处 | [处所格/位置格](declension/loc.md)       | locative                    |
+| bhumma      | loc.         | 处 | [处所格](declension/loc.md)；位置格      | locative                    |
 | āmantana    | voc.         | 呼 | [呼格](declension/voc.md)       | vocative                    |
 |  动词 |         |      ||  |
 | paccuppanna | pres.        | 现   |现在式| present tense |
 | atīta       | aor.         | 过   |不定过去| past tense |
 | anāgata     | fut.         | 将      |将来式| future tense |
 | āṇatti      | imp.         | 命令     |命令式| imperative |
-| parikappa   | cond.        | 条件     |条件式 conditional |
-| parikappa   | opt.         | 潜能     |潜能式 optative (potential) |
+| parikappa   | cond.        | 条件     |条件式| conditional |
+| parikappa   | opt.         | 潜能     |潜能式；愿望式；祈愿式| optative (potential) |
 | amha        | 1p.          | 第一|第一人称     | 1st person |
 | tumha       | 2p.          | 第二|第二人称     | 2nd person |
 | ta          | 3p.          | 第三|第三人称     | 3rd perspm |
-|             | ger.         | 连续|[连续](verbal/ger.md)     | |
-|             | abs.         | 绝对|[绝对](verbal/ger.md) | absolutive |
-|             | inf.         | 不定|[不定](verbal/inf.md)    | infinitive |
-|             | prp.         | 现分|[现分](verbal/prp.md)     | present participle |
+|             | ger.         | [连续](verbal/ger.md) |连续体    | |
+|             | abs.         | [绝对](verbal/ger.md)|绝对体 | absolutive |
+|             | inf.         | [不定](verbal/inf.md)|不定体    | infinitive |
+|             | prp.         | [现分](verbal/prp.md)|现在分词     | present participle |
 |             | pp.          | 过分|过分     | past participle |
-|             | fpp.         | 未被分|[未被分](verbal/fpp.md)   | passive future participle   |
-|             | grd.         | 义务| 义务分词     | |
+|             | fpp.         | [未被分](verbal/fpp.md)| 未来被动分词；义务分词   | passive future participle   |
+|             | grd.         | [义务](verbal/fpp.md)| 义务分词;未来被动分词     | |
 |             | pf.          | 完成 | 完成     | perfect tense               |
 |             | act.         | 主动 | 主动     | active                      |
 |             | prpa.        | 主动现分 | active present participle   |
