@@ -99,6 +99,7 @@
   * [语法缩略语表](grammar-abbr.md)
   * [三藏缩略语表](pali-abbr.md)
   * [连音手册](sandhi/readme.md)
+  * [文章结构手册](article/readme.md)
 * 教程
   * 巴利语零基础快速入门
     * [开始](shortcut/readme.md)
