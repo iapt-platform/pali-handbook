@@ -1,6 +1,12 @@
 # Table of contents
 
 * [首页](readme.md)
+* 教程
+  * 巴利语零基础快速入门
+    * [开始](shortcut/readme.md)
+    * [句子构成](shortcut/sentence.md)  
+    * [名词](shortcut/noun.md)
+  * 从入门到专家 —— 一万小时巴利语慢成教程
 * [变格手册](declension/README.md)
   * [变格表](declension/ending-table.md)
     * 元音结尾
@@ -72,20 +78,18 @@
   * [主格](basic-relation/nom.md)
     * [NIO](nom-nio.md)
     * [NID](nom-nid.md)
-    * [DASO-P](nom-daso.md)
-    * [DASO-S](nom-daso.md)
-    * [DASD-P](nom-dasd.md)
-    * [DASD-S](nom-dasd.md)
+    * [DASO-P/S](nom-daso.md)
+    * [DASD-P/S](nom-dasd.md)
     * [ASV](nom-asv.md)
     * [AOV](nom-aov.md)
     * [DAO](nom-dao.md)
   * [呼格](basic-relation/voc.md)
   * [宾格](basic-relation/acc.md)
-    * [IOV](iov.md)
-    * [DIO-P](dio.md)
-    * [DIO-S](dio.md)
-    * [STC](stc.md)
-    * [ADV](adv.md)
+    * [IOV](acc-iov.md)
+    * [DIO-P](acc-dio.md)
+    * [DIO-S](acc-dio.md)
+    * [STC](acc-stc.md)
+    * [ADV](acc-adv.md)
 * [高级语法手册](grammar/README.md)
   * [Hoti](grammar/iti.md)
   * [Hoti](grammar/hoti.md)
@@ -100,9 +104,4 @@
   * [三藏缩略语表](pali-abbr.md)
   * [连音手册](sandhi/readme.md)
   * [文章结构手册](article/readme.md)
-* 教程
-  * 巴利语零基础快速入门
-    * [开始](shortcut/readme.md)
-    * [句子构成](shortcut/sentence.md)  
-    * [名词](shortcut/noun.md)
-  * 从入门到专家-一万小时慢成教程
+
