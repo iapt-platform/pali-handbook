@@ -17,9 +17,10 @@
 
 |ati.pr|sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- | -- |
-|pr 3rd|ati|anti|ate|"ante<br>are"|
-|pr 2nd|asi|atha|ase|avhe|
-|pr 1st|āmi|āma|e|āmhe|
+|fut 3rd|issati|issanti|issate|issante|
+|fut 2nd|issasi|issatha|issase|issavhe|
+|fut 1st|issāmi|issāma|issaṃ|issāmhe|
+
 
 例词 karoti
 

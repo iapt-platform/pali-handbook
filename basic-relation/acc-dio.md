@@ -1,7 +1,5 @@
 # acc-dio
 
-[基本关系语法](basic-relation.md)&gt;[宾格](acc.md)&gt;AOV
-
 ## AOV
 
 * English： Active Object Relation
