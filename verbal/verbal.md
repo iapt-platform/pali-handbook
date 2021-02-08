@@ -45,5 +45,6 @@ kara+o+ti<br>
 ## 动词参考手册
 
 [动词变化表](verb-table.md)
+[二次衍生手册](../derivative/readme.md)
 [巴利缩略语表](../grammar-abbr.md)
 
