@@ -2,12 +2,12 @@
 
 |基數 | | 序數 | |
 | -- | --| -- | --|
-|eka |一	|pathama |第一|
-|dve|二	|dutiya |第二|
+|eka |一	| paṭhama |第一|
+|dve|二	| dutiya |第二|
 |tayo|三	|tatiya |第三|
-|cattaro |四	|catuttha, turiya|第四|
-|pabca |五	|pabcatha, pabcama|第五|
-|cha |六	|chattha, chatthama|第六|
+|cattaro |四	|catuttho, turiya|第四|
+|pañca |五	|pañcama|第五|
+|cha |六	|chaṭṭha, chaṭṭhama|第六|
 |satta |七	|sattha, sattama|第七|
 |attha |八	|atthama|第八|
 |nava|九	|navama|第九|
