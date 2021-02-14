@@ -4,7 +4,8 @@
         "structure": {
         "readme": "readme.md",
         "summary":"summary.md",
-        "glossory":"glossory.md"
+		"glossory":"glossory.md",
+		"langs":"langs.md"
         },
         "introduction": {
                 "path": "readme.md",
