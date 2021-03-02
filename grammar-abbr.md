@@ -54,7 +54,7 @@
 | ta  | 3p.  | 第三|第三人称 | 3rd perspm |
 | | ger.<br>abs. | [连续](verbal/ger.md)<br>[绝对](verbal/ger.md) |连续体<br>绝对体|Gerund<br>absolutive|
 | | inf. | [不定](verbal/inf.md)|不定体| infinitive |
-| | prp. | [现分](verbal/prp.md)|现在分词 | present participle |
+| | prp.<br>ppr. | [现分](verbal/prp.md)|现在分词 | present participle |
 | | pp.  | 过分|过去分词 | past participle |
 | | fpp. | [未被分](verbal/fpp.md)| 未来被动分词<br>义务分词   | passive future participle   |
 | | grd. | [义务](verbal/fpp.md)| 义务分词<br>未来被动分词 | |
