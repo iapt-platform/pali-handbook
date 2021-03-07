@@ -7,7 +7,7 @@
 		* [句子构成](shortcut/sentence.md)	
 		* [名词](shortcut/noun.md)
 	* 从入门到专家 —— 一万小时巴利语慢成教程
-* [变格手册](declension/README.md)
+* [名词变格手册](declension/README.md)
 	* [变格表](declension/ending-table.md)
 		* 元音结尾
 			* [a阳性](declension/a-masculine.md)
@@ -59,7 +59,7 @@
 		* [位置格](declension/loc.md)
 	* [数](declension/number.md)
 	* [性](declension/gender.md)
-* [动词手册](verbal/verbal.md)
+* [动词变位手册](verbal/verbal.md)
 	* [动词变化总表](verbal/verb-table.md)
 	* [变位动词·时态&语气](verbal/ten.md)
 		* [现在时](verbal/present.md)

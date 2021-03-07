@@ -9,7 +9,7 @@
 | bya<br>ni | ind.<br>indecl.| 不变 | 不变词 | indeclinable |
 | karaṇattha  | adv. | 副  | 副   | adverb |
 | ti<br>tiliṅga  | adj.<br>n.a.| 三性<br>形  | 三性词<br>形容词  | adjective |
-| | v:base.  | 动原型 | 动原型  | verb : root |
+| | v:base.  | 动原型 | 动词原型  | verb : stem |
 | | n.a:base.| 三性词干 | 三性词干 | |
 | | adj:base.| 形词干 | 形词干  | |
 | | n:base.  | 名词干 | 名词干  | |
@@ -58,12 +58,13 @@
 | | pp.  | 过分|过去分词 | past participle |
 | | fpp. | [未被分](verbal/fpp.md)| 未来被动分词<br>义务分词   | passive future participle   |
 | | grd. | [义务](verbal/fpp.md)| 义务分词<br>未来被动分词 | |
+## 不常见
+||||||
+|-|-|-|-|-|
 | | pf.  | 完成 | 完成 | perfect tense   |
 | | act. | 主动 | 主动 | active  |
-| | prpa.| 主动现分 | active present participle   |
-| | prpp.| 现分 | passive  present participle |
-| | ppa. | 主过分   | active past participle  |
-| | ppp. | 被过分   | passive  past participle|
+| | ppa.<br>prpa. | 主过分   | active past participle  |
+| | ppp.<br>pppr. | 被过分   | passive  past participle|
 | | futp.| 未分 | future participle   |
 | | fpa. | 未主分   | active future participle|
 | | Pass.| 被动 | passive |
