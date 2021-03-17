@@ -9,6 +9,8 @@
   - (d) 接续注 c,有财释可用呼格外的任何格位。
   
   下列为不同類型的有财释: 
+
+
 1. 主格关系有财释(pathama-bahubbihi, Relative in the Nominative Case)
  
 例如:
@@ -16,7 +18,7 @@
 - lohitamakkhitaṃ mukhaṃ=lohitena makkhitaṃ mukhaṃ (涂抹着血的嘴巴the mouth be smeared with blood.) lohitamakkhitaṃ 是有财释。[Lohita, 【n.】 血。 Makkheti (makkh + e),涂抹, makkhita【PPP】]; 
 - susajjitaṃ puraṃ (一座装饰得很好的城市, a well - decorated city; Sajjita, sajjeti 的【PPP】。Sajjeti (saj + e) 庄严，装饰。) ; susajjitaṃ是有财释。 
  
-2. 对格关系有财释(dutiya-bahubbihi, Relative in the Accusative Case); 也就是說, 付予它所限定或形容的字,文法上对格意义关系。
+2. [对格]关系有财释(dutiya-bahubbihi, Relative in the Accusative Case); 也就是說, 付予它所限定或形容的字,文法上[对格]意义关系。
 
 例:
 - āgatasamano saṅghārāmo =imaṃ saṅgharāmaṃ samaṇo āgato ॥ (沙门來到的僧伽园。this monastery the priest came to.) agatasamano 是有财释。Arama【 m. 】公园、寺院。 
@@ -93,4 +95,5 @@
 例如∶
 - gandhivadhanu=gandhivadhanvā , (阿周那 Arjuna,直 译: 有张强弓的人 he who has a strong bow); 
 - paccakkhadhammā,亦做 paccakkhadhammo (现見 法的人, to whom the Doctrine is apparent.) 
- 
+
+[对格]: 宾格

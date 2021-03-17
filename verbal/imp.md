@@ -1,9 +1,9 @@
-# 条件式
+# 命令式
 
 * 巴利语： 
-* 英语: 
+* 英语: imperative mood
 * 缩写： imp.
-* 其他名称： 条件
+* 其他名称： 命令式，祈使语气
 
 ## 定义：
 
@@ -18,7 +18,7 @@
 |ati.pr|sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- | -- |
 |imp 3rd|atu|antu|ataṃ|antaṃ|
-|imp 2nd|"āhi<br>a"|atha|assu|avho|
+|imp 2nd|āhi<br>a|atha|assu|avho|
 |imp 1st|āmi|āma|e|āmase|
 
 
@@ -26,7 +26,7 @@
 
 |kar.pr|sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- |  -- |
-|imp<br>3rd|karotu<br>kubbatu|kabntu<br>kubbantu|kurutaṃ<br>kubbataṃ|kubbantaṃ|
+|imp<br>3rd|karotu<br>kubbatu|karontu<br>kubbantu|kurutaṃ<br>kubbataṃ|kubbantaṃ|
 |imp<br>2nd|karohi<br>kubbāhi|karotha<br>kubbatha|karassu<br>kurussu<br>kubbassu|kuruvho<br>kubbavho|
 |imp<br>1st|karomi<br>kubbāmi|karoma<br>kubbāma|kare<br>kubbe|karomase<br>kubbāmase|
 
@@ -54,7 +54,7 @@ advice or giving permission.
 	- Advice: He should go, or he ought to go.
 	- Permission: He may go, or he is permitted to go.
 
-----sadda pan goun
+>>sadda pan goun
 
 ## 参考手册
 
