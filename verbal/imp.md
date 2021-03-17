@@ -6,7 +6,17 @@
 * 其他名称： 命令式，祈使语气
 
 ## 定义：
+（1）命令语气用于下达命令:tena hi,gaccha,很好，你去吧！
 
+（2）表示请求:bhante bhagavā appossukko viharatu,主人啊，就让世尊无忧无虑地住着吧！
+
+（3）祝愿，祝福:vassasataṃ jīva,祝你长命百岁！
+
+（4）前面加上mā，命令语气第二人称表示简单的禁止:mā evaṃ karortha,不要这样做！
+
+（5）bhavati(是)的命令语气第三人称单数常常用作惯用语，含有“好吧”的意思:hotu, ahaṃ jānissāmi,好吧，我会注意的。
+
+>>——《实用巴利语语法》Charles Duroiselle 著
 需要补充
 
 ## 常见用途：
