@@ -141,4 +141,5 @@
 	* [三藏缩略语表](pali-abbr.md)
 	* [连音手册](sandhi/readme.md)
 	* [文章结构手册](article/readme.md)
+	* [书写范例之公式](math_formular.md)
 
