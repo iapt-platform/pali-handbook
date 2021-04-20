@@ -1,6 +1,6 @@
 # as 变化表
 
-|as.pr|sg|pl|
+|as|sg|pl|
 | -- | -- | -- |
 |pr 3rd|atthi|atthi<br>santi|
 |pr 2nd|asi|attha|
