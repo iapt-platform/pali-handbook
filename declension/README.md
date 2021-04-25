@@ -1,5 +1,22 @@
 # readme
 
+## 巴利字母表<br>Pali Alphabet
+
+||*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>不送气<br>aspirates|*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>不送气<br>aspirates|*vagganta*<br>鼻音<br>nasals||*vagganta*<br>鼻音<br>Sibilant|
+|-|-|-|-|-|-|-|-|
+|-|*aghosa*<br>清辅音<br>hard consonants|*aghosa*<br>清辅音<br>hard consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants
+|*kaṇṭhaja*<br>喉音<br>Gutturals|k|kh|g|gh|ṅ|h|
+|*tāluja*<br>硬颚音<br>Palatals|c|ch|j|jh|ñ|y|
+|*muddhaja*<br>卷舌音<br>Cerebrals|ṭ|ṭh|ḍ|ḍh|ṇ|r/ḷ|
+|*dantaja*<br>齿音<br>Dentals|t|th|d|dh|n|l|
+|*oṭṭhaja*<br>唇音<br>Labials|p|ph|b|bh|m|v|
+
+|-|*rassa*<br>短音<br>short|*dīgha*<br>长<br>long|*guṇa*<br>双元音<br>diphthongs|
+|-|-|-|-|
+|*kaṇṭhaja*<br>喉音<br>Gutturals|a|ā|e|
+|*tāluja*<br>硬颚音<br>Palatals|i|ī|-|
+|*oṭṭhaja*<br>唇音<br>Labials|u|ū|o|
+
 ## 变格
 
 [首页](../summary.md)
