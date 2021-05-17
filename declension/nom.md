@@ -1,13 +1,13 @@
-# [主格]
+# 主格
 
-[主格]: 体格
+## 术语
 
-* 其他名称：体格
-* 巴利术语：
-  * Paccatta-vacana\(注释书\)
-  * paṭhamā-vibhatti\(语法书\)
-* 英文缩写：**nom.**
-* 英文全称：nominative
+|语种|缩写|全称|
+|-|-|-|
+|巴利|sa|Paccatta-vacana\(常见于注释书\)<br>paṭhamā-vibhatti\(常见于语法书\)|
+|汉|**主**|主格<br>体格<br>第一变格|
+|英|**nom.**|nominative case|
+
 
 ## 定义：
 
@@ -48,12 +48,12 @@
 >(ii) 書名標題裡獨立使用主格,不需採適當的語尾變化,如: mahajanakajataka (《大闍那伽王本生經》,“The Birth Story of Mahajanaka”)
 >>——《实用巴利文法》（A Practical Grammar of the Pali Language）
 
-* [主格之关系语法手册](../basic-relation/nom.md)
 * [主格相关句型手册](../grammar/grammar.md)
 * [hoti](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/declension/hoti.md)句式中只有主格
 * [tabba](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/declension/tabba.md)句式中动词\(~tabba\)为主格
 
 ## 相关资料：
 
+[主格之关系语法](../basic-relation/nom.md)
 [变格表](ending-table.md)
 

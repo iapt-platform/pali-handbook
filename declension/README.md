@@ -46,7 +46,7 @@
 | 5 | [来**源**格](abl.md)<br>离格<br>夺格<br>从格 | Nissakka-vacana<br>pañcamī-vibhatti | **abl.**<br>ablative | 动作的起因 |
 | 6 | [**属**格](gen.md)<br>所有格 | Sāmi-vacana<br>chaṭṭhī-vibhatti | **gen.**<br>genitive | 限定名词的所有者 |
 | 7 | [**处**格](loc.md)<br>位\(置\)格<br>在格<br>于格<br>依格 | Bhumma-vacana<br>sattamī-vibhatti | **loc.**<br>locative | 动作发生的时空背景 |
-| 8 | [**呼**格](voc.md) | Āmantana-vacana | **voc.**<br>vocative | 当面称呼<br>如：喂，老张！ |
+| 8 | [**呼**格](voc.md) | Āmantana-vacana<br>paṭhamā-vibhatti | **voc.**<br>vocative | 当面称呼<br>如：喂，老张！ |
 
 ### **数**
 

@@ -2,7 +2,7 @@
 
 |语种|缩写|全称|
 |-|-|-|
-|巴利|sa|sāmivacana<br>chaṭṭhī-vibhatti|
+|巴利|sa|sāmivacana 常见于注释书<br>chaṭṭhī-vibhatti 常见于语法书|
 |汉|属|属格<br>所有格<br>第六变格|
 |英|gen.|genitive case|
 
@@ -42,5 +42,6 @@
 
 ## 相关资料：
 
+[属格之关系语法](../basic-relation/gen.md)
 [变格表](ending-table.md)
 

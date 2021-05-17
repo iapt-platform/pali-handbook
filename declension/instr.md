@@ -1,11 +1,10 @@
 # 工具格
 
-* 其他名称：体格
-* 巴利术语：
-  * Karaṇa-vacana\(注释书\)
-  * tatiyā-vibhatti\(语法书\)
-* 英文缩写：**inst**r.
-* 英文全称：instrumental
+|语种|缩写|全称|
+|-|-|-|
+|巴利|na|Karaṇa-vacana\(常见于注释书\)<br>tatiyā-vibhatti\(常见于语法书\)|
+|汉|**具**|工具格<br>具作格<br>具格<br>第三变格|
+|英|**inst.**<br>instr.|instrumental case|
 
 ## 定义：
 
