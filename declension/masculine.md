@@ -2,10 +2,12 @@
 
 ## 术语
 
-* 巴利：Pulliṅga
-* 英语：masculine 
-* 缩写（英）： m.
-* 其他名称： 无
+|语种|缩写|全称|
+|-|-|-|
+|巴利|pu|puma<br>pumaliṅga<br>pulliṅga|
+|汉|阳|阳性|
+|英|m.|masculine|
+
 
 ## 定义：
 

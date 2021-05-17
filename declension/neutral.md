@@ -1,9 +1,12 @@
 # 中性
 
-* 巴利语：
-* 英语： Neutral
-* 缩写： n. / nt.
-* 其他名称： 无
+## 术语
+
+|语种|缩写|全称|
+|-|-|-|
+|巴利|na|napuṃsaka<br>napuṃsakaliṅga|
+|汉|中|中性|
+|英|nt.<br>n.|Neutral|
 
 ## 定义：
 
