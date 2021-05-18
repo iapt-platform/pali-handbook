@@ -1,13 +1,15 @@
 # 处格
+## 术语
 
-* 其他名称：位\(置\)格、在格、于格、依格
-* 巴利术语：
-  * Bhumma-vacana\(注释书\)
-  * sattamī-vibhatti\(语法书\)
-* 英文缩写：**loc.**
-* 英文全称：locative
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——|Bhumma-vacana\(常见于注释书\)<br>sattamī-vibhatti\(常见于语法书\)|
+|汉|**处**|处格<br>位置格<br>位格<br>在格<br>于格<br>依格<br>第七变格|
+|英|**loc.**|locative case|
 
 ## 定义：
+
+动作发生的时间或空间背景
 
 > 表處所in/on/at/up等
 >
@@ -35,10 +37,10 @@
 >7. “在某種善行下行踐”；“在某處消失”
 >>——《简明实用文法》
 
-* [处格之关系语法手册](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/basic-relation/loc.md)
 * [处格相关句型手册](../grammar/grammar.md)
 
 ## 相关资料：
 
+[处格之关系语法](../basic-relation/loc.md)
 [变格表](ending-table.md)
 
