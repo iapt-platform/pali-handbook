@@ -36,4 +36,4 @@ metta = met|ta 或 me||ta
 tattha = tat|tha 或 ta||tha
 labbhati = lab|bha|ti 或 la||bha|ti
 
-2. 几个发音难点：非送气清辅音，送气浊辅音，弹舌r音，这些内容参见下一章，[发音技巧](pronounciation/rule.md)。
+1. 几个发音难点：非送气清辅音，送气浊辅音，弹舌r音，这些内容参见下一章，[发音技巧](/rule.md)。
