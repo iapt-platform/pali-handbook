@@ -9,7 +9,7 @@
 	* 从入门到专家 —— 一万小时巴利语慢成教程
 * [字母与发音](pronounciation/README.md)
   * [字母表](pronounciation/alphabet.md)
-  * [发音规则](pronounciation/rule.md)
+  * [发音技巧](pronounciation/rule.md)
 * [名词变格手册](declension/README.md)
 	* [变格表](declension/ending-table.md)
 		* 元音结尾
