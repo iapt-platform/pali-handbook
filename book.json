@@ -12,12 +12,13 @@
                 "title": "巴利语手册"
             },
 	"styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
+                "website": "styles/website.css",
+                "ebook": "styles/ebook.css",
+                "pdf": "styles/pdf.css",
+                "mobi": "styles/mobi.css",
+                "epub": "styles/epub.css"
 	},
-		"plugins": ["mathjax","mermaid-gb3"],
+        "plugins": ["mathjax","mermaid-gb3"],
+        "plugins": ["katex"],
         "language": "zh-hans"
 }
