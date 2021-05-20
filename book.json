@@ -18,7 +18,6 @@
                 "mobi": "styles/mobi.css",
                 "epub": "styles/epub.css"
 	},
-        "plugins": ["mathjax","mermaid-gb3"],
-        "plugins": ["katex"],
+        "plugins": ["mathjax","mermaid-gb3","katex"],
         "language": "zh-hans"
 }
