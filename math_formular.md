@@ -58,8 +58,9 @@ $$\overbrace{a+\underbrace{b+c}_{1.0}+d}^{2.0}$$
 - 预览样式：
 $$3O_2 {\stackrel{\mathrm{_{放电}}}{=}} 2O_3$$
 `2S+3O_2 {{500℃} \atop {{\rightarrow} \atop {V_2O_5}} } SO_3`
-$$2S+3O_2 {{500℃} \atop {{\rightarrow} \atop {V_2O_5}} } SO_3$$
+$$2S+3O_2 {{500℃} \atop {{\longrightarrow} \atop {V_2O_5}} } SO_3$$
 `2\ce{S}+3\ce{O2} \ce{<=>[500℃][V2O5]} 2\ce{SO3}`
+
 $$2\ce{S}+3\ce{O2} \ce{<=>[500℃][V2O5]} 2\ce{SO3}$$
 
 
