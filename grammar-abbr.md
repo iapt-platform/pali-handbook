@@ -36,7 +36,7 @@
 | bahu| pl.  | 复 | 复数   | plural  |
 | paccatta| nom. | 主 | [主格](declension/nom.md)   | nominative  |
 | upayoga | acc. | 宾 | [宾格](declension/acc.md)<br>受格<br>为格  | accusative  |
-| karaṇa  | inst.| 具 | [工具格](declension/instr.md)   | instrumental|
+| karaṇa  | inst.<br>instr.| 具 | [工具格](declension/instr.md)   | instrumental|
 | sampadāna   | dat. | 与 | [与事格](declension/dat.md)<br>目的格 | dative  |
 | nissakka| abl. | 源 | [来源格](declension/abl.md)   | ablative|
 | sāmi| gen. | 属 | [属格](declension/gen.md)   | genitive|
