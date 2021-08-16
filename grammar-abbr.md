@@ -32,8 +32,8 @@
 | pu  | m.   | 阳 | 阳性   | masculine  |  |  |
 | na  | nt.  / n.| 中 | 中性   | neuter |
 | thī | f.   | 阴 | 阴性   | feminine   |
-| eka | sg.  | 单 | 单数   | singular|
-| bahu| pl.  | 复 | 复数   | plural  |
+| eka | sg./s.  | 单 | 单数   | singular|
+| bahu| pl./p.  | 复 | 复数   | plural  |
 | paccatta| nom. | 主 | [主格](declension/nom.md)   | nominative  |
 | upayoga | acc. | 宾 | [宾格](declension/acc.md)<br>受格<br>为格  | accusative  |
 | karaṇa  | inst.<br>instr.| 具 | [工具格](declension/instr.md)   | instrumental|

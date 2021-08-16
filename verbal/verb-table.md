@@ -2,7 +2,7 @@
 
 | 名称 | 其他名称 | 缩写  | 巴利语 | 英语 |
 | :--- | :--- | :--- | :--- | :--- |
-| 谓语动词 |  |  |  | |
+| 谓语动词/主要动词 |  |  |  | |
 | [现在时](present.md) | 现在式 | pres.  |Vattamāna| Present Indicative Tense |
 | [祈使句](imp.md) | 祈愿 | imp.  |Pañcamī| Imperative |
 | [愿望](opt.md) | 潜能 | opt.  |Sattamī| Optative |
