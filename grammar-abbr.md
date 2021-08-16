@@ -30,16 +30,16 @@
 | | note.| 原版注释| 原版注释 | note from original article  |
 | 变格|  | | 
 | pu  | m.   | 阳 | 阳性   | masculine  |  |  |
-| na  | nt.  / n.| 中 | 中性   | neuter |
+| na  | nt./n.| 中 | 中性   | neuter |
 | thī | f.   | 阴 | 阴性   | feminine   |
 | eka | sg./s.  | 单 | 单数   | singular|
 | bahu| pl./p.  | 复 | 复数   | plural  |
 | paccatta| nom. | 主 | [主格](declension/nom.md)   | nominative  |
 | upayoga | acc. | 宾 | [宾格](declension/acc.md)<br>受格<br>为格  | accusative  |
 | karaṇa  | inst.<br>instr.| 具 | [工具格](declension/instr.md)   | instrumental|
-| sampadāna   | dat. | 与 | [与事格](declension/dat.md)<br>目的格 | dative  |
+| sampadāna   | dat. | 目的 | [目的格](declension/dat.md)<br>与事格<br>与格<br>为格<br>第四变格 | dative  |
 | nissakka| abl. | 源 | [来源格](declension/abl.md)   | ablative|
-| sāmi| gen. | 属 | [属格](declension/gen.md)   | genitive|
+| sāmi| gen. | 属 | [属格](declension/gen.md)<br>所有格<br>领格<br>领属格<br>第六变格   | genitive|
 | bhumma  | loc. | 处 | [处所格](declension/loc.md)<br>位置格  | locative|
 | āmantana| voc. | 呼 | [呼格](declension/voc.md)   | vocative|
 |  动词 | |  ||  |
