@@ -1,6 +1,11 @@
 # Table of contents
 
 * [首页](readme.md)
+* 常用教程
+  * [语法缩略语表](grammar-abbr.md)
+  * [名词](shortcut/noun.md)
+  * [变格表](declension/ending-table.md)
+  * [现在时](verbal/present.md)
 * 教程
 	* 巴利语零基础快速入门
 		* [开始](shortcut/readme.md)
