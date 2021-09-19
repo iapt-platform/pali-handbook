@@ -14,7 +14,7 @@
 2. 读的时候把က转化为က်；把ක转化为ක්
 3. 完全忽视缅文与新哈拉文字母
 
-||*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>不送气<br>aspirates|*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>不送气<br>aspirates|*vagganta*<br>鼻音<br>nasals||咝音<br>Sibilant|
+||*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*vagganta*<br>鼻音<br>nasals||咝音<br>Sibilant|
 |-|-|-|-|-|-|-|-|
 |-|*aghosa*<br>清辅音<br>hard consonants|*aghosa*<br>清辅音<br>hard consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*aghosa*<br>清辅音<br>hard consonants|
 |*kaṇṭhaja*<br>喉音<br>Gutturals|**k**<br>က<br>ක|**kh**<br>ခ<br>ඛ|**g**<br>ဂ<br>ග|**gh**<br>ဃ<br>ඝ|**ṅ**<br>င<br>ඞ|**h**<br>ဟ<br>හ||
