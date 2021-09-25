@@ -20,7 +20,7 @@
 | 序号 | 名称 | 巴利语 | 英文 | 常见作用 |
 | :--- | :----- | :-------- | :---: | :--- | :--- |
 | 1 | [**主**格](nom.md)<br>体格 | Paccatta-vacana<br>paṭhamā-vibhatti | **nom.**<br>nominative | 动作的发出者 |
-| 2 | [**宾**格](acc.md)<br>业格<br>受格<br>对格 | Upayoga-vacana<br>dutiyā-vibhatti | **acc.**<br>accusative | 动作的承受者 |
+| 2 | [**宾**格](acc.md)<br>业格<br>受格<br>对格<br>为格 | Upayoga-vacana<br>dutiyā-vibhatti | **acc.**<br>accusative | 动作的承受者 |
 | 3 | [工**具**格](instr.md)<br>具作格<br>具格 | Karaṇa-vacana<br>tatiyā-vibhatti | **inst**r.<br>instrumental | 动作的方式与手段 |
 | 4 | [**目的**格](dat.md)<br>与格<br>为格 | Sampadāna-vacana<br>catutthī-vibhatti | **dat.**<br>dative | 动作的目的 |
 | 5 | [来**源**格](abl.md)<br>离格<br>夺格<br>从格 | Nissakka-vacana<br>pañcamī-vibhatti | **abl.**<br>ablative | 动作的起因 |

@@ -1,11 +1,10 @@
 # 宾格
 
-* 其他名称：业格、受格、对格
-* 巴利术语：
-  * Upayoga-vacana\(注释书\)
-  * pañcamī-vibhatti\(语法书\)
-* 英文缩写：acc.
-* 英文全称：accusative
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——|Upayoga-vacana\(常见于注释书\)<br>dutiyā-vibhatti\(常见于语法书\)|
+|汉|**宾**|宾格<br>业格<br>受格<br>对格<br>第二变格|
+|英|**acc.**|accusative case|
 
 ## 定义：
 

@@ -1,28 +1,26 @@
-# acc-iov
+# IOV
 
-[基本关系语法](basic-relation.md)&gt;[宾格](acc.md)&gt;IOV
-
-## IOV
-
-* English： Active Object Relation
-* 中文： 受动者-动词关系（vutta）
-* 巴利语： vuttakamma - kiriyā
+* English： Inactive Object Relation
+* 中文： 受动者-动词关系
+* 巴利语： avuttakamma - kiriyā
   
 
 一个宾格宾语与一个动词的主动态或绝对态相关联。
->例如；purise hanati/hato = 杀死（那些）人
+>purise hanati/hato<br>杀死（那些）人
 >```mermaid
 >graph LR
->purise--IOV-->hanati/hato
+>A(purise<br>人们)--IOV-->B(hanati/hato<br>杀死)
 >```
->例如；purise haññate/hataṃ（绝对态）= （那些）人被杀了
+
+>purise haññate/hataṃ（绝对态）<br>（那些）人被杀了
 >```mermaid
 >graph LR
->purise--IOV-->haññate/hataṃ
+>A(purise<br>人们)--IOV-->B(haññate/hataṃ<br>被杀了)
 >```
->例如；purise hantabbaṃ（绝对态）= （那些）人应当被杀
+
+>purise hantabbaṃ（绝对态）<br>（那些）人应当被杀
 >```mermaid
 >graph LR
->purise--IOV-->hantabbaṃ
+>A(purise<br>人们)--IOV-->B(hantabbaṃ<br>应当被杀)
 >```
 

@@ -1,14 +1,16 @@
 # 来源格
 
-## 
-* 其他名称：离格、夺格、从格
-* 巴利术语：
-  * Nissakka-vacana\(注释书\)
-  * pañcamī-vibhatti\(语法书\)
-* 英文缩写：abl.
-* 英文全称：ablative
+## 术语
+
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——|Nissakka-vacana\(常见于注释书\)<br>pañcamī-vibhatti\(常见于语法书\)|
+|汉|**来源**|来源格<br>离格<br>夺格<br>从格<br>第五变格|
+|英|**abl.**|ablative case|
 
 ## 什么是来源格？
+
+表达动作是**来自XX**，或**因为XX**。
 
 > 通常表分離 ,英語用from來表達; ……表示分離，離開的方向，有時指方法或動作作者，或做某些動詞的受詞。它被用於拉丁語和其他印歐語系語言。
 >
@@ -57,12 +59,12 @@
 >    4. paraṃ（**在……之**后）
 >>——《简明实用文法》
 
-* [来源格之关系语法手册](../basic-relation/abl.md)
+
 * [来源格相关句型手册](../grammar/grammar.md)
 
 ## 相关资料：
 
 [变格表](ending-table.md)
-
+[来源格之关系语法手册](../basic-relation/abl.md)
 [离格](https://zh.wikipedia.org/wiki/%E7%A6%BB%E6%A0%BC)
 
