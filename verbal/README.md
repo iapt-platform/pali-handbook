@@ -7,5 +7,3 @@
 | root | pr. sg. 3rd | 意思 |
 | -- | -- | -- |
 | [kara](kara.md) | karoti | 做 |
-
-
