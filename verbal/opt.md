@@ -1,13 +1,17 @@
 # 潜能式
 
-* 巴利语： 
-* 英语: Future tense
-* 缩写：fur.
-* 其他名称：潜能；潜能式；愿望式；祈愿式
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——|parikappa|
+|汉|潜|潜能式<br>愿望式<br>祈愿式|
+|英|Opt.|Optative Tense|
+
 
 ## 定义：
 
-需要补充
+
+**动词**变位之一，表示可能发生的动作。
+常用语虚拟语气。
 
 ## 常见用途：
 
@@ -17,9 +21,9 @@
 
 |ati.pr|sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- | -- |
-|opt 3rd|"eyya<br>e"|eyyuṃ|etha|eraṃ|
-|opt 2nd|"eyyāsi<br>e"|"eyyātha<br>etha"|etho|"eyyavho<br>eyyāvho"|
-|opt 1st|"eyyāmi<br>e"|"eyyāma<br>ema<br>emu"|eyyaṃ|eyyāmhe|
+|opt 3rd|eyya<br>e|eyyuṃ|etha|eraṃ|
+|opt 2nd|eyyāsi<br>e|eyyātha<br>etha|etho|eyyavho<br>eyyāvho|
+|opt 1st|eyyāmi<br>e|eyyāma<br>ema<br>emu|eyyaṃ|eyyāmhe|
 
 
 例词 karoti

@@ -1,28 +1,26 @@
 # 将来时
 
-* 巴利语： Anāgata
-* 英语: Future tense
-* 缩写：fur.
-* 其他名称：将来式
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——|Anāgata|
+|汉|**将**|将来时|
+|英|**fut.**|Future tense|
 
-## 定义：
+## 定义与常见用途：
 
-无
+**动词**变位之一，表示将要发生或将要做（的事情），动作。相当于英语的一般将来时。
 
-## 常见用途：
-
-将要发生或将要做的事情，动作。相当于英语的一般将来时。
 
 ## 语尾表
 
-|ati.pr|sg|pl|reflx sg|reflx pl|
+||sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- | -- |
-|fut 3rd|issati|issanti|issate|issante|
-|fut 2nd|issasi|issatha|issase|issavhe|
-|fut 1st|issāmi|issāma|issaṃ|issāmhe|
+|将来时 第三人称|(i)ssati|(i)ssanti|(i)ssate|(i)ssante|
+|将来时 第二人称|(i)ssasi|(i)ssatha|(i)ssase|(i)ssavhe|
+|将来时 第一人称|(i)ssāmi|(i)ssāma|(i)ssaṃ|(i)ssāmhe|
 
 
-例词 karoti
+例词 *karoti*
 
 |kar.pr|sg|pl|reflx sg|reflx pl|
 | -- | -- | -- | -- |  -- |
