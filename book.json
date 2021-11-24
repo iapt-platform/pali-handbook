@@ -1,23 +1,22 @@
 {
-        "title": "巴利语手册",
-        "description": "巴利语手册 包含各种变格表",
-        "structure": {
+    "title": "巴利语手册",
+    "description": "巴利语手册 包含各种变格表",
+    "structure": {
         "readme": "readme.md",
-        "summary":"summary.md",
-		"glossory":"glossory.md",
-		"langs":"langs.md"
-        },
-        "introduction": {
-                "path": "readme.md",
-                "title": "巴利语手册"
-            },
-	"styles": {
-                "website": "styles/website.css",
-                "ebook": "styles/ebook.css",
-                "pdf": "styles/pdf.css",
-                "mobi": "styles/mobi.css",
-                "epub": "styles/epub.css"
-	},
-        "plugins": ["katex","mermaid-gb3"],
-        "language": "zh-hans"
+        "summary": "summary.md",
+        "glossory": "glossory.md",
+        "langs": "langs.md"
+    },
+    "introduction": {
+        "path": "readme.md",
+        "title": "巴利语手册"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "language": "zh-hans"
 }
