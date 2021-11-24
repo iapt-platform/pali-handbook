@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](readme.md)
-* 常用教程
+* 常用
   * [语法缩略语表](grammar-abbr.md)
   * [名词](shortcut/noun.md)
   * [变格表](declension/ending-table.md)
