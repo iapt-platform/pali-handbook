@@ -86,7 +86,7 @@
 		* [过去分词查词法](verbal/pp_dict.md)
 		* [未来分词](verbal/fpp.md)
 		* [未来分词查词法](verbal/fpp_dict.md)
-	* [不变动词](verbal/participle.md)
+	* [不变动词](verbal/v_ind.md)
 		* [连续体](verbal/ger.md)
 		* [不定体](verbal/inf.md)
 	* [不规则动词]
