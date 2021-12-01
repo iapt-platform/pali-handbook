@@ -42,24 +42,22 @@
 
 ## 进阶用法
 
-**Optative Mood**
-The senses denoted by the Imperative mood are also signified by Optative mood. But
-there are other special usages:
-1. Hetu = cause & Phala = effect [i.e. the condition & the conditioned]
-- e.g.: If it rains, it becomes colder.
-↓ ↓
-cause / condition effect / conditioned
-The if- clause and the main clause would be represented by two separate
-sentences in Pali with the verbs “rain” and “become” in Optative mood.
-2. Sakka = The ability or capability to do something
-- e.g.: so palim vadeyya (Optative 3rd per. sing. Parassapada form < √ vad. = to speak, to say)
-= He is able to speak Pali / He can speak Pali.
-3. Araha = Deserving or being worthy of something
-- e.g.: so raja bhaveyya (Optative 3rd per. sing. Parassapada form < √ bhu = to be, to exist)
-
-= He is qualified to be a king, that is, He merits kingship.
-
-----sadda pan goun
+>命令语气的（三种）用法同样适用于潜能语气，
+>但这里还有其他特殊的用法：
+>### 1. Hetu & Phala 因果[如：条件 & 结论]
+>- 例句: 如果**下雨**（因/条件），天气会变冷（果/结论）。
+>在巴利语潜能语气中，动词“*下雨*”和“*变*”分别带两个单独句子来陈述条件句与主句。
+>>译者注：此处相当于英语中的**虚拟语气**，其中，动词**下雨**做潜能式变化，翻译为***如若*下雨**
+>### 2. sakka 有能力做某事
+>- 例句：so pāliṃ vadeyya(第三人称，单数，潜能式，主动态Parassapada，源自√vad = 说)
+>- 他***能*说**巴利语。
+>>译者注：在这种情况下，动词前加上“能够—”或“可以—”
+>### 3. Araha 理应做某事
+>- 例句: so rājā bhaveyya (第三人称，单数，潜能式，主动态Parassapada，源自√bhū = 成为/存在)
+>- 他理应成为国王。也就是说：他配得上王位。
+>>译者注：在这种情况下，动词前加上“应该—”或“理应—”
+>
+>——译自“sadda pan goun”，作者：U Paṇḍita Sayadaw
 
 ## 参考手册
 
