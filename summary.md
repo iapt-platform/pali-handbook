@@ -150,6 +150,28 @@
 	* [谓语动词](derivative\verbal.md)
 	* [接头词](derivative\prefix.md)
 	* [接尾词](derivative\suffix.md)
+* [句子关系](sent-relation\readme.md)
+	* 指代
+    	* [总-分](sent-relation\1_SE.md)
+    	* [分-总](sent-relation\2_ES.md)
+    	* [笼统-具体](sent-relation\3_VI.md)
+    	* [待定-确定](sent-relation\4_DC.md)
+    	* [待总结-总结](sent-relation\5_MC.md)
+	* 因果
+    	* [条件-结论](sent-relation\6_PC.md)
+    	* [结论-条件](sent-relation\7_CP.md)
+    	* [待确认-旁证](sent-relation\8_CC.md)
+    	* [不确定-归谬](sent-relation\9_DDI.md)
+	* 因果
+    	* [起草-补充](sent-relation\10_PCS.md)
+    	* [开头-呼应](sent-relation\11_PRS.md)
+    	* [泛指-特指](sent-relation\12_GP.md)
+    	* [特指-泛指](sent-relation\13_PG.md)
+    	* [肯定-否定](sent-relation\14_AN.md)
+    	* [否定-肯定](sent-relation\15_NA.md)
+    	* [贬抑-褒扬](sent-relation\16_DC.md)
+    	* [褒扬-贬抑](sent-relation\17_CD.md)
+    	* [承前-启后](sent-relation\18_PN.md)
 * 其他参考手册
 	* [语法缩略语表](grammar-abbr.md)
 	* [三藏缩略语表](pali-abbr.md)
