@@ -150,7 +150,7 @@
 	* [谓语动词](derivative/verbal.md)
 	* [接头词](derivative/prefix.md)
 	* [接尾词](derivative/suffix.md)
-* [句子关系](sent-relation/readme.md)
+* [句子关系](sent-relation/README.md)
 	* 指代
     	* [总-分](sent-relation/1_SE.md)
     	* [分-总](sent-relation/2_ES.md)
