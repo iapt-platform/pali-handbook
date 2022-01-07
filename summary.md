@@ -19,7 +19,7 @@
 	* [变格词概述](declension/ending-table.md)
 		* [名词](shortcut/noun.md)
     	* [三性词](declension/3_gender.md)
-	* [变格表](declension/ending-table.md)
+	* [变格表1](declension/ending-table.md)
 		* 元音结尾
 			* [a阳性](declension/a-masculine.md)
 			* [a中性](declension/a-neutral.md)
