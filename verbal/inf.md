@@ -1,12 +1,12 @@
 # 不定式
-
-* 其他名称： 不定体
-* 巴利术语： 
-* 英文缩写： inf.
-* 英文全称： Infinitive
+|语种|缩写|全称|
+|-|-|-|
+|巴利|——||
+|汉|**不定**|不定体<br>不定式|
+|英|**inf.**|Infinitive|
 
 ## 定义：
-(1) 不定式表示“目的，动机，意图”。它用于主动以及被动。uyyānapālo chaḍḍetuṃ upāyaṃ na passati, 这园丁找不到办法驱离（它们）：taṃ gantuṃ na dassāmi, 我不让他走。
+（1）不定式表示“目的，动机，意图”。它用于主动以及被动。uyyānapālo chaḍḍetuṃ upāyaṃ na passati, 这园丁找不到办法驱离（它们）：taṃ gantuṃ na dassāmi, 我不让他走。
 
 （2）不定式与表示“希望尝试或争取，开始，能够”的动词结合使用：sā radituṃ ārabhi,她开始哭泣：na koci mayā saddiṃ sallapituṃ sakkoti, 没有人能与我交谈；sā pavisituṃ naicchati, 她不想进去；so taṃ ukkhipituṃ ussahati,他竭力举起它。
 
