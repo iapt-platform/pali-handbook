@@ -1,11 +1,6 @@
 # Table of contents
 
 * [首页](readme.md)
-* [常用](chang-yong/README.md)
-  * [语法缩略语表](grammar-abbr.md)
-  * [名词](shortcut/noun.md)
-  * [变格表](declension/ending-table.md)
-  * [现在时](verbal/present.md)
 * [教程](jiao-cheng/README.md)
   * [巴利语零基础快速入门](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/README.md)
     * [开始](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/kai-shi.md)
@@ -15,7 +10,7 @@
   * [字母表](pronounciation/alphabet.md)
   * [发音技巧](pronounciation/rule.md)
 * [名词变格手册](declension/README.md)
-	* [变格词概述](declension/ending-table.md)
+	* 变格词概述
 		* [名词](shortcut/noun.md)
     	* [三性词](declension/3_gender.md)
 	* [变格表](declension/ending-table.md)
