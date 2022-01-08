@@ -67,7 +67,6 @@
 * [动词变位手册](verbal/verbal.md)
   * [动词变化总表](verbal/verb-table.md)
   * [变位动词·时态&语气](verbal/bian-wei-dong-ci-shi-tai-yu-qi/README.md)
-    *
     * [过去时](verbal/aor.md)
     * [未来时](verbal/fut.md)
     * [命令式](verbal/imp.md)
@@ -83,7 +82,7 @@
   * [不变动词](verbal/v\_ind.md)
     * [连续体](verbal/ger.md)
     * [不定体](verbal/inf.md)
-  * [\[不规则动词\]](verbal/bu-gui-ze-dong-ci/README.md)
+  * [不规则动词](verbal/bu-gui-ze-dong-ci/README.md)
     * [atthi](verbal/as.md)
 * [基本关系语法手册](basic-relation/README.md)
   * [主格](basic-relation/nom.md)
@@ -98,7 +97,6 @@
   * [宾格](basic-relation/acc.md)
     * [IOV](basic-relation/acc-iov.md)
     * [DIO-P](basic-relation/acc-dio.md)
-    *
     * [STC](basic-relation/acc-stc.md)
     * [ADV](basic-relation/acc-adv.md)
   * [工具格](basic-relation/instr.md)
@@ -167,7 +165,6 @@
     * [褒扬-贬抑](ju-zi-guan-xi/yin-guo-1/bao-yang-bian-yi.md)
     * [承前-启后](ju-zi-guan-xi/yin-guo-1/cheng-qian-qi-hou.md)
 * [其他参考手册](qi-ta-can-kao-shou-ce/README.md)
-  *
   * [三藏缩略语表](qi-ta-can-kao-shou-ce/san-cang-suo-lve-yu-biao.md)
   * [连音手册](sandhi/readme.md)
   * [文章结构手册](article/readme.md)
