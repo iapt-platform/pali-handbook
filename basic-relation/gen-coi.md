@@ -1,4 +1,4 @@
-# niddhāraṇasamudāya -> niddhāraṇīya<br>集合-元素关系<br> Collection -Individual Relation4 (COI)
+# niddhāraṇasamudāya -> niddhāraṇīya<br>集合-元素关系4 (COI)<br> Collection -Individual Relation4 (COI)
 Here, a noun expressing a collection is related to another expressing one or more individual elements that are to be spoken on.
 
  
