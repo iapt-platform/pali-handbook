@@ -42,3 +42,5 @@ vscode 菜单->终端->新终端
 ```
 mdbook serve --open
 ```
+
+ctrl+c 退出服务器
