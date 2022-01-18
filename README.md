@@ -37,10 +37,17 @@
 
 vscode 菜单->终端->新终端
 
+或 ctl+`
+
 键入
 
 ```
 mdbook serve --open
 ```
+
+浏览器会自动打开
+
+![home](images/home.png)
+
 
 ctrl+c 退出服务器
