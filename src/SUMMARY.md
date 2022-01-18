@@ -1,20 +1,19 @@
-# Table of contents
+# Summary
 
-* [首页](readme.md)
+* [首页](./chapter_1.md)
 * [教程](jiao-cheng/README.md)
   * [巴利语零基础快速入门](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/README.md)
     * [开始](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/kai-shi.md)
     * [句子构成](shortcut/sentence.md)
-  * [从入门到专家 —— 一万小时巴利语慢成教程](jiao-cheng/cong-ru-men-dao-zhuan-jia-yi-wan-xiao-shi-ba-li-yu-man-cheng-jiao-cheng.md)
 * [字母与发音](pronounciation/README.md)
   * [字母表](pronounciation/alphabet.md)
   * [发音技巧](pronounciation/rule.md)
 * [名词变格手册](declension/README.md)
-	* 变格词概述
+	* [变格词概述]()
 		* [名词](shortcut/noun.md)
 		* [三性词](declension/3_gender.md)
 	* [变格表](declension/ending-table.md)
-		* 元音结尾
+		* [元音结尾]()
 			* [a阳性](declension/a-masculine.md)
 			* [a中性](declension/a-neutral.md)
 			* [ā阴性](declension/a-feminine.md)
@@ -24,7 +23,7 @@
 			* [u阳性](declension/u-masculine.md)
 			* [u中性](declension/u-neutral.md)
 			* [ū阴性](declension/u-feminine.md)
-		* 辅音结尾
+		* [辅音结尾]()
 			* [an 阳性](declension/an-masculine.md)
 			* [ant 阳性](declension/ant-masculine.md)
 			* [ant 中性](declension/ant-neutral.md)
@@ -34,10 +33,10 @@
 			* [us](declension/us.md)
 			* [ar 阳性](declension/ar-masculine.md)
 			* [ar 阴性](declension/ar-feminine.md)
-		* 代词
+		* [代词]()
 			* [第一人称](declension/amha.md)
 			* [第二人称](declension/tumha.md)
-			* 第三人称
+			* [第三人称]()
 				* [ta](declension/ta.md)
 				* [eta](declension/eta.md)
 				* [ima](declension/ima.md)
@@ -127,7 +126,6 @@
   * [iti相关](advance-relation/1\_iti.md)
   * [譬喻相关](advance-relation/2\_comparison.md)
 * [高级语法手册](grammar/README.md)
-  * [Hoti](<grammar/hoti (1).md>)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
 * [复合词](compound/README.md)
@@ -165,7 +163,8 @@
     * [褒扬-贬抑](ju-zi-guan-xi/yin-guo-1/bao-yang-bian-yi.md)
     * [承前-启后](ju-zi-guan-xi/yin-guo-1/cheng-qian-qi-hou.md)
 * [其他参考手册](qi-ta-can-kao-shou-ce/README.md)
-  * [三藏缩略语表](qi-ta-can-kao-shou-ce/san-cang-suo-lve-yu-biao.md)
+  * [三藏缩略语表](./grammar-abbr.md)
   * [连音手册](sandhi/readme.md)
   * [文章结构手册](article/readme.md)
   * [书写范例之公式](math\_formular.md)
+
