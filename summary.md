@@ -12,7 +12,7 @@
 * [名词变格手册](declension/README.md)
 	* 变格词概述
 		* [名词](shortcut/noun.md)
-    	* [三性词](declension/3_gender.md)
+		* [三性词](declension/3_gender.md)
 	* [变格表](declension/ending-table.md)
 		* 元音结尾
 			* [a阳性](declension/a-masculine.md)
