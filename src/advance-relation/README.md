@@ -16,3 +16,7 @@
 14. [Usage of** *itaratha / abbatha*](14_itarathā.md)
 15. [Usage of** *iti adhippàyo*](15_iti.md)
 16. [Usage of** *iti attho*](16_attho.md)
+17. [17. Usage of *iti etam ...vacanam*](17_etam.md)
+18. [**18. Usage of** *multiple identical adjectives*](18_multiple.md)
+19. [**19. Usage of** partial *comment units*](19_partial.md)
+20. [**20. Usage of** *participles / nouns* having DEF relations](20_nouns.md)
