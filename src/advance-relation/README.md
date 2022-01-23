@@ -20,3 +20,8 @@
 18. [**18. Usage of** *multiple identical adjectives*](18_multiple.md)
 19. [**19. Usage of** partial *comment units*](19_partial.md)
 20. [**20. Usage of** *participles / nouns* having DEF relations](20_nouns.md)
+21. [21. Usage of tattha](21_tattha.md)
+22. [22. Usage of tum, & -ttham](22_tum.md)
+23. [Usage of verbals derived from √ gah](23_verbals.md)
+24. [Usage of ayam pana](24_pana.md)
+25. [Usage of ci](25_ci.md)

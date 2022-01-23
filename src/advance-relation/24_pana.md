@@ -1,0 +1,2 @@
+# **24. Usage of** *ayam  pana* 
+ Sometimes, the pronoun *ayam* refers to a set of speech, which is already  mentioned before, or, which is to be  encountered later. In this case, it generally refers  to the latter when it is followed by the indeclinable *pana*. On the contrary, when *ayam*  stands alone, it usually refers to the former.
