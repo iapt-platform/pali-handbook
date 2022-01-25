@@ -1,18 +1,34 @@
 # Quotations that end in - iti and types of translations
+# 以*iti*结尾的引号和翻译类型
+
 A **quotation** can be defined as *the citation of a word or words, spoken or thought of*.
+
+**引号**可以定义为*对一个或多个单词的引用，叙述或想法*。
+
 It can be recognized by the indeclinable *iti* added to its end.
+
+它可以通过添加不可忽视的*iti*到句子的末尾来识别。
 
 ## It can be dealt in two ways.
 
+## 它可以通过两种方式来处理。
+
 1. The whole set of quoted words is viewed as a single noun and related to “iti” in Quoted Speech Relation(QUS) and “iti” itself related to a corresponding verb in Quotation Marker relation (QUM).
+
+1. 整组被引用的单词被视为一个名词，并且与直接引语关系（引号内到引号）中的"iti"相关，"iti"本身与引用标记关系（引号到引号外）中的相应动词相关。
+
 The quoted speech itself may be **translated** or
 **not**.
+
+引用的引语本身可能被**已翻译**或**未翻译**。
+
 >Ex. puriso gacchati iti so vadati / cinteti.
 >```mermaid
 >graph LR
 >A("“Puriso gacchati”")--QUS-->iti--QUM-->vadati/cinteti
 >```
 >He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
+>他说/认为是，"puriso gacchati"（未翻译）/"他走了"（已翻译）。
 
 >Ex. so “datto” iti ñāyate
 >```mermaid
@@ -20,9 +36,13 @@ The quoted speech itself may be **translated** or
 >A("“datto”")--QUS-->iti--QUM-->ñāyate
 >```
 >He is known as Datta.
+>他被称为Datta。
 
-2. The set of quoted words, viewed as a single noun, is combined with iti to form a compound.
+1. The set of quoted words, viewed as a single noun, is combined with iti to form a compound.
+1. 一组被引用的单词，被视为单个名词，与iti组合形成复合词。
+
 The result is an indeclinable noun. Its case may be one of the seven cases (the Vocative is excluded) and should be inferred from the context.
+结果是一个不变名词。其情况可能是七种情况之一（不包括呼格），应从上下文中推断。
 
 >Ex. puriso gacchati iti so vadati / cinteti.
 >```mermaid
@@ -31,6 +51,7 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 >```
 >He says (the words) / thinks of (the words), “puriso gacchati”, or, “He goes”.
 
+>他说（这些话）/想（这些话），"puriso gacchati"，或者"他走了"。
 >Ex. so “datto” iti ñāyate
 >```mermaid
 >graph LR
@@ -39,25 +60,43 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 >```
 >He, who is (named) Datta, is known.
 
+>他，（名叫）达塔，是众所周知的。
 
 ## Sometimes, the initial part only, one word or more, of the whole speech is quoted.
+## 有时，仅在整个引文的开头部分，或一个或多个单词被引用。
 In this case, the quoted portion cannot be translated. 
 For example, “Puriso maggam gacchati” may be quoted as “puriso iti”.
 Then it can be translated only as, “as ‘puriso’ etc.” or “the words ‘puriso’ etc.”
+
+在这种情况下，引用的部分无法翻译。例如，"Puriso maggam gacchati"可以引用为"puriso iti"。它只能翻译为"作为'puriso'等"或"'puriso'等词"。
 
 **Note:** the main clause outside the scope of a quoted speech can be translated separately.
 Then an inserted question must follow it, after which the quoted part is given.
 This is called the **Excluded Quotation** method of translation (*ākārabahikaraṇa*).
 
+**注意：**引文范围之外的主要从句可以单独翻译。然后给出引用的部分，必须在其后面插入一个问题。这被称为**引用排除**翻译方法（*ākārabahikaraṇa*）。
+
 Ex. puriso gacchati iti so vadati.
+
+=他说。[他怎么说？他说]作为，"puriso gacchati"（或）"他走了"。
+
 = He says. [How does he say? He says] as, “puriso gacchati” (or) “He goes”.
+
+=他说。[他说什么？他说]"puriso gacchati"（或）"他走了"。
+
 = He says. [What does he say? He says the words] “puriso gacchati” (or) “He goes”.
 
 In contrast, the style without an inserted question (i.e. as in the examples above
 except the last) is called the **Incorporated Quotation** method (ākāra-antokaraṇa).
 
+相反，没有插入问题的样式（即如上例所示，除了最后一个）被称为**引用合并**方法（ākāra-antokaraṇa）。
+
 These two types can further be divided into two sub-types each, depending on whether the **quoted part** is translated or not.
 If it remains in Pali, this may be termed the **Formally Excluded Quotation** (*saddato ākārabahikaraṇa*) method or **Formally Incorporated Quotation** (*saddato ākāra-antokaraṇa*) method.
 
+这两种类型可以进一步被分为两个子类型，具体取决于**引用部分**是否被翻译。如果它保留在巴利语中，这可以被称为**正式？形式？传统？引用排除**（*saddato ākārabahikaraṇa*）方法或**正式引用合并**（*saddato ākāra-antokaraṇa*）方法。
+
 If it is translated, this is called the **Essentially Excluded Quotation** (*atthato
 ākārabahikaraṇa*) method or **Essentially Incorporated Quotation** (*atthato ākāra-antokaraṇa*) method.
+
+如果被翻译，这被称为**基本引用排除**（*atthato ākārabahikaraṇa*）方法或**基本引用合并**（*atthato ākāra-antokaraṇa*）方法。
