@@ -2,9 +2,9 @@
 
 # **9.使用** *abba/ sesa （avasesa） ...vajjetva / ñhapetva*
 
-The *inactive* object of *vajjetva / ñhapetva* is changed into a form of *ablative*  case and inserted to be related to *abba / sesa* in DET relation. 
+The *inactive* object of *vajjetvā / ñhapetvā* is changed into a form of *ablative*  case and inserted to be related to *abba / sesa* in DET relation. 
 
-*vajjetva / ñhapetva* 的 *不活跃* 对象被更改为 *离格* 的形式，并插入与 DET 相关的*abba / sesa* 关系中。
+*vajjetva / ñhapetva*的**非主格受动者**做**来源格**变化，并以DET关系与*abba / sesa*相连。
 
 **Ex**.  Khuddakanikayo  nama  cattaro  nikaye  vajjetva  /  thapetva  (catuhi  nikayehi) 
 avasesam / sesam buddhavacanam. 
