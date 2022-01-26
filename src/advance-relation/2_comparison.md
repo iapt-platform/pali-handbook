@@ -18,7 +18,7 @@ It can be separated into two parts, one of the compared object (*upameyya*) and 
 It is called **Excluded Comparison** method.
 (When no question is inserted, it is called **Incorporated Comparison** method)
 >
->比喻句的两个部分可以在翻译中按插入的问题进行划分。这个被叫作**比喻排除**法。
+>比喻句的两个部分可以在翻译中按插入的问题进行划分。这个被叫作**Excluded Comparison**法。（当没有插入问题时，它被称为**Excluded Comparison**方法）
 
 The phrase yatha …tatha can be used to form a comparison sentence.
 

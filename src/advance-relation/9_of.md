@@ -4,7 +4,7 @@
 
 The *inactive* object of *vajjetva / ñhapetva* is changed into a form of *ablative*  case and inserted to be related to *abba / sesa* in DET relation. 
 
-*vajjetva / ñhapetva* 的 *不活跃* 对象被更改为 *离格* 的形式，并插入与 DET 相关的*abba / sesa* 关系中。
+*vajjetva / ñhapetva* 的 *inactive* 对象被更改为 *ablative* 的形式，并插入与 DET 相关的*abba / sesa* 关系中。
 
 **Ex**.  Khuddakanikayo  nama  cattaro  nikaye  vajjetva  /  thapetva  (catuhi  nikayehi) 
 avasesam / sesam buddhavacanam. 
