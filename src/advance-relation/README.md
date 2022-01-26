@@ -31,3 +31,8 @@
 29. [29. Usage of ettha siya](29_ettha.md)
 30. [30. Usage of etthaha](30_etthaha.md)
 31. [31. Usage of idani ... aha](31_aha.md)
+32. [32. Usage of kibcettha](32_kincettha.md)
+33. [33. Usage of nanu](33_nanu.md)
+34. [34. Usage of tam yatha](34_tam.md)
+35. [35. Usage of yadidam](35_yadidam.md)
+36. [36. Usage of yatha aha](36_yatha.md)
