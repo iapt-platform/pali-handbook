@@ -9,6 +9,6 @@ into *instrumental* case, another word in *accusative* case is related to it in 
 **Ex**. Puriso vasati pubbena gamam.  
 **Trs**. The man lives at the east *from / of* the village.  
 
-**Trs**. 该男子住在村庄的东部。
+**译**. 该男子住在村庄的东部。
 
   pubbena    -->    vasati (LOV) / gamam   -->  pubbena (DET / POS) 
