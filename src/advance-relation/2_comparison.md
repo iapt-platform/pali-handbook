@@ -16,15 +16,15 @@ It can be separated into two parts, one of the compared object (*upameyya*) and 
 
 
 >Two parts of a comparison sentence can be divided in the translation by an inserted question.
-It is called **Excluded Comparison** method.
-><br>在翻译时可以通过引入一个问题来将比喻句拆分成两个部分。
-这称为**拆分比喻**译法。
-<br>(When no question is inserted, it is called **Incorporated Comparison** method)
-<br>（如果不引入问题，则称为**合并比喻**译法）
->
-The phrase yathā … tathā can be used to form a comparison sentence.
+It is called **Excluded Comparison** method.<br>
+>在翻译时可以通过引入一个问题来将比喻句拆分成两个部分。
+这称为**拆分比喻**译法。<br>
+(When no question is inserted, it is called **Incorporated Comparison** method)<br>
+（如果不引入问题，则称为**合并比喻**译法）
 
-固定搭配yathā……tathā可以用来构成一个比喻句。
+The phrase *yathā … tathā* can be used to form a comparison sentence.
+
+固定搭配 *yathā … tathā* 可以用来构成一个比喻句。
 
 >- Ex. Yathā narā bhumiyaṃ gacchanti, tathā samaṇo ākāse gacchati.
 >- 译：就像人们在地上走一样，僧侣也在天空中走。
@@ -33,10 +33,10 @@ The phrase yathā … tathā can be used to form a comparison sentence.
 Note: when *yathā … tathā* is used not to denote a comparison, the verb which *tathā* (meaning “in that way”) modifies must be changed into a *participle* and related in **DEF** relation to the verb of the *yathā* (meaning “in which way”) sentence.
 The word *yathā* must be related to that participle in Adverbial relation.
 
-注意：当*yathā...tathā* 不用于表示比喻，*tathā* （意思是“那么/以这种方式”）修饰的动词必须改为*分词*，并在 **DEF** 中与 *yathā* （意思是“怎么/以何种方式”）句子的动词相关。
+注意：当*yathā...tathā* 不用于表示比喻，*tathā* （意思是“那么/以这种方式”）修饰的动词必须改为**分词**，并在 **DEF** 中与 *yathā* （意思是“怎么/以何种方式”）句子的动词相关。
 单词 *yathā* 必须与副词关系中的该分词相关。
 
->**Ex**. yathā (mayi karonte) buddho anujānissati, tathā karissāmi.
+>**Ex**：yathā (mayi karonte) buddho anujānissati, tathā karissāmi.
 >```mermaid
 >graph LR
 >yathā--ADV-->karonte
@@ -45,5 +45,5 @@ The word *yathā* must be related to that participle in Adverbial relation.
 >tathā--ADV-->karissāmi
 >```
 >**译**：（当我）怎么（做）佛会允许，我就那么做。<br>
->**Trs**. The way that the Buddha will permit when I act in, I will act in that way.
+>**Trs**：The way that the Buddha will permit when I act in, I will act in that way.
 
