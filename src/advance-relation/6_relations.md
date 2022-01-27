@@ -18,21 +18,21 @@ akusala” ti aha.
 words), “katame dhamma akusala” to show the Demerit (with the words, “katame 
 dhamma akusala”). 
 
-**Trs**.（与*dassetum*）：-（佛陀），因此展示了美德，并说（话），"katame dhamma akusala"来展示缺点（带有"katame dhamma akusala"的话）。
+**译**.（与*dassetum*）：-（佛陀），宣说了善法之后，"katame dhamma akusala"来宣说不善法（带有"katame dhamma akusala"的话）。
 
  **(or)** (The Lord Buddha), showed the Merit thus and, said thus, “katame dhamma 
 akusala” to show the Demerit (with the words, “katame dhamma akusala”). 
 
-**（或）**（佛陀），展示了美德，因此说，"katame dhamma akusala"来展示缺点（带有"katame dhamma akusala"的话）。
+**（或）**（佛陀），宣说了善法之后，"katame dhamma akusala"来来宣说不善法（带有"katame dhamma akusala"的话）。
 
  **Trs**. (with *dassento*):- (the Lord Buddha), who showed the Merit and showed the 
 Demerit (with the words, “katame dhamma akusala”), said (the words), “katame 
 dhamma akusala” / (or) said thus, “katame dhamma akusala”. 
 
-**Trs**.（与*dassento*）：- 展示了优缺点（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+**译**.（与*dassento*）：- 宣说了善和不善法之后（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
 
  **(or)** When (the Lord Buddha), showed the Merit and showed the Demerit (with 
 the words, “katame dhamma akusala”), (he) said (the words), “katame dhamma 
 akusala” / (or) said thus, “katame dhamma akusala”. 
 
-**（或）****当（佛陀）展示了优缺点（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+**（或）****当（佛陀）宣说了善和不善法之后（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。

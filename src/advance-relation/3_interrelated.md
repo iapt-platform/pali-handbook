@@ -1,5 +1,7 @@
-# 3. Interrelated Translations  
-# 3.相互关联的翻译
+# 3. 相互关联的翻译<br>Interrelated Translations  
+
+>译者注：此章节中翻译的方法并不适合巴汉翻译，因此仅参考例句的简单翻译即可
+
  It is the method in which a foregoing sentence is translated first; the following 
 one is dealt with later and returning to the first one again. Its purpose is to clarify the 
 logical structure of given context. 
@@ -10,16 +12,16 @@ logical structure of given context.
 
  它可以与五对**句群关系**一起使用。
 
-- a. Unit of Effect *followed by* Unit of Cause 
-- a. 结果 - 原因
-- b. Unit of Conclusion *followed by* Unit of Premise    
-- b. 结论 - 前提
-- c. Unit of Doubtful Content *followed by* Unit of Confirming Content  
-- c. 待定 - 确定
-- d. Unit of Definite Content *followed by* Unit of Indefinite Content  
-- d. 特指 - 不定指
-- e. Unit of Compared Object *followed by* Unit of Standard of Comparison 
-- e. 本体 - 喻体 
+- a. 结果 - 原因<br>Unit of Effect *followed by* Unit of Cause 
+
+- b. 结论 - 前提<br>Unit of Conclusion *followed by* Unit of Premise    
+
+- c. 待定 - 确定<br>Unit of Doubtful Content *followed by* Unit of Confirming Content  
+
+- d. 特指 - 不定指<br>Unit of Definite Content *followed by* Unit of Indefinite Content  
+
+- e. 本体 - 喻体<br>Unit of Compared Object *followed by* Unit of Standard of Comparison 
+
   
  Of  them,  the  interrelated  translation  of  *Unit  of  Doubtful  Content  /  Unit  of 
 Confirmation* is the most difficult and the least helpful. Therefore it would be put aside 
@@ -43,7 +45,7 @@ and others are to be imparted.
  (interrelated) There is fire on the mountain. (Why is it known that there is  fire on the mountain?) Since there is smoke there, (it is known that) there is  fire on the mountain.     
  （相互关联）山上有火。（为什么知道山上有火？）由于那里有烟雾，（众所周知）山上有火。
 - **c**. Interrelated Translation of Unit of Definite Content / Unit of Indefinite Content 
-- **c**. 明确内容分句/不明确内容分句的相互关联翻译
+- **c**. 特指 - 不定指的相互关联翻译
   - **Ex**. So papo hoti. Yo akusalam karoti
   - **Trs**.  (simple) The one who performs demerit, he is the evil one. 
   - **译**. （简单）凡做不善者，其乃恶人也。
