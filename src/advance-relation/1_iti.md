@@ -1,26 +1,22 @@
-# Quotations that end in - iti and types of translations
-# 以*iti*结尾的引号和翻译类型
+# 以*iti*结尾的引号及翻译类型<br>Quotations that end in - iti and types of translations
 
+**引号**可以定义为“引用一个单词、词组、说话或想法”。<br>
 A **quotation** can be defined as *the citation of a word or words, spoken or thought of*.
 
-**引号**可以定义为*对一个或多个单词的引用，叙述或想法*。
 
+它可以通过加在句子的末尾的不变词*iti*来识别。<br>
 It can be recognized by the indeclinable *iti* added to its end.
 
-它可以通过添加不可忽视的*iti*到句子的末尾来识别。
 
-## It can be dealt in two ways.
 
-## 它可以通过两种方式来处理。
+它可以通过两种方式来处理<br>It can be dealt in two ways.
 
-1. The whole set of quoted words is viewed as a single noun and related to “iti” in Quoted Speech Relation(QUS) and “iti” itself related to a corresponding verb in Quotation Marker relation (QUM).
+1. 把被引用全部单词视为一个名词与“*iti*”相关联，其关系为**被引用-引号**（*nidassetabba - nidassana*，引号内-引号）关系，<br>
+“*iti*”本身与相应的动词相关联，其关系为引号-（*nidassana - nidassanavant*，引号-引号外）中的相应动词相关。<br>
+The whole set of quoted words is viewed as a single noun and related to “iti” in Quoted Speech Relation(QUS) and “iti” itself related to a corresponding verb in Quotation Marker relation (QUM).
+引文本身可翻可不翻。
+The quoted speech itself may be **translated** or **not**.
 
-1. 整组被引用的单词被视为一个名词，并且与直接引语关系（引号内到引号）中的"iti"相关，"iti"本身与引用标记关系（引号到引号外）中的相应动词相关。
-
-The quoted speech itself may be **translated** or
-**not**.
-
-引用的引语本身可能被**已翻译**或**未翻译**。
 
 >Ex. puriso gacchati iti so vadati / cinteti.
 >```mermaid
@@ -28,8 +24,7 @@ The quoted speech itself may be **translated** or
 >A("“Puriso gacchati”")--QUS-->iti--QUM-->vadati/cinteti
 >```
 >He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
-
->他说/认为是，"puriso gacchati"（未翻译）/"他走了"（已翻译）。
+>他说/认为是，"puriso gacchati"（不翻）/"他走了"（翻）。
 
 >Ex. so “datto” iti ñāyate
 >```mermaid
@@ -41,8 +36,7 @@ The quoted speech itself may be **translated** or
 >他被称为Datta。
 
 1. The set of quoted words, viewed as a single noun, is combined with iti to form a compound.
-   
-   一组被引用的单词，被视为单个名词，与iti组合形成复合词。
+<br>一组被引用的单词，被视为单个名词，与iti组合形成复合词。
 
 The result is an indeclinable noun. Its case may be one of the seven cases (the Vocative is excluded) and should be inferred from the context.
 
