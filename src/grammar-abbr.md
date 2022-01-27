@@ -58,6 +58,19 @@
 | | pp.  | 过分|过去分词 | past participle |
 | | fpp. | [未被分](verbal/fpp.md)| 未来被动分词<br>义务分词   | passive future participle   |
 | | grd. | [义务](verbal/fpp.md)| 义务分词<br>未来被动分词 | |
+
+## 巴利文献缩写表
+|缩写|巴利|中文|英文|
+|-|-|-|-|
+|sī|sīhaḷa-potthakaṃ|斯里兰卡版|Sirilanka Script|
+|syā|syāma-potthakaṃ|泰国版|Thailand Script|
+|kaṃ|kamboja-potthakaṃ|斯里兰卡版|Cambodian Script|
+|i<br>pī|iṅgalisa-potthakaṃ|巴利圣典协会版|PTS<br>London Pali Text Society|
+|ka|kesuci<br>maramma-potthakesu<br>dissamāna-pāṭho|缅甸某个版本|word which<br>was found<br>in some<br>Burmese scripts|
+|ka-sī|kesuci<br>sīhaḷa-potthakesu<br>dissamāna-pāṭho|斯里兰卡某个版本|word which<br>was found<br>in some<br>Sirilanka scripts|
+|ṭṭha|aṭṭhakathā|义注|commentary|
+|ṭī|ṭīkā|复注|sub-commentary|
+
 ## 不常见
 ||||||
 |-|-|-|-|-|
