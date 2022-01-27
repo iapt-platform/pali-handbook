@@ -4,7 +4,7 @@
 - 排除
 - 不包括
 
-他们的非主格受动者——排除的对象——可以是*宾格*，*工具格*或*来源格*。
+他们的非主格受动者——排除的对象——可以是**宾格**，**工具格**或**来源格**。
 
 The indeclinables *abbatra* and *vina* are viewed as gerunds having the sense “having excepted, having excluded, not having included”. 
 Their *inactive* objects, that is, the objects excluded, can be in *accusative*, *instrumental* or *ablative* case. 
