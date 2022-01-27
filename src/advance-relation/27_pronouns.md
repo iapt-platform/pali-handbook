@@ -8,6 +8,6 @@ having no particular sense.
 
   **Ex**. ye ime manussa... 
 
-  **Trs**. 那些男人。 
+  **译**. 那些男人。 
 
   **Trs**. The ones who are men.

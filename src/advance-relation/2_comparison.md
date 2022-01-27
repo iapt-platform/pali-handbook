@@ -10,7 +10,7 @@ It can be separated into two parts, one of the compared object (*upameyya*) and 
 
 >|**Ex**|Samaṇo ākāse gacchati narā viya/iva/yathā bhūmiyaṃ|Samaṇo ākāse gacchati / narā bhūmiyaṃ (*gacchanti*) viya / iva / yathā|
 >|-|-|-|
->|**Trs**|僧侣在天空中，就像人们在地上（走）一样。|僧侣在天空中走。（像谁？）就像人们在地面上（走）一样。|
+>|**译**|僧侣在天空中，就像人们在地上（走）一样。|僧侣在天空中走。（像谁？）就像人们在地面上（走）一样。|
 >|**Trs**|The monk goes in the sky as people (go) on the ground.|The monk goes in the sky. (Like whom?) Just as people (go) on the ground.|
 
 
@@ -44,5 +44,5 @@ The word *yathā* must be related to that participle in Adverbial relation.
 >```
 >**Trs**. The way that the Buddha will permit when I act in, I will act in that way.
 >
->**Trs**。我将以佛陀在我行事时所允许的方式行事。
+>**译**。我将以佛陀在我行事时所允许的方式行事。
 
