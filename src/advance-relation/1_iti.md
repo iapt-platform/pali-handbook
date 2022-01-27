@@ -32,12 +32,14 @@ The quoted speech itself may be **translated** or **not**.
 >A("“datto”")--QUS-->iti--QUM-->ñāyate
 >```
 >He is known as Datta.
+
 >他被称为Datta。
 
 1. The set of quoted words, viewed as a single noun, is combined with iti to form a compound.
 <br>一组被引用的单词，被视为单个名词，与iti组合形成复合词。
 
 The result is an indeclinable noun. Its case may be one of the seven cases (the Vocative is excluded) and should be inferred from the context.
+
 结果是一个不变名词。其情况可能是七种情况之一（不包括呼格），应从上下文中推断。
 
 >Ex. puriso gacchati iti so vadati / cinteti.
@@ -70,7 +72,7 @@ Then it can be translated only as, “as ‘puriso’ etc.” or “the words �
 Then an inserted question must follow it, after which the quoted part is given.
 This is called the **Excluded Quotation** method of translation (*ākārabahikaraṇa*).
 
-**注意：**引文范围之外的主要从句可以单独翻译。然后给出引用的部分，必须在其后面插入一个问题。这被称为**引用排除**翻译方法（*ākārabahikaraṇa*）。
+**注意：**引文范围之外的主要从句可以单独翻译。然后给出引用的部分，必须在其后面插入一个问题。这被称为**Excluded Quotation**翻译方法（*ākārabahikaraṇa*）。
 
 Ex. puriso gacchati iti so vadati.
 
@@ -85,14 +87,14 @@ Ex. puriso gacchati iti so vadati.
 In contrast, the style without an inserted question (i.e. as in the examples above
 except the last) is called the **Incorporated Quotation** method (ākāra-antokaraṇa).
 
-相反，没有插入问题的样式（即如上例所示，除了最后一个）被称为**引用合并**方法（ākāra-antokaraṇa）。
+相反，没有插入问题的样式（即如上例所示，除了最后一个）被称为**Incorporated Quotation**方法（ākāra-antokaraṇa）。
 
 These two types can further be divided into two sub-types each, depending on whether the **quoted part** is translated or not.
 If it remains in Pali, this may be termed the **Formally Excluded Quotation** (*saddato ākārabahikaraṇa*) method or **Formally Incorporated Quotation** (*saddato ākāra-antokaraṇa*) method.
 
-这两种类型可以进一步被分为两个子类型，具体取决于**引用部分**是否被翻译。如果它保留在巴利语中，这可以被称为**正式？形式？传统？引用排除**（*saddato ākārabahikaraṇa*）方法或**正式引用合并**（*saddato ākāra-antokaraṇa*）方法。
+这两种类型可以进一步被分为两个子类型，具体取决于**引用部分**是否被翻译。如果它保留在巴利语中，这可以被称为**Formally Excluded Quotation**（*saddato ākārabahikaraṇa*）方法或**Formally Incorporated Quotation**（*saddato ākāra-antokaraṇa*）方法。
 
 If it is translated, this is called the **Essentially Excluded Quotation** (*atthato
 ākārabahikaraṇa*) method or **Essentially Incorporated Quotation** (*atthato ākāra-antokaraṇa*) method.
 
-如果被翻译，这被称为**基本引用排除**（*atthato ākārabahikaraṇa*）方法或**基本引用合并**（*atthato ākāra-antokaraṇa*）方法。
+如果被翻译，这被称为**Essentially Excluded Quotation**（*atthato ākārabahikaraṇa*）方法或**Essentially Incorporated Quotation**（*atthato ākāra-antokaraṇa*）方法。
