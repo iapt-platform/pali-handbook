@@ -3,12 +3,26 @@
 |句式|A主题(宾格) dassetvā B主题(宾格) dassetuṃ “引述内容” iti āha|
 |-|-|
 |模版1|宣说完A主题之后，为了宣说B主题而说了“引述内容”|
+|Pali例句1|Evam kusalaṃ dassetvā akusalaṃ dassetuṃ “katame dhammā akusalā” ti āha.|
+|译文1|宣说完善法之后，为了宣说不善法而说了“katame dhammā akusalā(何为不善法)”|
+
+
+$$宣说完\underbrace{善法}_{A主题(宾格)} 之后，为了宣说\underbrace{不善法}_{B主题(宾格)}而说了\underbrace{“katame dhammā akusalā”}_{引述内容}$$
+
+$$a+\underbrace{b+c}_{1.0}+d$$
+
 
 |句式|A主题(宾格) dassetvā B主题(宾格) dassento “引述内容” iti āha|
 |-|-|
 |模版1|宣说完A主题之后，宣说B主题者说了“引述内容”|
-|模版1|宣说完A主题之后，当宣说B主题时，说了“引述内容”|
+|模版2|宣说完A主题之后，当宣说B主题时，说了“引述内容”|
+|Pali例句1|Evam kusalaṃ dassetvā akusalaṃ dassento “katame dhammā akusalā” ti āha. |
+|译文1|宣说完善法之后，宣说不善法者说了“katame dhammā akusalā(何为不善法)”<br>$宣说完\underbrace{善法}_{A主题(宾格)} 之后，宣说\underbrace{不善法}_{B主题(宾格)}者说了\underbrace{“katame dhammā akusalā”}_{引述内容}$|
+|译文2|宣说完善法之后，当宣说不善法时，说了“katame dhammā akusalā(何为不善法)”<br>$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{不善法}_{B主题(宾格)}时说了\underbrace{“katame dhammā akusalā”}_{引述内容}$
 
+**自学参考内容如下：**
+
+---
 Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ / dassento “katame dhammā akusalā” ti āha. 
 
 “katame dhammā akusalā” ti --> dassetuṃ / dassento (IMP) 
