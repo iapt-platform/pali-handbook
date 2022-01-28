@@ -1,4 +1,4 @@
-# hetu - phala<br>因-果<br>[CAU](# "Causality Relation")
+# hetu - phala<br>因-果<br>CAU Causality Relation
 
 <br>这种关系，用**工具格**也是可能的。
 <br>This relation is possible here as with the **instrumental case**.

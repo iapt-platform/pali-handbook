@@ -1,4 +1,4 @@
-# **8. 宾格变化表达属格和处格的用法<br>**Usage of** *accusative* case in *genitive* & *locative* sense
+# 8. 宾格变化表达属格和处格的用法<br>**Usage of** *accusative* case in *genitive* & *locative* sense
 ## 宾格表达属格含义
 
 无语尾变化的 *upari*、*pari*、*upa* 或 *abhi* ，当这些词的后面加上后缀 *to* 时，另一个做 **宾格** 变化的单词与其构成**从属**关系。<br>
@@ -33,7 +33,3 @@ gamanassa--"POS<br>主-从"-->anantaraṃ--"LOV<br>容纳-动词"-->āgacchati
 ```
 **译**. 儿子在父亲去之后立刻来了。<br>
 **Trs**. The son comes immediately after the going of the father. 
- 
-
-
- 
