@@ -20,7 +20,7 @@ C--ADJ-->B
 B--AOV-->D
 ```
 
-**译**：- 单词“abhidhammatthasaṅgahaṃ”应与单词“bhāsissaṃ”的构成关联。<br>
+**译**：- 单词“abhidhammatthasaṅgahaṃ”应与单词“bhāsissaṃ”构成关联。<br>
 **Trs**:- The relation of the word “abhidhammatthasaṅgahaṃ” with the word “bhāsissaṃ” should be made. 
 
 ## **第二组关系**<br>**2nd Set of Relations** 
