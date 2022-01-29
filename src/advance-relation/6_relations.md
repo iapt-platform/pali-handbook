@@ -1,38 +1,57 @@
-# **6. Relations with** *dassetva ...dassetum (dassento)...aha*
-# **6.与** *dassetva ...dassetum (dassento)...aha*的关系
-   
-   Ex. Evam kusalam dassetva akusalam dassetum / dassento “katame dhamma 
-akusala” ti aha. 
+# **6. 与** *dassetvā ...dassetuṃ (dassento)...āha*的关系<br>Relations with *dassetvā ...dassetuṃ (dassento)...āha
 
- “katame dhamma akusala” ti --> dassetum / dassento (IMP) 
+|句式|A主题(宾格) dassetvā B主题(宾格) dassetuṃ “引述内容” iti āha|
+|-|-|
+|模版1|宣说完A主题之后，为了宣说B主题而说了“引述内容”|
+|Pali例句1|Evam kusalaṃ dassetvā akusalaṃ dassetuṃ “katame dhammā akusalā” ti āha.|
+|译文1|宣说完善法之后，为了宣说不善法而说了“katame dhammā akusalā(何为不善法)”|
 
- “katame dhamma akusala” ti --> aha (IOV) 
 
-(or) “katame dhamma akusala”     -->     iti (QUS), iti --> aha (QUM) 
+$$宣说完\underbrace{善法}_{A主题(宾格)} 之后，为了宣说\underbrace{不善法}_{B主题(宾格)}而说了\underbrace{“katame dhammā akusalā”}_{引述内容}$$
+
+$$a+\underbrace{b+c}_{1.0}+d$$
+
+
+|句式|A主题(宾格) dassetvā B主题(宾格) dassento “引述内容” iti āha|
+|-|-|
+|模版1|宣说完A主题之后，宣说B主题者说了“引述内容”|
+|模版2|宣说完A主题之后，当宣说B主题时，说了“引述内容”|
+|Pali例句1|Evam kusalaṃ dassetvā akusalaṃ dassento “katame dhammā akusalā” ti āha. |
+|译文1|宣说完善法之后，宣说不善法者说了“katame dhammā akusalā(何为不善法)”<br>$宣说完\underbrace{善法}_{A主题(宾格)} 之后，宣说\underbrace{不善法}_{B主题(宾格)}者说了\underbrace{“katame dhammā akusalā”}_{引述内容}$|
+|译文2|宣说完善法之后，当宣说不善法时，说了“katame dhammā akusalā(何为不善法)”<br>$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{不善法}_{B主题(宾格)}时说了\underbrace{“katame dhammā akusalā”}_{引述内容}$
+
+**自学参考内容如下：**
+
+---
+Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ / dassento “katame dhammā akusalā” ti āha. 
+
+“katame dhammā akusalā” ti --> dassetuṃ / dassento (IMP) 
+
+“katame dhammā akusalā” ti --> āha (IOV) 
+
+“katame dhammā akusalā” --> iti (QUS), iti --> āha (QUM) 
 
  (Other relations can be inferred from the translation.) 
 
  （其他关系可以从翻译中推断出来。）
 
-  **Trs**. (with *dassetum*) :- (the Lord Buddha), showed the Merit thus and, said (the 
-words), “katame dhamma akusala” to show the Demerit (with the words, “katame 
-dhamma akusala”). 
+  **Trs**. (with *dassetuṃ*) :- (the Lord Buddha), showed the Merit thus and, said (the words), “katame dhammā akusalā” to show the Demerit (with the words, “katame dhamma akusala”). 
 
-**Trs**.（与*dassetum*）：-（佛陀），因此展示了美德，并说（话），"katame dhamma akusala"来展示缺点（带有"katame dhamma akusala"的话）。
+**译**.（与*dassetum*）：-（佛陀），宣说了善法之后，"katame dhamma akusala"来宣说不善法（带有"katame dhamma akusala"的话）。
 
- **(or)** (The Lord Buddha), showed the Merit thus and, said thus, “katame dhamma 
-akusala” to show the Demerit (with the words, “katame dhamma akusala”). 
+ **(or)** (The Lord Buddha), showed the Merit thus and, said thus, “katame dhammā 
+akusalā” to show the Demerit (with the words, “katame dhammā akusalā”). 
 
-**（或）**（佛陀），展示了美德，因此说，"katame dhamma akusala"来展示缺点（带有"katame dhamma akusala"的话）。
+**（或）**（佛陀），宣说了善法之后，"katame dhamma akusala"来来宣说不善法（带有"katame dhamma akusala"的话）。
 
  **Trs**. (with *dassento*):- (the Lord Buddha), who showed the Merit and showed the 
-Demerit (with the words, “katame dhamma akusala”), said (the words), “katame 
-dhamma akusala” / (or) said thus, “katame dhamma akusala”. 
+Demerit (with the words, “katame dhammā akusalā”), said (the words), “katame 
+dhamma akusala” / (or) said thus, “katame dhammā akusalā”. 
 
-**Trs**.（与*dassento*）：- 展示了优缺点（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+**译**.（与*dassento*）：- 宣说了善和不善法之后（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
 
  **(or)** When (the Lord Buddha), showed the Merit and showed the Demerit (with 
-the words, “katame dhamma akusala”), (he) said (the words), “katame dhamma 
-akusala” / (or) said thus, “katame dhamma akusala”. 
+the words, “katame dhammā akusalā”), (he) said (the words), “katame dhammā 
+akusalā” / (or) said thus, “katame dhammā akusalā”. 
 
-**（或）****当（佛陀）展示了优缺点（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+**（或）****当（佛陀）宣说了善和不善法之后（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。

@@ -1,19 +1,26 @@
-# **9. Usage of** *abba/ sesa (avasesa) ...vajjetva / ñhapetva*
+# **9. *añña/ sesa (avasesa) ...vajjetvā / ṭhapetvā* 的用法<br>Usage of** *añña/ sesa (avasesa) ...vajjetvā / ṭhapetvā*
 
-# **9.使用** *abba/ sesa （avasesa） ...vajjetva / ñhapetva*
+The *inactive* object of *vajjetvā / ñhapetvā* is changed into a form of *ablative* case and inserted to be related to *añña/ sesa* in DET relation. 
 
-The *inactive* object of *vajjetvā / ñhapetvā* is changed into a form of *ablative*  case and inserted to be related to *abba / sesa* in DET relation. 
+**非主格受动者/宾格**与*vajjetvā / ṭhapetvā*的动宾短语，
+可以转化为**来源格**与*añña/ sesa*连用形成的短语，其关系为DET(离-开)关系。
 
-*vajjetva / ñhapetva*的**非主格受动者**做**来源格**变化，并以DET关系与*abba / sesa*相连。
-
-**Ex**.  Khuddakanikayo  nama  cattaro  nikaye  vajjetva  /  thapetva  (catuhi  nikayehi) 
-avasesam / sesam buddhavacanam. 
-
-(cattaro) nikaye  -->  vajjetva / thapetva (IOV) 
-
-(catuhi) nikayehi    -->    avasesam / sesam (DET) 
-
-**Trs**. *Khuddakanikaya* is, indeed, four *nikayas* not having been taken into account, 
-the Buddha’s teaching other (than four *nikayas*).    
-
-**Trs**. *Khuddakanikaya*确实没有被四个*nikayas*考虑在内，佛陀的教導（除了四個*nikayas*）。
+**例句**：<br>
+Khuddakanikāyo nāma cattāro nikāye vajjetvā / ṭhapetvā buddhavacanam.<br>
+```mermaid
+flowchart LR
+A("cattāro<br>四<br>复·宾")
+B("nikāye<br>部<br>复·宾")
+C("vajjetvā/ṭhapetvā<br>除了<br>动不变·连续")
+A--IAD-->B--IOV-->C
+```
+Khuddakanikāyo nāma cattāro nikāye catūhi nikāyehi avasesaṃ / sesaṃ buddhavacanam.
+```mermaid
+flowchart LR
+A("catūhi<br>四<br>复·源")
+B("nikāyehi<br>部<br>复·源")
+C("avasesaṃ/sesaṃ<br>剩余的<br>单·主")
+A--IAD-->B--DET-->C
+```
+**译**：小部（*Khuddakanikāya*）是除了四部（*nikāya*）之外的佛陀的教導。<br>
+**Trs**. *Khuddakanikāya* is, indeed, four *nikāya*s not having been taken into account, the Buddha’s teaching other (than four *nikāya*s). 
