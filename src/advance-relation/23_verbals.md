@@ -2,18 +2,18 @@
 # 23. *verbals derived from √* **的用法** 
 
     
- **Ex**. purisassa / purisam hatthasmim gahetva ... 
+ **Ex**. purisassa / purisaṁ hatthasmiṁ gahetvā ... 
      
-    purisassa / purisam --> gahetva (IOV) / hatthasmim    -->     gahetva (LOV) 
+    purisassa / purisaṁ --> gahetvā (IOV) / hatthasmiṁ    -->     gahetvā (LOV) 
       
-       purisassa / purisam --> hatthasmim (whole-part) 
+       purisassa / purisaṁ --> hatthasmiṁ (whole-part) 
        
 **Trs**. ...having taken the man at (i.e. by) the hand 
 
 **译**. ...（即，由）手上拉着男人
 
     
-     purisassa / purisam --> hatthasmim (POS) / hatthasmim --> gahetva (IOV) 
+     purisassa / purisaṁ --> hatthasmiṁ (POS) / hatthasmim --> gahetvā (IOV) 
      
  **Trs**. ... having taken the hand of the man
 

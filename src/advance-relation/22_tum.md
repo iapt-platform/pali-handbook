@@ -1,4 +1,4 @@
-# **22. Usage of** *tum, & -ttham* 
+# **22. Usage of** *tuṁ, & -tthaṁ* 
 # 22. *tum, & -ttham* **的用法** 
 
     
@@ -8,15 +8,15 @@ can have two relations, namely, Causal and Purposive ones.
 
 *单数宾格*情况，*不定式*（如后缀*tum*）和复合词具有最后一个成份*attha*的意思："原因，目的，目的，意图"，可以有两种关系，即因果关系和目的关系。
 
- **Ex**. Gamam dassetum puriso gacchati.  
-   dassetum   gacchati (CAU / PUR) 
+ **Ex**. Gamaṁ dassetuṁ puriso gacchati.  
+   dassetuṁ -->  gacchati (CAU / PUR) 
 
 **译**. 人们去（*由于愿望*）展示村庄。 
    
  **Trs**. The man goes (*on account of the wish*) to show the village. 
-          Gamadassanattham puriso gacchati. 
+          Gāmadassanatthaṁ puriso gacchati. 
           
-Gamadassanattham   gacchati (CAU / PUR) 
+Gāmadassanatthaṁ -->  gacchati (CAU / PUR) 
 
  **译**. 人们去（*因为愿望/为了*）展示村庄。
  

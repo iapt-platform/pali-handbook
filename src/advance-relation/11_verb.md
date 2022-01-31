@@ -1,20 +1,30 @@
-# **11. Usage of** a *conjugated* verb as a subject or object 
-# **11.** 一个 *联合* 动词作主语或宾语的使用
-    
-     **Ex**. Migam dhavati passami. 
-     **Trs**. (I) see the deer run. 
+# **11. 共轭动词作主语或宾语的使用<br>Usage of** a *conjugated* verb as a subject or object 
 
-     **Ex**. Migam dhavati passami.
-     **译**.（我）看见鹿跑。
+**例句**：Migaṃ **dhavati** passami. 
+```mermaid
+flowchart LR
+A("migaṃ<br>鹿<br>单·宾")
+B("passāmi<br>[我]看见<br>动·第一·单·现")
+C("dhāvati<br>[其]跑<br>动·第三·单·现")
+A--"DIO-P<br>主语-系动词"-->B
+C--"DIO-S<br>表语-系动词"-->B
+```
+**译**：（我）看见鹿跑。<br>
+**Trs**： (I) see the deer run. 
 
-      migam -->  passami (DIO-P) / dhavati  -->passami (DIO-S)  
-      
-      Ko me vandati padani 
-      **Trs**. The one who pays homage to my feet is who? 
+---
 
-      Ko me vandati padani 
-      **译**.向我的脚致敬的人是谁？
-      
-       me --> padani (POS) / padani --> vandati (IOV) 
-       
-     vandati --> ko (NIO)
+**例句**：Ko me **vandati** pādāni.
+```mermaid
+flowchart LR
+A("ko<br>谁<br>单·主")
+B("me<br>我[的]<br>单·属")
+C("vadati<br>[其]礼敬<br>动·第三·单·现")
+D("pādāni<br>(双)足<br>复·宾")
+B--"POS<br>主-从"-->D
+D--"IOV<br>宾语-动词"-->C
+C--"NIO<br>主语-表语"-->A
+```
+
+**译**：向我的脚致敬的人是谁？<br>
+**Trs**：The one who pays homage to my feet is who? 

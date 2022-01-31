@@ -21,6 +21,7 @@
 
 
 ## 启动 mdbook
+在仓库文件夹启动集成终端
 
 vscode 菜单->终端->新终端
 
@@ -29,9 +30,11 @@ vscode 菜单->终端->新终端
 键入
 
 ```
-c:\mdbook.exe serve --open
+c:\mdbook.exe serve --port 3000 --hostname 192.168.2.12 --open
 ```
-
+其中：
+- `--port`后面设置端口
+- `--hostname`后面写自己的ip地址
 浏览器会自动打开
 
 ![home](images/home.png)

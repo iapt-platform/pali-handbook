@@ -1,4 +1,6 @@
 # **5. Causal Nouns**   
+
+
    Causal  nouns  are  those  related  to  other  words  in  causal  relation.  They  are 
 usually *abstract derivatives* or *compounds* having the last member *bhava*, and they may 
 have  either  *instrumental*  or  *ablative*  cases.  For  each  *causal*  noun,  there  is  always 
