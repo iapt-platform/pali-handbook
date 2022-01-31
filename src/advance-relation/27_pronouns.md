@@ -6,7 +6,7 @@ having no particular sense.
 
 当两个不同的代词叠加时，第二个代词通常没有特别的意义。
 
-  **Ex**. ye ime manussa... 
+  **Ex**. ye ime manussā... 
 
   **译**. 那些男人。 
 
