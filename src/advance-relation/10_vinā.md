@@ -20,4 +20,4 @@ B--ADV-->C
 ```
 
 - **译**：除了孩子（即没有孩子），所有男人都去。
-- **Trs**:All men go, having excluded the child (i.e. without the child).
+- **Trs**：All men go, having excluded the child (i.e. without the child).

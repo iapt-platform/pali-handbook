@@ -1,5 +1,4 @@
-# **12. Usage of** *directional* words in *instrumental* case 
-# **12.***方向*单词在*工具格*中的用法    
+# 12. 方位词的工具格变化<br>**Usage of** *directional* words in *instrumental* case 
 When a *semi-pronoun* denoting a compass bearing, such as east, west, etc., is put 
 into *instrumental* case, another word in *accusative* case is related to it in *detachment* or 
 *possessor* relation. 
