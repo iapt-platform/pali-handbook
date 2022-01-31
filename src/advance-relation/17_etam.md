@@ -1,12 +1,12 @@
-# 17. Usage of *iti etam ...vacanam* 
+# 17. Usage of *iti etaṁ ...vacanaṁ* 
 This phrase is used in *comment units* to express the nominal cases of nouns in 
 *commented units*. 
 
-  **Ex**. yenati etam karanavacanam 
+  **Ex**. yenāti etaṁ karanavacanaṁ 
   
-   yenati --> etam (Whole-Part) (or) (IAD) / 
+   yenāti --> etaṁ (Whole-Part) (or) (IAD) / 
    
-   etam    -->    karanavacanam (NIO) 
+   etaṁ    -->    karanavacanaṁ (NIO) 
    
  **Trs**. This case in the word *yena* is an Instrumental case (or) this word *yena* is  one that has an Instrumental case. 
 
