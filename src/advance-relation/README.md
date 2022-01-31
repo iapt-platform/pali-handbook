@@ -31,3 +31,15 @@
 29. [Usage of ettha siya](29_ettha.md)
 30. [Usage of etthaha](30_etthaha.md)
 31. [Usage of idani ... aha](31_aha.md)
+32. [Usage of kiñcettha](32_kiñcettha.md)
+33. [Usage of nanu](33_nanu.md)
+34. [Usage of taṁ yathā](34_tam.md)
+35. [Usage of yadidaṁ](35_yadidam.md)
+36. [Usage of yathā āha](36_yatha.md)
+37. [Usage of yathā taṁ](37_taṁ.md)
+38. [Usage of vuccate](38_vuccati.md)
+39. [Usage of vuccati](39_vuccati.md)
+    
+    Formal Interpretations
+1. [Formal Interpretations](1_Formal.md)
+2. [A. Commented Unit, Comment Unit and Formal Interpretations](2_A.md)

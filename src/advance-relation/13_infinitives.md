@@ -6,22 +6,24 @@ sometimes used as 1. Gerunds, 2. Nominative forms, 3. Accusative forms.
 
 不定式将目的关系作为其主要用法，但它们有时也用作 1。动名词， 2.主格形式， 3.宾格形式。
 
-**Ex.1**. nekkhamam khemato datthum // datthum < (√ dis + tum) 
+**Ex.1**. nekkhamaṁ khemato datthuṁ // datthuṁ < (√ dis + tum)
 
 **译**. ...看到Jhana的幸福为和睦...
 
 **Trs**. ... having seen Jhana bliss as peace ...
 
-**Ex.2**. Acinnam bhikkhunam vihare vasitum. 
+**Ex.2**. Ācinnaṁ bhikkhūnaṁ vihāre vasituṁ. 
 
-  vasitum       acinnam (NIO /PUR) 
+  vasituṁ    -->   ācinnaṁ (NIO /PUR) 
 
 **Trs**. Staying / to stay at a monastery is the custom of monks. 
 
 **译**. 住在/留在寺院是僧侣的习俗。
 
-**Ex.3**. Raja anujanati coram hantum (√ han + tum) // 
+**Ex.3**. Rājā anujānāti coraṁ hantuṁ (√ han + tuṁ) // 
 
-**译**. 国王hantum anujanati（IOV / PUR）允许处死小偷
+**译**. 国王hantuṁ  -->  anujānāti (IOV / PUR)允许处死小偷
 
-**Trs**. The king  hantum    anujanati (IOV / PUR)    permits to kill the thief
+**Trs**. The king hantuṁ  -->  anujānāti (IOV / PUR) permits to kill the thief
+
+ 

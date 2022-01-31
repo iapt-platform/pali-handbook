@@ -5,9 +5,9 @@ into *instrumental* case, another word in *accusative* case is related to it in 
 
 当表示罗盘方位的*semi-pronoun*时，例如东，西等，作为*工具格*，和另一个做*宾格*的词发生与*detachment*或*拥有者*的关系。
 
-**Ex**. Puriso vasati pubbena gamam.  
+**Ex**. Puriso vasati pubbena gāmaṁ.  
 **Trs**. The man lives at the east *from / of* the village.  
 
 **译**. 该男子住在村庄的东部。
 
-  pubbena    -->    vasati (LOV) / gamam   -->  pubbena (DET / POS) 
+  pubbena    -->    vasati (LOV) / gāmaṁ   -->  pubbena (DET / POS) 

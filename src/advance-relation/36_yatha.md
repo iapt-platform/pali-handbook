@@ -1,14 +1,14 @@
-# **36. Usage of** *yatha aha* 
+# **36. Usage of** *yathā āha* 
 # 36. *yatha aha* **的用法** 
    
- The phrase *yathaha* is used to quote a certain authority. It is viewed as the ab-
-breviated form of “*yatha aha* = this is why (the inserted Active Subject) said ...” or 
+ The phrase *yathāha* is used to quote a certain authority. It is viewed as the ab-
+breviated form of “*yathā āha* = this is why (the inserted Active Subject) said ...” or 
 
 短语*yathaha*用于引用某个官方资料来源。它被视为"*yatha aha* 的缩写形式 = 这就是为什么（插入主语）说......"或
 
-“*maya vuttassa vacanassa sadhakam yatha [kim (vacanam)] aha* = what set of speech, 
+“*mayā vuttassa vacanassa sādhakaṁ yathā [kiṁ (vacanaṁ)] āha* = what set of speech, 
 which validate the words mentioned by me, did (the inserted Active subject) say?” or 
-“*yatha [yena (vacanena)] aha, tatha [tena (vacanena)] maya vuttam vacanam sameti* = 
+“*yathā [yena (vacanena)] āha, tathā [tena (vacanena)] mayā vuttaṁ vacanaṁ sameti* = 
 the set of speech, by which (the inserted Active Subject) said, the set of speech 
 mentioned by me agrees with it.” 
 
