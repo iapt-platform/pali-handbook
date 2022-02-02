@@ -12,9 +12,9 @@ Their *inactive* objects, that is, the objects excluded, can be in *accusative*,
 **例句**：Aññatra (Vinā) dārakaṃ/dārakena/dārakasmā sabbe manussā gacchanti. 
 ```mermaid
 flowchart LR
-A("dārakaṃ<br>dārakena<br>dārakasmā")
-B("aññatra<br>vinā")
-C("gacchanti")
+A("dārakaṃ<br>单·宾<br>男孩<br>dārakena<br>单·具<br>男孩<br>dārakasmā<br>单·目的/属格<br>男孩")
+B("aññatra<br>不变·副<br>除了<br>vinā<br>不变·介<br>没有")
+C("gacchanti<br>动·第三·单·现<br>去")
 A--IOV-->B
 B--ADV-->C
 ```
