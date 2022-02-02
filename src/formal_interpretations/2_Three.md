@@ -23,3 +23,12 @@ ment serves to indicate the word-to-word relations, hence the term *relational c
  The phrase *iti sambandho*, having the sense "This is the relation", is typical of this 
 type but not an essential component --- whenever the word order of a commented unit is 
 changed to throw light on the relations within it, it can be termed a **relational comment**.1 
+
+
+                                                 1 It should be noted, however, that it is also possible to use relational comments for some indeclinables 
+having no relation to other words if such an explanation would serve to make the syntax clearer. 
+
+ For example,  
+ -   buddhaṃ dhammaṃ saṇgañca abhivādiya (*Commented unit*)  
+ -    buddhañca dhammañca saṇgañca abhivādiyāti sambandho (*Comment unit*)  
+ -    The phrase " *buddhañca dhammañca*" implies that *ca* of *saṇgañca* is the conjunction that joins  *buddhaṃ*, *dhammaṃ*, and *saṇgaṃ* together.
