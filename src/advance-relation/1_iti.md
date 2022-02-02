@@ -19,17 +19,25 @@ The quoted speech itself may be **translated** or **not**.
 
 
 >Ex. puriso gacchati iti so vadati / cinteti.
->```mermaid
->graph LR
->A("“Puriso gacchati”")--QUS-->iti--QUM-->vadati/cinteti
->```
+
+```mermaid
+flowchart LR
+subgraph "引号内"
+direction LR
+A("Puriso<br>单·主<br>男人<br>")
+B("gacchati<br>动·第三·单·现<br>前往")
+A--"ASV"-->B
+end
+引号内--QUS-->C("iti<br>不变·副<br>引号")--QUM-->D("vadati/cinteti<br>动·第三·单·现<br>说")
+```
+
 >He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
 >他说/认为是，"puriso gacchati"（不翻）/"他走了"（翻）。
 
 >Ex. so “datto” iti ñāyate
 >```mermaid
 >graph LR
->A("“datto”")--QUS-->iti--QUM-->ñāyate
+>A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--QUM-->ñāyate
 >```
 >He is known as Datta.
 
@@ -43,10 +51,18 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 结果是一个不变名词。其情况可能是七种情况之一（不包括呼格），应从上下文中推断。
 
 >Ex. puriso gacchati iti so vadati / cinteti.
->```mermaid
->graph LR
->A("“Puriso gacchati”")--QUS-->iti--IOV-->B("vadati<br>cinteti")
->```
+
+```mermaid
+flowchart LR
+subgraph "引号内"
+direction LR
+A("Puriso<br>单·主<br>男人<br>")
+B("gacchati<br>动·第三·单·现<br>前往")
+A--"ASV"-->B
+end
+引号内--QUS-->C("iti<br>不变·副<br>引号")--IOV-->D("vadati/cinteti<br>动·第三·单·现<br>说")
+```
+
 >He says (the words) / thinks of (the words), “puriso gacchati”, or, “He goes”.
 
 >他说（这些话）/想（这些话），"puriso gacchati"，或者"他走了"。
@@ -54,7 +70,7 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 >```mermaid
 >graph LR
 >so--AOV-->ñāyate
->A("“datto”")--QUS-->iti--IAD-->so
+>A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--IAD-->so
 >```
 >He, who is (named) Datta, is known.
 

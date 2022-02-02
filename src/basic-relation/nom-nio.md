@@ -1,51 +1,47 @@
-# nom-nio
+# A.主语-表语关系
 
-[基本关系语法](basic-relation.md)&gt;[主格](nom.md)&gt;AOV
+两个相关联的词语：
+- 表示相同内容的
+- 必须是主格[^1]，但性与数可能会不同
 
-## AOV
+>这里不必有特别的时态与语气。
 
-* 巴利语： vuttakamma - kiriyā
-* 中文： 受動者-動詞關係（vutta）
-* English： Active Object Relation
-* 
+它又可以进一步分为两个子关系，即主语-表语（普通）关系和主语-表语（带名称）关系。
 
- #  A.主格相同关系
+---
+[^1]:仅针对完整的句子或独立从句
 
-   表示相同内容的词语必须是主格，但性与数可能会不同。这里不必有特别的时态 与语气。它又可以进一步分为两个子关系，即主格相同（普通）关系和主格相同（带 名称）关系。 
+---
 
-## A.1.主格相同（普通）关系
+## A.1.主语-表语（普通）关系
+
+|语种|名称|
+|-|-|
+|巴利语|tulyattha-liṅgattha|
+|中文|主语-表语（普通）|
+|English|Nominal Identity (Ordinary) Relation|
+
 
 so ācariyo=他（是）老师。
 ```mermaid
 graph LR
 so-->ācariyo
 ```
- Nandā kalattaṃ=难达（是）妻子。
-```mermaid 
+> 该例句中：**性**、**数**、**格**相同
+
+---
+
+Nandā kalattaṃ=难达（是）妻子。
+```mermaid
 graph LR
 Nandā-->kalattaṃ
 ```
- citttāni vīsati=这种心分 类（数量上）。 
+> 该例句中：**性**不同
+---
+
+citttāni vīsati=心（有）20种。
 ```mermaid
 graph LR
-citttāni-->vīsati
+A("citttāni<br>[诸]心<br>名·中·复·主")-->B("vīsati<br>二十<br>数词干·阴")
 ```
-  
-
- >注：第二个例子中的性别不同，与最后一个例子中的性与数的不同，应当要标明。 
- 
- ## A.2.主格相同（带名称）关系
-
-  这类的明显之处在于不变词"nāma"意为“名为”，否则它与上一个类似。
-
-  例如：saro nandā nāma=（这个）湖的名字叫做 Nandā。
-```mermaid 
-graph LR
-saro-->nandā
-```
-   bhikkhuniyo saṅgho nāma=许多比库尼名为僧团。 
-   ```mermaid 
-graph LR
-bhikkhuniyo-->saṅgho
-```
- >注： 请留意第一个例子中的性别不同，第二个例子中的性与数不同。 
+> 该例句中：**性**与**数**不同

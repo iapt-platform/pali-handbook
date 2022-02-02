@@ -3,7 +3,7 @@
 
  **Ex**. **Rājagahe viharatī**ti rājagahaṃ nagarassa nāmaṃ. 
  
-  Rājagahe viharatīti -->  rājagahaṁ (Whole-Part) 
+  Rājagahe viharatīti -->  rājagahaṃ (Whole-Part) 
   
   **译**. "Rājagahe viharati"，在一组演讲中，rājagaha这个词是一个城镇的名字。
 

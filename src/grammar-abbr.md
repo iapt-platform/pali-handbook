@@ -64,7 +64,7 @@
 |-|-|-|-|
 |sī|sīhaḷa-potthakaṃ|斯里兰卡版|Sirilanka Script|
 |syā|syāma-potthakaṃ|泰国版|Thailand Script|
-|kaṃ|kamboja-potthakaṃ|斯里兰卡版|Cambodian Script|
+|kaṃ|kamboja-potthakaṃ|柬埔寨版|Cambodian Script|
 |i<br>pī|iṅgalisa-potthakaṃ|巴利圣典协会版|PTS<br>London Pali Text Society|
 |ka|kesuci<br>maramma-potthakesu<br>dissamāna-pāṭho|缅甸某个版本|word which<br>was found<br>in some<br>Burmese scripts|
 |ka-sī|kesuci<br>sīhaḷa-potthakesu<br>dissamāna-pāṭho|斯里兰卡某个版本|word which<br>was found<br>in some<br>Sirilanka scripts|
