@@ -1,3 +1,4 @@
+Formal Interpretations
 # **Formal Interpretations** 
 
 **(tmabmfoH0PÖem)** 
@@ -12,3 +13,5 @@ us; if we seem to be above them, it is only because they have raised us on their
 shoulders." 
 
   -Adapted from *The Story of Philosophy (p-400) by Will Durant.*
+
+

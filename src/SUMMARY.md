@@ -165,6 +165,8 @@
 * [高级语法手册](grammar/README.md)
   * [Hoti](grammar/hoti.md)
   * [Tabba](grammar/tabba.md)
+* [Formal Interpretations](formal_interpretations/README.md)
+  * [A. Commented Unit, Comment Unit and Formal Interpretations](formal_interpretations/1_A.md)
 * [复合词](compound/README.md)
   * [相连](compound/1\_dvanda.md)
   * [依主](compound/2\_tappurisa.md)
