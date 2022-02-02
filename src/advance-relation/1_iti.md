@@ -19,10 +19,18 @@ The quoted speech itself may be **translated** or **not**.
 
 
 >Ex. puriso gacchati iti so vadati / cinteti.
->```mermaid
->graph LR
->A("“Puriso gacchati”")--QUS-->iti--QUM-->vadati/cinteti
->```
+
+```mermaid
+flowchart LR
+subgraph "引号内"
+direction LR
+A("Puriso<br>单·主<br>男人<br>")
+B("gacchati<br>动·第三·单·现<br>前往")
+A--"ASV"-->B
+end
+引号内--QUS-->iti--QUM-->vadati/cinteti
+```
+
 >He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
 >他说/认为是，"puriso gacchati"（不翻）/"他走了"（翻）。
 

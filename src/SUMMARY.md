@@ -135,7 +135,7 @@
   * [Usage of *abbatra / vina*](advance-relation/10_vinā.md)
   * [Usage of a *conjugated* verb as a subject or object](advance-relation/11_verb.md)
   * [Usage of *directional* words in *instrumental* case](advance-relation/12_directional.md)
-  * [Usage** (special) of *infinitives*](advance-relation/13_infinitives.md)
+  * [Usage (special) of *infinitives*](advance-relation/13_infinitives.md)
   * [Usage of *itaratha / abbatha*](advance-relation/14_itarathā.md)
   * [Usage of *iti adhippāyo*](advance-relation/15_iti.md)
   * [Usage of *iti attho*](advance-relation/16_attho.md)
