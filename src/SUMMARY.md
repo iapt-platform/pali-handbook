@@ -126,7 +126,7 @@
   * [以*iti*结尾的引号<br>Quotations that end in - iti and types of translations](advance-relation/1_iti.md)
   * [比喻修辞<br>Expressions of Comparison](advance-relation/2_comparison.md)
   * [相关翻译Interrelated Translations](advance-relation/3_Interrelated.md)
-  * [不确定的/确定的翻译Indefinite / Definite Translations ]advance-relation/(4_indefinite.md)
+  * [不确定的/确定的翻译Indefinite / Definite Translations ](advance-relation/4_indefinite.md)
   * [因果关系的名词Causal Nouns](advance-relation/5_causal.md)
   * [Relations with *dassetva ...dassetum (dassento)...aha*](advance-relation/6_relations.md)
   * [Relations with *iti sambandho*](advance-relation/7_with.md)
@@ -167,6 +167,12 @@
   * [Tabba](grammar/tabba.md)
 * [Formal Interpretations](formal_interpretations/README.md)
   * [A. Commented Unit, Comment Unit and Formal Interpretations](formal_interpretations/1_A.md)
+  * [B.Three Types of Comments](formal_interpretations/2_Three.md)
+  * [C.Twelve Types of Indications](formal_interpretations/3_C.Twelve.md)
+  * [C.1 Sandhi Indicatio(Sandhiliṅgapadasaṃvaṇṇanā)](formal_interpretations/4_C.1.md)
+  
+  
+  
 * [复合词](compound/README.md)
   * [相连](compound/1\_dvanda.md)
   * [依主](compound/2\_tappurisa.md)
