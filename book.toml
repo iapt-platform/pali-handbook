@@ -4,11 +4,12 @@ language = "en"
 multilingual = false
 src = "src"
 title = "巴利手册"
-[output.html]
-mathjax-support = true
-additional-js = ["mermaid.min.js", "mermaid-init.js"]
-
 [preprocessor]
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
+
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+mathjax-support = true

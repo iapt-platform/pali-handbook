@@ -9,10 +9,12 @@
 这类的明显之处在于不变词"nāma"意为“名为”，否则它与上一个类似。
 
   例如：saro nandā nāma=（这个）湖名为 Nandā。
-```mermaid 
-graph LR
+
+```mermaid
+flowchart LR
 saro--"NID"-->nandā
 ```
+
 > 该例句中：**性**不同
 
 ---
