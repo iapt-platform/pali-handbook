@@ -40,6 +40,4 @@
 38. [Usage of vuccate](38_vuccati.md)
 39. [Usage of vuccati](39_vuccati.md)
     
-    Formal Interpretations
-1. [Formal Interpretations](1_Formal.md)
-2. [A. Commented Unit, Comment Unit and Formal Interpretations](2_A.md)
+    
