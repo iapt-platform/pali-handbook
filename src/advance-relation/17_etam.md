@@ -1,18 +1,18 @@
-# 17. Usage of *iti etaṁ ...vacanaṁ* 
-# 17. *iti etaṁ ...vacanaṁ***的使用**
+# 17. Usage of *iti etaṃ ...vacanaṃ* 
+# 17. *iti etaṃ ...vacanaṃ***的使用**
 
 This phrase is used in *comment units* to express the nominal cases of nouns in 
 *commented units*. 
 
 此短语在 *comment units* 中用于表示名词的名词性*commented units*。
 
-  **Ex**. yenāti etaṁ karanavacanaṁ 
+  **Ex**. yenāti etaṃ karanavacanaṃ 
   
-   yenāti --> etaṁ (Whole-Part) (or) (IAD) / 
+   yenāti --> etaṃ (Whole-Part) (or) (IAD) / 
    
-   yenāti --> etaṁ (整体) (或) (IAD) / 
+   yenāti --> etaṃ (整体) (或) (IAD) / 
 
-   etaṁ    -->    karanavacanaṁ (NIO) 
+   etaṃ    -->    karanavacanaṃ (NIO) 
 
  **译**. 这个案例在单词*yena*中是一个工具格（或）*yena*这个词是一个具有工具格的属性。
 

@@ -38,7 +38,7 @@ is dark.
 
 **b**. 有时，*现在分词*可能意味着一个祝福，一个愿望。
 
- **Ex.** Puriso gacchanto āha, “ācariya, ahaṁ gacche”ti. 
+ **Ex.** Puriso gacchanto āha, “ācariya, ahaṃ gacche”ti. 
  
  **译**. 当那个男人（*希望*）离开时，（他）说："老师啊！我可以走吗？"
 
