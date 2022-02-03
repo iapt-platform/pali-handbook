@@ -18,11 +18,12 @@
 
 例如：saro nandā nāma abhavi/bhūtaṃ（那个）湖曾名为Nandā。
 
-```mermaid
+<div class="mermaid">
 graph LR
 saro-->abhavi/bhūtaṃ
 nandā-->abhavi/bhūtaṃ
-```  
+</div>
+  
  
  以上句中，saro是首要的主动主语，而nandā是次要的主动主语，动词明确地表 达过去时。 
  

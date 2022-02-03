@@ -8,39 +8,44 @@
 例如：
 ## 空间
 >yojanaṃ dīgho<br>（一）日脚程长
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(yojanaṃ<br>日脚程)--STC-->B(dīgho<br>长)
->```
+></div>
+
 
 >yojanaṃ gacchati
 ><br>走（一）日脚程
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(yojanaṃ<br>日脚程)--STC-->B(gacchati<br>走)
->```
+></div>
+
 
 >yojanaṃ maggo<br>(一)日脚程（长）的路 
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(yojanaṃ<br>日脚程)--STC-->B(maggo<br>路)
->```
+></div>
+
 
 ## 时间
 >māsaṃ khīraṃ<br>牛奶(经过)(一个)月
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(māsaṃ<br>月)--STC-->B(khīraṃ<br>牛奶)
->```
+></div>
+
 
 >masaṃ rāmanīyā<br>快乐(经过)(一个)月
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(māsaṃ<br>月)--STC-->B(ramanīyā<br>快乐)
->```
+></div>
+
 
 >māsaṃ sajjhayati<br>学习(经过)(一个)月
->```mermaid
+><div class="mermaid">
 >graph LR
 >A(māsaṃ<br>月)--STC-->B(sajjhayati<br>学习)
->```
+></div>

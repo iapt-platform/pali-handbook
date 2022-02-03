@@ -7,7 +7,7 @@ pīti**yā** na bhuñjati
 >不要**因为**贪爱而吃。
 ><br>does not eat **owing to** delight.
 
-```mermaid
+<div class="mermaid">
 graph LR;
 A(pītiyā<br>因为贪爱)--"hetu—phala<br>因—果<br>CAU"-->B(na bhuñjati<br>不要...吃);
-```
+</div>

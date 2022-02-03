@@ -10,18 +10,19 @@
 
   例如：saro nandā nāma=（这个）湖名为 Nandā。
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 saro--"NID"-->nandā
-```
+</div>
 
 > 该例句中：**性**不同
 
 ---
 
 bhikkhuniyo saṅgho nāma=许多比库尼名为僧团。 
-```mermaid 
+<div class="mermaid"> 
 graph LR
 bhikkhuniyo--"NID"-->saṅgho
-```
+</div>
+
 > 该例句中：**性**与**数**不同。 

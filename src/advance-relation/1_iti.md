@@ -15,10 +15,9 @@ The whole set of quoted words is viewed as a single noun and related to “iti�
 引文本身可翻可不翻。
 The quoted speech itself may be **translated** or **not**.
 
-
 >Ex. puriso gacchati iti so vadati / cinteti.
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 subgraph iti
 direction LR
@@ -30,21 +29,22 @@ C("iti<br>引号<br>不变·副")
 D("vadati/cinteti<br>[其]说/想<br>动·第三·单·现")
 iti--"QUS"-->C
 C--"QUM"-->D
-```
+</div>
 
 >He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
 >他说/想：“puriso gacchati”（不翻）/“他走了”（翻）。
 
 >Ex. so “datto” iti ñāyate
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("datto<br>已赐予；阿赐<br>阳·单·主")
 B("ñāyate")
 C("iti<br>引号<br>不变·副")
 A--QUS-->C
 C--QUM-->B
-```
+</div>
+
 >He is known as Datta.
 
 >他被称为Datta。
@@ -58,7 +58,7 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 
 >Ex. puriso gacchati iti so vadati / cinteti.
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 subgraph "引号内"
 direction LR
@@ -67,14 +67,14 @@ B("gacchati<br>动·第三·单·现<br>前往")
 A--"ASV"-->B
 end
 引号内--QUS-->C("iti<br>不变·副<br>引号")--IOV-->D("vadati/cinteti<br>动·第三·单·现<br>说")
-```
+</div>
 
 >He says (the words) / thinks of (the words), “puriso gacchati”, or, “He goes”.
 
 >他说（这些话）/想（这些话），“puriso gacchati”，或者"他走了"。
 >Ex. so “datto” iti ñāyate
 
-```mermaid
+<div class="mermaid">
 graph LR
 A("datto<br>单·主<br>已赐予；阿赐")
 B("so")
@@ -83,7 +83,8 @@ D("ñāyate")
 B--AOV-->D
 A--QUS-->C
 C--IAD-->B
-```
+</div>
+
 >He, who is (named) Datta, is known.
 
 >他，（名叫）达塔，是众所周知的。

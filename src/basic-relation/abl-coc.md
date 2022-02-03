@@ -8,14 +8,16 @@
 so asm**āhi** pāpiyataro
 >他**比**我们更差。
 ><br>He (is) worse **than** us.
-```mermaid
+<div class="mermaid">
 graph LR;
 A(asmāhi<br>比我们)--"vibhattāpādāna—vibhattāpādānin<br>比-较<br>COC"-->B(pāpiyataro<br>更差);
-```
+</div>
+
 ayaṃ saccamagg**ā** añño
 >此（道）**跟**真理之道相异。
 ><br>This (path is) different **from** the path of truth.
-```mermaid
+<div class="mermaid">
 graph LR;
 A(saccamaggā<br>跟真理之道)--"vibhattāpādāna—vibhattāpādānin<br>比-较<br>COC"-->B(añño<br>相异);
-```
+</div>
+
