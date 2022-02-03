@@ -14,7 +14,8 @@
 
 例如：puriso gacchati/gato=（那个）人走/已经走。
 
-```mermaid
+<div class="mermaid">
 graph LR
 puriso-->gacchati/gato
-```   
+</div>
+   

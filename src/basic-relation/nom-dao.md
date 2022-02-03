@@ -14,31 +14,34 @@
 
 例如：sāmanero bhikkhu karāyate/kato=（那个）沙马内拉被变成比库。 
 
-```mermaid
+<div class="mermaid">
 graph LR
 sāmanero--DAO-P-->karāyate/kato
 bhikkhu--DAO-S-->karāyate/kato
-```   
+</div>
+   
 
 上述句中，sāmanero是首要主动宾语，bhikkhu是次要主动宾语。
 
 sāmanero bhikkhu kātabbo=（那个）沙马内拉应当被变成比库。 
 
-```mermaid
+<div class="mermaid">
 graph LR
 sāmanero--DAO-P-->kātabbo
 bhikkhu--DAO-S-->kātabbo
-```    
+</div>
+    
 
 >注1：当首要与次要主动宾语在性与数上不同时，动词必须与首要主动宾语一致。
 
  例如：rukko kuṭi karīyate=（那棵）树被做成了孤邸。
  
-```mermaid
+<div class="mermaid">
 graph LR
 rukko--DAO-P-->karīyate
 kuṭi--DAO-S-->karīyate
-```
+</div>
+
 
  >注2：有时，一个过去分词或未来分词合并成为一个曲折的主动态动词，意为“是”
  
@@ -47,9 +50,10 @@ kuṭi--DAO-S-->karīyate
  以上例句中，puriso是过去分词 hato的主动宾语，但它也是将来时动词bhavissati的首要主动主语。所以，它应当以不同的方式与两个动词相关联。 
  
  例如：
- ```mermaid
+ <div class="mermaid">
 graph LR
 puriso--AOV-->hato
 puriso--DASO-P->bhavissati
 hato--DASO-S-->bhavissati
-```    
+</div>
+    

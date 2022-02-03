@@ -37,13 +37,14 @@ The word *yathā* must be related to that participle in Adverbial relation.
 单词 *yathā* 必须与副词关系中的该分词相关。
 
 >**Ex**：yathā (mayi karonte) buddho anujānissati, tathā karissāmi.
->```mermaid
+><div class="mermaid">
 >graph LR
 >yathā--ADV-->karonte
 >mayi--ASV-->karonte
 >karonte--DEF-->anujānissati
 >tathā--ADV-->karissāmi
->```
+></div>
+
 >**译**：（当我）怎么（做）佛会允许，我就那么做。<br>
 >**Trs**：The way that the Buddha will permit when I act in, I will act in that way.
 

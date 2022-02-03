@@ -1,6 +1,11 @@
 [book]
-authors = ["visuddhinanda"]
-language = "zh"
+authors = ["bhikkhu-kosalla-china"]
+language = "en"
 multilingual = false
 src = "src"
-title = "巴利语手册"
+title = "巴利手册"
+
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+mathjax-support = true

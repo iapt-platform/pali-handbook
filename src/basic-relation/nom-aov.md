@@ -10,13 +10,15 @@
 
 例如：puriso haññate/hato=（那个）人被杀。
 
-```mermaid
+<div class="mermaid">
 graph LR
 puriso-->haññate/hato
-```   
+</div>
+   
 puriso hantabbo=(那个)人应当被杀。
 
-```mermaid
+<div class="mermaid">
 graph LR
 puriso-->hantabbo
-```   
+</div>
+   

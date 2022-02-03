@@ -24,20 +24,22 @@
 
  例如：so ācariyo abhavi/bhūto=他曾做过老师。
 
-```mermaid
+<div class="mermaid">
 graph LR
 so-->abhavi/bhūto
 ācariyo-->abhavi/bhūto
-``` 
+</div>
+ 
  
  以上句子中，so是首要的主动主语，而ācariyo是次要的主动主语，动词明确地 表达过去时。
  
  例如：sāmanero bhikkhu bhavati=（那个）沙马内拉成了比库。
 
-```mermaid
+<div class="mermaid">
 graph LR
 sāmanero-->bhavati
 bhikkhu-->bhavati
-```  
+</div>
+  
    
    以上句中，表示某个人从沙马内拉的状态（身份）变成比库的状态（身份）。（ **A.1.** 类型不能用来表达这种意思。）
