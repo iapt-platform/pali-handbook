@@ -17,11 +17,17 @@ $${宣说完}\underbrace{善法}_{A主题（宾格）}{之后，为了宣说}\un
 
 译文1
 
-$$宣说完\underbrace{善法}_{A主题(宾格)} 之后，宣说\underbrace{不善法}_{B主题(宾格)}者说了\underbrace{“katame dhammā akusalā”}_{引述内容}$$
+$宣说完善法之后，宣说不善法者说了“katame\ dhammā\ akusalā”$
+
+$$宣说完{\underbrace{善法}_{A主题(宾格)}}之后，$$
+
+$$宣说{\underbrace{不善法}_{B主题(宾格)}}者$$
+
+$$说了{\underbrace{“katame\ dhammā\ akusalā”}_{引述内容}}$$
 
 译文2
 
-$$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{不善法}_{B主题(宾格)}时说了\underbrace{“katame dhammā akusalā”}_{引述内容}$$
+$$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{不善法}_{B主题(宾格)}时说了\underbrace{“katame\ dhammā\ akusalā”}_{引述内容}$$
 
 **自学参考内容如下：**
 

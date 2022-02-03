@@ -1,6 +1,6 @@
 # kiriyāvisesana - kiriyā
 
-# 修飾動作的副詞-動詞關係2 (ADV)
+# 修饰动作的副词-动词关系2 (ADV)
 
 # Adverbial Relation2 (ADV)
 It is also possible as with the accusative case.
