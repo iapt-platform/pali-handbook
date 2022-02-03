@@ -11,7 +11,7 @@ Abhivādiya bhāsissaṃ abhidhammatthasaṅgahaṃ. (被注释*commented unit*)
 
 ## **第一组关系**<br>**1st Set of Relations**
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("abhidhammatthasaṅgahaṃ(iti)")
 B("sambandho")
@@ -20,14 +20,15 @@ D("kātabbo<br>√kar+tabba")
 A--POS-->B
 C--ADJ-->B
 B--AOV-->D
-```
+</div>
+
 
 **译**：- 单词“abhidhammatthasaṅgahaṃ”的关联应在连到单词“bhāsissaṃ”。<br>
 **Trs**:- The relation of the word “abhidhammatthasaṅgahaṃ” with the word “bhāsissaṃ” should be made. 
 
 ## **第二组关系**<br>**2nd Set of Relations** 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("abhidhammatthasaṅgahaṃ(iti)")
 B("sambandho")
@@ -36,13 +37,14 @@ D("kātabbo<br>√kar+tabba")
 A--AOV-->B
 C--ADV-->B
 B--AOV-->D
-```
+</div>
+
 
 **译**：单词“*abhidhammatthasaṅgahaṃ*”被关联到单词“*bhāsissaṃ*”。<br>
 **Trs**：The word “abhidhammatthasaṅgahaṃ” should be related with the word “bhāsissaṃ”. 
 
 ## **第三组关系**<br>**3rd Set of Relations**
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("abhidhammatthasaṅgahaṃ bhasissaṃ")
 B("sambandho")
@@ -54,7 +56,8 @@ end
 C--QUS-->B
 B--AOV-->D
 D--ASV-->E("(hoti)")
-```
+</div>
+
 
 **译**：应构成这样的关联，“（我）将阐述（的著作叫）*abhidhammatthasaṅgahaṃ*”。<br>
 **Trs**：The relation (ought to be made) / (is) thus, “ (I) will expound (the treatise called) *abhidhammatthasaṅgahaṃ*”. 

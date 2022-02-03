@@ -4,10 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "巴利手册"
-[preprocessor]
-
-[preprocessor.mermaid]
-command = "mdbook-mermaid"
 
 
 [output.html]
