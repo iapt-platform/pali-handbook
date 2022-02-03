@@ -37,7 +37,7 @@ end
 >Ex. so “datto” iti ñāyate
 >```mermaid
 >graph LR
->A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--QUM-->ñāyate
+>A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--QUM-->D("ñāyate<br>动·第三·单·现<br>方法；真理")
 >```
 >He is known as Datta.
 
@@ -69,7 +69,7 @@ end
 >Ex. so “datto” iti ñāyate
 >```mermaid
 >graph LR
->so--AOV-->ñāyate
+>so--AOV-->D("ñāyate<br>动·第三·单·现<br>方法；真理")
 >A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--IAD-->so
 >```
 >He, who is (named) Datta, is known.
