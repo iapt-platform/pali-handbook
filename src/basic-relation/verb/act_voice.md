@@ -18,7 +18,9 @@ Therefore the word-relations in the sentence above are:
 dārakaṃ (dārakena)      -->        gamayati (IOV)            
  -->√ gam [subject-verb relation1 (SV)
 ]                    
-gāmaṃ          √ gam [object-verb relation2 (OV)] 
+gāmaṃ      -->    √ gam [object-verb relation2 (OV)] 
 
 **Note**: A root in itself is neither Active nor Passive, so subjects and objects 
 related to it will have simple S.V or O.V relations.
+
+ 1 kattar - kiriyā 2 kamma - kiriyā 
