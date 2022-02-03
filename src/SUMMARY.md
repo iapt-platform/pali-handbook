@@ -129,7 +129,7 @@
       * [被动语态](basic-relation/verb/passive_voice.md)
     * [绝对语态](basic-relation/verb/abs_voice.md)
     * [不定体](basic-relation/verb/inf.md)
-    * [动名词](basic-relation/verb/ger.md)
+    * [连续体](basic-relation/verb/ger.md)
     * [限定从句](basic-relation/verb/clause.md)
     * [绝对语态从句](basic-relation/verb/absv_clause.md)
     * [绝对从句](basic-relation/verb/abs_clause.md)
