@@ -122,7 +122,7 @@
     * [MOT](basic-relation/loc/loc-mot.md)
     * [WHP](basic-relation/loc/loc-whp.md)
     * [COI](basic-relation/loc/loc-coi.md)
-  * [其他关系语法](basic-relation/verb/verb.md)
+  * [动词关系语法](basic-relation/verb/verb.md)
     * [使役动词](basic-relation/verb/cau_verb.md)
       * [主动语态](basic-relation/verb/act_voice.md)
       * [被动语态](basic-relation/verb/passive_voice.md)
