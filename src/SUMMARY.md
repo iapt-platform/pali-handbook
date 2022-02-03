@@ -179,6 +179,17 @@
   * [Tabba](grammar/tabba.md)
 * [Formal Interpretations](formal_interpretations/README.md)
   * [A. Commented Unit, Comment Unit and Formal Interpretations](formal_interpretations/1_A.md)
+  * [B.Three Types of Comments](formal_interpretations/2_Three.md)
+  * [C.Twelve Types of Indications](formal_interpretations/3_C.Twelve.md)
+  * [C.1 Sandhi Indicatio(Sandhiliṅgapadasaṃvaṇṇanā)](formal_interpretations/4_C.1.md)
+  * [C.2 Nominal Indications](formal_interpretations/5_C.2.md)
+  * [C. 3 Conjugated Verb indications](formal_interpretations/6_C.3.md)
+  * [C. 4 Primary Derivative indications](formal_interpretations/7_C.4.md)
+  * [C.5 Compound indications](formal_interpretations/8_C.5.md)
+  * [C.6 Secondary Derivative indications](formal_interpretations/9_C.6.md)
+  
+  
+  
 * [复合词](compound/README.md)
   * [相连](compound/1\_dvanda.md)
   * [依主](compound/2\_tappurisa.md)
