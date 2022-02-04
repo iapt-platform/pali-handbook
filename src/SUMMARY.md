@@ -190,6 +190,10 @@
   * [C. 4 Primary Derivative indications](formal_interpretations/7_C.4.md)
   * [C.5 Compound indications](formal_interpretations/8_C.5.md)
   * [C.6 Secondary Derivative indications](formal_interpretations/9_C.6.md)
+  * [C. 7 Prefix indications](formal_interpretations/10_C.7.md)
+  * [C. 8 Indeclinable indications](formal_interpretations/11_C.8-12.md)
+  * [General Guidelines for Formal Interpretations](formal_interpretations/12_guidelines.md)
+  * [Secondary Derivatives as Commented Units](formal_interpretations/13_Secondary.md)
   
   
   
