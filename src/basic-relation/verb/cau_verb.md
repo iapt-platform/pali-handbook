@@ -1,6 +1,7 @@
 # 使役动词
 
-Causative Verbs 
+# **Causative Verbs** 
+
 Causative verbs are viewed as compound verbs,
 i.e., they are seen as combinations of the actions represented by roots and those by the causal suffixes (the whole verbs). 
 Accordingly, components of a causative verb have different sets of subjects and objects.

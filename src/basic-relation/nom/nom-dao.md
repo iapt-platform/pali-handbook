@@ -1,14 +1,4 @@
-# nom-dao
-
-[基本关系语法](basic-relation.md)&gt;[主格](nom.md)&gt;AOV
-
-## AOV
-
-* 巴利语： vuttakamma - kiriyā
-* 中文： 受動者-動詞關係（vutta）
-* English： Active Object Relation
-
-## E.双主动宾语关系
+# 双主动宾语关系
 
 表示相同内容的两个宾语以主格形式出现，然后与主要动词的被动态相关联。动 词带有“使得，变成”的意思。两个宾语在性与数上可能不同。这种关系用于表达： 由于某个动作者（主语）的原因，而使得某事或某人发生改变。 
 
@@ -50,10 +40,10 @@ kuṭi--DAO-S-->karīyate
  以上例句中，puriso是过去分词 hato的主动宾语，但它也是将来时动词bhavissati的首要主动主语。所以，它应当以不同的方式与两个动词相关联。 
  
  例如：
- <div class="mermaid">
+
+<div class="mermaid">
 graph LR
 puriso--AOV-->hato
 puriso--DASO-P->bhavissati
 hato--DASO-S-->bhavissati
 </div>
-    

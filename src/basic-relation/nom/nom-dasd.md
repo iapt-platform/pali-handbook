@@ -1,30 +1,46 @@
-# nom-dasd
+# 命名主表系结构
+|语种|名称|缩写 |
+|-|-|-|
+|巴利语|pakati - kiriyā||
+|中文|被命名-系动词|命名主-系|
+|English|**D**ouble **A**ctive **S**ubject (**D**enominative) **P**rimary relation|DASD-P|
 
-[基本关系语法](basic-relation.md)&gt;[主格](nom.md)&gt;AOV
+|语种|名称|缩写 |
+|-|-|-|
+|巴利语|saññin/nāmin - kiriyā||
+|中文|名称-系动词|命名表-系|
+|English|**D**ouble **A**ctive **S**ubject (**D**enominative) **S**econdary relation|DASD-S|
 
-## AOV
-
-* 巴利语： vuttakamma - kiriyā
-* 中文： 受動者-動詞關係（vutta）
-* English： Active Object Relation
-
-# 双主动主语关系
-
-两个表示相同内容的名词一起称为“主动主语”，与主要动词是、存在的意 思相关联。两个主动主语必须是主格，但性与数可能不同。此类也可进一步分为两个 子类。 
-
-## B.2.双主动主语（带名称）关系
-
-使用这种替代了以上的 **A.2.** 类型，来表达特定的时态或语气。 
-
-例如：saro nandā nāma abhavi/bhūtaṃ（那个）湖曾名为Nandā。
 
 <div class="mermaid">
-graph LR
-saro-->abhavi/bhūtaṃ
-nandā-->abhavi/bhūtaṃ
+flowchart LR
+A("主语<br>（主格变化）")
+B("表语<br>（主格变化）")
+C("系动词")
+D("<b>nāma<br>名为<br>不变</b>")
+A--"主-系关系<br>DASD-P"--->C
+B--"表-系关系<br>DASD-S"--->C
+C---D
 </div>
-  
- 
- 以上句中，saro是首要的主动主语，而nandā是次要的主动主语，动词明确地表 达过去时。 
- 
- 当首要和次要主动主语（普通或带名称）的性或数不同时，动词必须与首要主动 主语一致。过去分词词干bhūta是中性，因为首要主动主语（saro（< saras））是中性的。 
+
+>注：不变词“**nāma**”意为“名为”，其在句子中的存在是判定该关系的标志，这是与[**一般主表系**关系](nom-daso.md)相比，最明显的差别。
+
+与[**命名主表**关系](nom-nid.md)相比，**命名主表系**可以表达特定的时态或语气。 
+
+例如：saro nandā nāma abhavi/bhūtaṃ.
+
+<div class="mermaid">
+flowchart LR
+A("saro<br>湖<br>主语(中·单·主)")
+B("nandā<br>庆/难达<br>名称表语(阴·单·主)")
+C("abhavi/bhūtaṃ<br>曾是<br>系动词(过去)")
+A--"被命名-系动词<br>DASD-P"-->C
+B--"名称-系动词<br>DASD-S"-->C
+</div>
+
+译文：（那个）湖曾名为Nandā。
+
+>注：当主语和表语的**性**或**数**不同时，动词必须与**主语**保持一致。<br>
+>例句中，主语是saro（-as尾的语基，中性），为**中**性**单**数**主**格
+>- abhavi为第三·**单**·过去——单复数要与主语保持一致，为**单数**
+>- bhūtaṃ为过去分词，应该跟随主语的**中·单·主**变化，而为bhūtaṃ

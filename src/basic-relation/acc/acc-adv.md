@@ -17,8 +17,9 @@
 - **中**性·**单**数·**宾**格
 
 >sukhaṃ sayati<br>睡得香
-><div class="mermaid">
->graph LR
->A(sukkhaṃ<br>快乐)--ADV-->B(sayati<br>睡)
-></div>
+
+<div class="mermaid">
+graph LR
+A(sukkhaṃ<br>快乐)--ADV-->B(sayati<br>睡)
+</div>
 
