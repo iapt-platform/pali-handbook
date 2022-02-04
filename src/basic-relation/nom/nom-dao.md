@@ -1,13 +1,29 @@
-# 双主动宾语关系
+# 被动语态中的双宾语
 
-表示相同内容的两个宾语以主格形式出现，然后与主要动词的被动态相关联。动 词带有“使得，变成”的意思。两个宾语在性与数上可能不同。这种关系用于表达： 由于某个动作者（主语）的原因，而使得某事或某人发生改变。 
+当被动动词做主要动词时，表示相同内容的两个受动名词做主格变化，
+的被动态相关联。动 词带有“使得，变成”的意思。两个宾语在性与数上可能不同。这种关系用于表达： 由于某个动作者（主语）的原因，而使得某事或某人发生改变。 
 
 例如：sāmanero bhikkhu karāyate/kato=（那个）沙马内拉被变成比库。 
 
 <div class="mermaid">
-graph LR
-sāmanero--DAO-P-->karāyate/kato
-bhikkhu--DAO-S-->karāyate/kato
+flowchart LR
+subgraph 1
+direction LR
+A1("sāmanero")
+B1("bhikkhu")
+C1("karāyate")
+A1--DAO-P-->C1
+B1--DAO-S-->C1
+end
+1---2
+subgraph 2
+direction LR
+A2("sāmanero")
+B2("bhikkhu")
+C2("kato")
+A2--DAO-P-->C2
+B2--DAO-S-->C2
+end
 </div>
    
 
@@ -33,9 +49,9 @@ kuṭi--DAO-S-->karīyate
 </div>
 
 
- >注2：有时，一个过去分词或未来分词合并成为一个曲折的主动态动词，意为“是”
+>注2：有时，一个过去分词或未来分词合并成为一个曲折的主动态动词，意为“是”
  
-  例如：puriso hato bhavissati=（那个）男人将被杀死。 
+例如：puriso hato bhavissati=（那个）男人将被杀死。 
  
  以上例句中，puriso是过去分词 hato的主动宾语，但它也是将来时动词bhavissati的首要主动主语。所以，它应当以不同的方式与两个动词相关联。 
  
@@ -43,7 +59,7 @@ kuṭi--DAO-S-->karīyate
 
 <div class="mermaid">
 graph LR
-puriso--AOV-->hato
-puriso--DASO-P->bhavissati
-hato--DASO-S-->bhavissati
+puriso--"AOV"-->hato
+puriso--"DASO-P"-->bhavissati
+hato--"DASO-S"-->bhavissati
 </div>
