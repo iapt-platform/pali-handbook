@@ -8,9 +8,10 @@ part of which is related in the *tattha* sentence.
 **a**. 当用作句子的首单词时，无语尾变化的*tattha*，通常指前面句子中提到的一个单词或一组单词，并且其中一部分与*tattha*句子有关。
 
  **Ex**. Tayo bhikkhu āgacchanti. Tattha eko arahā hoti. 
-```mermaid
+<div class="mermaid">
 
-```
+</div>
+
 
 Tattha --> eko (whole-part)
 
