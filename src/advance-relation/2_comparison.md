@@ -48,3 +48,4 @@ The word *yathā* must be related to that participle in Adverbial relation.
 >**译**：（当我）怎么（做）佛会允许，我就那么做。<br>
 >**Trs**：The way that the Buddha will permit when I act in, I will act in that way.
 
+
