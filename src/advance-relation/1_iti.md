@@ -35,12 +35,6 @@ C--"QUM"-->D
 >他说/想：“puriso gacchati”（不翻）/“他走了”（翻）。
 
 >Ex. so “datto” iti ñāyate
-<<<<<<< HEAD
->```mermaid
->graph LR
->A("datto<br>单·主<br>已赐予；阿赐")--QUS-->C("iti<br>不变·副<br>引号")--QUM-->D("ñāyate<br>动·第三·单·现<br>方法；真理")
->```
-=======
 
 <div class="mermaid">
 flowchart LR
@@ -51,7 +45,6 @@ A--QUS-->C
 C--QUM-->B
 </div>
 
->>>>>>> 85668e9d3259cb2f846addf2ae5d32258cf4729e
 >He is known as Datta.
 
 >他被称为Datta。
