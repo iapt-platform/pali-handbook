@@ -3,7 +3,7 @@
 * English： Inactive Object Relation
 * 中文： 受动者-动词关系
 * 巴利语： avuttakamma - kiriyā
-  
+ 
 
 一个宾格宾语与一个动词的主动态或绝对态相关联。
 >purise hanati/hato<br>杀死（那些）人

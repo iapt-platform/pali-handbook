@@ -2,9 +2,9 @@
 ");}return this.origin.code.apply(this, arguments);}}},plugins: [function (hook, vm) {hook.beforeEach(function (html) {url = 'https://github.com/mermaid-js/mermaid/blob/develop/docs/' + vm.route.filevar editHtml = '[:memo: Edit this Page](' + url + ')\n'return editHtml + html})}]}var num = 0;const isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matchesconst conf = { logLevel:4, startOnLoad: false, themeCSS:'.label { font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif; }' };if(isDarkMode && false) conf.theme = 'dark';mermaid.initialize(conf);</script>
 
 <script>window.onhashchange = function(a) {if(location) {ga('send', 'pageview', location.hash);}} </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+ <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+ <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+ <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
 
 # ADV
 

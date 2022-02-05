@@ -1,12 +1,12 @@
 ## 8. yuttivākya- laddhaguṇavākya<br>**待确认**-**旁证**关系<br>**Unit of Confirmable Content** *followed by* **Unit of Convincing Implication**
 E.g. 例如：
-  - A. They said that only one-third of the committee turned up for the meeting.
-  - A. 他们说只有三分之一的委员出席了会议。
-  - B. It (**T.M**) would be a reflection of the fact that the majority of committee members were against the new leader.
-  - B. 它(**T. M**)或许是大多数委员会成员反对新领导人的这一事实的(实际)反应。
+ - A. They said that only one-third of the committee turned up for the meeting.
+ - A. 他们说只有三分之一的委员出席了会议。
+ - B. It (**T.M**) would be a reflection of the fact that the majority of committee members were against the new leader.
+ - B. 它(**T. M**)或许是大多数委员会成员反对新领导人的这一事实的(实际)反应。
 
-    (**T.M**) = " It would imply that OR Thus"
-    (**T. M**)=“那或许暗示OR因此”
+ (**T.M**) = " It would imply that OR Thus"
+ (**T. M**)=“那或许暗示OR因此”
 
 The following unit B is a Unit of Convincing Implication with reference to A, for it gives the sense **which is implied provided** the fact given in **A is confirmed**, i.e., "If the majority of committee members were absent at the meeting" . 
 
@@ -22,8 +22,8 @@ Accordingly, A is termed a Unit of Confirmable Content with reference to B.
 **注意这里有不同观点**：
 - A given unit is labeled a **Unit of Convincing Implication if**:
 - 给定的单元被标记为**具有令人信服的含义的单元，条件是**：
-  - a. It is an **effect (conclusion)** of another unit, which is **itself the effect (conclusion)** of still another OR
-  - a. 它是另一个单元的**效果(结论)**，(另一个单元)**本身**还是另一个OR的**效果(结论)**
-  - b. It is a unit of **effect (conclusion)** that precedes its unit of **cause (premise)** —— it implies that a unit of **effect (conclusion)** is termed so only if it follows its respective unit of **cause (premise)**.
-  - b. 它是**效果(结论)**单元并位于其**原因(前提)**的单元之前——这是在暗示，只有当这个单元跟随其本身的**原因(前提)**时，它才被称为**结果(结论)**
+ - a. It is an **effect (conclusion)** of another unit, which is **itself the effect (conclusion)** of still another OR
+ - a. 它是另一个单元的**效果(结论)**，(另一个单元)**本身**还是另一个OR的**效果(结论)**
+ - b. It is a unit of **effect (conclusion)** that precedes its unit of **cause (premise)** —— it implies that a unit of **effect (conclusion)** is termed so only if it follows its respective unit of **cause (premise)**.
+ - b. 它是**效果(结论)**单元并位于其**原因(前提)**的单元之前——这是在暗示，只有当这个单元跟随其本身的**原因(前提)**时，它才被称为**结果(结论)**
 ---------------

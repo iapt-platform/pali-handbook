@@ -4,8 +4,8 @@
 1. 第一个成员的格位语尾变化可略。
 2. 少数字例,格位语尾变化没有省略;这类复合词称为: alutta tappurisa。
 3. 如：rājā,mātā,pitā,bhāta...等字,居于第一个成员的话,其 ā 应短化。
-4. 通常依主释的性别随最后成员。     
-   1. 对格依主释[第二格依主释,dutiya tappurisa]。
+4. 通常依主释的性别随最后成员。 
+ 1. 对格依主释[第二格依主释,dutiya tappurisa]。
 例如:- araññagato=araññaṃ gato [已去山林, gone to the forest；gata: gacchati]。
 - sukhappatto=sukhaṃ patto [已获得快乐 , attained，happiness;Patta [papunati 的【PPP】]已达到，已获得]。
 - saccavadi =saccaj vadi [说 实语, speaking the truth; Vādī言谈]- kumbhakāro = kumbhaṃ kāro [陶工, a potter; Kāra行业,在复合词中，表制造者]。

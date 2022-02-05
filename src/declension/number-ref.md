@@ -2,8 +2,8 @@
 
 | 表名 | 描述 |
 | - | - |
-| [基数词和序数词表](number-cardinal-ordinal.md) |  |
-| [Eka 变化表](eka.md) | 一  |
+| [基数词和序数词表](number-cardinal-ordinal.md) | |
+| [Eka 变化表](eka.md) | 一 |
 | [Dvi 变化表](dvi.md) | 二 |
 | [Ubha 变化表](ubha.md) | 双 |
 | [Ti 变化表](ti.md) | 三 |

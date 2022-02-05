@@ -54,7 +54,7 @@ iti--IMP-->D
 
  （其他关系可以从翻译中推断出来。）
 
-  **Trs**. (with *dassetuṃ*) :- (the Lord Buddha), showed the Merit thus and, said (the words), “katame dhammā akusalā” to show the Demerit (with the words, “katame dhamma akusala”). 
+ **Trs**. (with *dassetuṃ*) :- (the Lord Buddha), showed the Merit thus and, said (the words), “katame dhammā akusalā” to show the Demerit (with the words, “katame dhamma akusala”). 
 
 **译**.（与*dassetum*）：-（佛陀），宣说了善法之后，"katame dhamma akusala"来宣说不善法（带有"katame dhamma akusala"的话）。
 

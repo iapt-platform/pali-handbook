@@ -14,11 +14,11 @@
 graph LR
 puriso-->haññate/hato
 </div>
-   
+ 
 puriso hantabbo=(那个)人应当被杀。
 
 <div class="mermaid">
 graph LR
 puriso-->hantabbo
 </div>
-   
+ 

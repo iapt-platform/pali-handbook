@@ -1,6 +1,6 @@
 # **36. Usage of** *yathā āha* 
 # 36. *yatha aha* **的用法** 
-   
+ 
  The phrase *yathāha* is used to quote a certain authority. It is viewed as the ab-
 breviated form of “*yathā āha* = this is why (the inserted Active Subject) said ...” or 
 

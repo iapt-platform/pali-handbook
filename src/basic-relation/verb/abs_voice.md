@@ -6,13 +6,13 @@ case.
 
 这里的因果主语在工具格中，因果宾语（Radial subject）在工具格或宾格和Radial object在宾格中。
 
- E.g. purisena dārakaṃ / dārakena gāmaṃ   gamāpīyati = (the) child is caused                                                                                                                                                                                                                                                            by (the) man to go (to) the village
+ E.g. purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = (the) child is caused by (the) man to go (to) the village
 
  例如，purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = （该） 孩子是由（该）男人去（to）村庄而引起的
  
-  purisena    -->     gamāpīyati (ISV) 
-   dārakaṃ / dārakena   -->  gamāpīyati(IOV)        -->       √ gam (SV)                    
-gāmaṃ   -->   √ gam (OV) 
+ purisena --> gamāpīyati (ISV) 
+ dārakaṃ / dārakena --> gamāpīyati(IOV) --> √ gam (SV) 
+gāmaṃ --> √ gam (OV) 
 
  **Identical Adjective relation1 (IAD)** 
 
@@ -34,13 +34,13 @@ number.
  
  nandā nāma saro = （该）南达湖的名字---
 
- nandā  --> saro (IAD)
+ nandā --> saro (IAD)
  
-  vīsati purisā = twenty men--- 
-  
-  vīsati purisā = 二十个人---
+ vīsati purisā = twenty men--- 
+ 
+ vīsati purisā = 二十个人---
 
-  vīsati       -->       purisā (IAD) 
+ vīsati --> purisā (IAD) 
 
 
 **Note**: mark the difference of gender in the second example and that of both 

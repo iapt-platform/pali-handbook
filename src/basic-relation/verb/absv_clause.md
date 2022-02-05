@@ -16,14 +16,14 @@ related to some word in the main clause.
 
 （3）分词的被动主语或被动宾语可能与主句中的某个单词相关，也可能无关。
 
- E.g. Purisena bhojanaṃ bhutte dārako marati = (While/ As / When) food is  (being)  eaten by (the) man, (the) child dies.  
+ E.g. Purisena bhojanaṃ bhutte dārako marati = (While/ As / When) food is (being) eaten by (the) man, (the) child dies. 
 
  例如，Purisena bhojanaṃ bhutte dārako marati = （当……的时候/作为/当） 食物被（被）（该）人吃掉，（该）孩子死了。
 
-Purisena       -->     bhutte (ISV) / bhojanaṃ       -->      bhutte (IOV)  bhutte      -->      marati (DEF) / dārako      -->    marati (ASV) 
-                                            
-Purisena bhojanaṃ bhutte dārako diṭṭho = (while/ as/ when) food is (being)  eaten by (the) man, (the) child is seen (by him). 
+Purisena --> bhutte (ISV) / bhojanaṃ --> bhutte (IOV) bhutte --> marati (DEF) / dārako --> marati (ASV) 
+ 
+Purisena bhojanaṃ bhutte dārako diṭṭho = (while/ as/ when) food is (being) eaten by (the) man, (the) child is seen (by him). 
 
 Purisena bhojanaṃ bhutte dārako diṭṭho = （当……的时候/作为/当）食物被（该）人吃掉，（该）孩子（被他）看見。
 
-Purisena    -->      bhutte (ISV) / purisena      -->     dittho (ISV) bhojanaṃ      -->    bhutte (IOV)/ bhutte         -->    dittho (DEF) dārako       -->      diṭṭho(AOV) 
+Purisena --> bhutte (ISV) / purisena --> dittho (ISV) bhojanaṃ --> bhutte (IOV)/ bhutte --> dittho (DEF) dārako --> diṭṭho(AOV) 

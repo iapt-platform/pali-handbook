@@ -39,5 +39,5 @@
 37. [Usage of yathā taṁ](37_taṁ.md)
 38. [Usage of vuccate](38_vuccati.md)
 39. [Usage of vuccati](39_vuccati.md)
-    
-    
+ 
+ 

@@ -25,7 +25,7 @@ They can be enumerated as follows:
 3. Radial主语，
 
 4. Radial宾语。
-   
+ 
 It should be noted here that the Causal Object and the Radial Subject are represented by the same word.
 Causative verbs can also be classified in three voices---Active, passive and Absolute. 
 这里应该注意的是，因果宾语和Radial Subject由同一个词表示。因果动词也可以分为三种语态---主动，被动和绝对。
