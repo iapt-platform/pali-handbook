@@ -15,7 +15,7 @@ in Definitive Relation (DEF).
  - It must be in Active or Passive voice and must follow the **gender** and 
  **number** of its Active subject or Active object. 
 
-（3） 如果它是一个分词---
+（3） 如果它是一个分词-
 - 它必须是主动或被动语态，并且必须遵循其活动主动主语或主动宾语的**性**和**数**。
 
 
