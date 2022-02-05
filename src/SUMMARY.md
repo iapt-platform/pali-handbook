@@ -197,6 +197,9 @@
   * [C. 8 Indeclinable indications](formal_interpretations/11_C.8-12.md)
   * [General Guidelines for Formal Interpretations](formal_interpretations/12_guidelines.md)
   * [Secondary Derivatives as Commented Units](formal_interpretations/13_Secondary.md)
+  * [Compounds as Commented Units](formal_interpretations/14_compounds.md)
+  * [Relations as Commented Units](formal_interpretations/15_Relations.md)
+  * [Miscellaneous](formal_interpretations/16_Miscellaneous.md)
   
   
   
