@@ -41,7 +41,7 @@ Tattha ...
 
 “*katame dhamma akusala”ti* --> *dassento* (IMP) 
 
-  --> *āha* (IOV) / (QUS + QUM) 
+ --> *āha* (IOV) / (QUS + QUM) 
  Then *tattha*, the initial word in the following sentence, generally refers to that very phrase and is translated as, “In / among these words, ‘*katame dhammā akusalā*’ “.
 
  下一句中的首个单词*tattha*，通常指的是这个短语，并被翻译为，"在这些单词中，'*katame dhamma akusala*'"。

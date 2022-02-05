@@ -2,13 +2,13 @@
 E.g. 例如：
 
 1. 
-   - A. The subject is said to be too boring for students.
-   - A. 据说这门课对学生来说太枯燥了.
-   - B. If (**T.M**) it were really so, no one would attend the lecture. But the lecture-hall is full every day.
-   - B. 如果(**T. M**)真是这样，就没有人会去听讲座了。但是讲堂每天都座无虚席。
+ - A. The subject is said to be too boring for students.
+ - A. 据说这门课对学生来说太枯燥了.
+ - B. If (**T.M**) it were really so, no one would attend the lecture. But the lecture-hall is full every day.
+ - B. 如果(**T. M**)真是这样，就没有人会去听讲座了。但是讲堂每天都座无虚席。
 
-       (**T.M**) = " The blame here is"
-       (**T. M**)=“这里的矛盾是”
+ (**T.M**) = " The blame here is"
+ (**T. M**)=“这里的矛盾是”
 
 The following unit B is a Unit of Destructive Implication with reference to A, for it gives the **improbable content implied provided** the fact given in **A** is **confirmed**, i.e.,
 "If the subject is a bore" . 
@@ -26,8 +26,8 @@ Accordingly, A is termed a Unit of Disputable Content with reference to B.
 - B. **Otherwise**, (**T.M**) there would be no one in the class.
 - B. **否则**，(**T. M**)班上就没有人了
 
-    (The translation of the **thematic marker** is the same as above)
-    (**关系连词**译文同上)
+ (The translation of the **thematic marker** is the same as above)
+ (**关系连词**译文同上)
 
 The following unit B is a Unit of Destructive Implication with reference to A, for it
 gives the **improbable content implied if** the fact given in A is **refuted**, i.e., "If the

@@ -1,14 +1,14 @@
 # 有財釋
-  有财释(关系或限定复合词, Relative or Attributive Compounds) 
-  
-  注：
+ 有财释(关系或限定复合词, Relative or Attributive Compounds) 
+ 
+ 注：
 
-  - (a) 有财释复合词,为了分解它的组成,需要加其他的关系代词,如∶“he, who, that, which”...等等,才能完整表达它的意义;因此有财释要被相对地使用,也就 是說: 作为一个形容词,其最后成员所呈现的性别要跟它所修饰的名词一致。 有财释相当于一个关系子句。
-  - (b) 先前說明过的其他五种复合词(相违释,依主释,持业释,带数释,邻近释),如果 被作为形容词使用,那就全部成为有财释。 
-  - (c) 有财释作形容词,其性、数、格要与所修饰的名词一致。 
-  - (d) 接续注 c,有财释可用呼格外的任何格位。
-  
-  下列为不同類型的有财释: 
+ - (a) 有财释复合词,为了分解它的组成,需要加其他的关系代词,如∶“he, who, that, which”...等等,才能完整表达它的意义;因此有财释要被相对地使用,也就 是說: 作为一个形容词,其最后成员所呈现的性别要跟它所修饰的名词一致。 有财释相当于一个关系子句。
+ - (b) 先前說明过的其他五种复合词(相违释,依主释,持业释,带数释,邻近释),如果 被作为形容词使用,那就全部成为有财释。 
+ - (c) 有财释作形容词,其性、数、格要与所修饰的名词一致。 
+ - (d) 接续注 c,有财释可用呼格外的任何格位。
+ 
+ 下列为不同類型的有财释: 
 
 
 1. 主格关系有财释(pathama-bahubbihi, Relative in the Nominative Case)
@@ -26,7 +26,7 @@
 ( m. /acc/sg) arūḷho (被男子所攀登的树。the tree into which the man climbed.) ārūḷhanaro 是有财 释。(aruhati= a + ruh + a 爬上,攀登; Arulha【PPP】) 
  
 3. 具格关系有财释(tatiya-bahubbihi, Relative in the Instrumentive Case); 有财释 复合词付予它所限定、定义或形容的字,文法上具格意义的关系。
-   
+ 
 例:
  - jitindriyo samaṇo=yena jitāni indriyāni so samaṇo ॥ (六根被沙门降伏。The samana by whom the senses have been conquered.) jitindriyo是有财释。 
  - vijitamāro bhagavā=so bhagavā yena māro vijito ॥ 死魔被世尊征服 (The Blessed One by whom Mara was vanquished.) vijitamāro是有财释。 
@@ -44,7 +44,7 @@
 - apagatakāḷakaṃ vatthaṃ=idaṃ vatthaṃ yasmā kāḷakā apagatā (由此布哪个黑色的点已離,即一块没有黑色的污点的布。a cloth free from black spots. Apagacchati (apa + gam + a)避开, 移掉。Kalaka【adj.】黑色。【 n. 】黑点，污点。Apagata 【PPP】)。Vattha【 n. 】布料，衣服。) apagatakāḷakaṃ是有财释。 
  
 1. 属格关系有财释(chatthi-bahubbihi, Relative in the Genitive Case): 有财释复合 词付予它所定义或形容的字,文法上属格意义的关系。
-   
+ 
 例:
 - chinnahattho puriso =so puriso yassa hattho chinno (手被断的男子, the man whose hands are cut off.) chinnahattho 是有财释。
 - visuddhasīlo jano=so jano yassa sīlaj visuddhaṃ (戒行清净的男子,that person whose conduct is pure, a moral person.) visuddhasīlo 是有财释。 
@@ -52,7 +52,7 @@
 7. 处格关系有财释(sattama-bahubbihi, Relative in the Locative Case) : 有财释复 合词付予它所定义或形容的字,文法上处格意义的关系。
 
 例:
-- sampannasasso janapado =yasmiṃ janapade sassāni sampannāni:  (农产丰富的地区, A district in which the crops are abundant, a fertile district. ) sampannasasso 是有财释。 
+- sampannasasso janapado =yasmiṃ janapade sassāni sampannāni: (农产丰富的地区, A district in which the crops are abundant, a fertile district. ) sampannasasso 是有财释。 
 - bahujano gāmo=yasmiṃ gāme babū janāhonti: (很多人聚集的村庄, a village in which are many persons, a populous village.) bahujano 是有财释。
  ---
 (e) 被有财释复合词所限定、形容的名词经常已经被理解、被复合词所示意,不需 多作表达了。

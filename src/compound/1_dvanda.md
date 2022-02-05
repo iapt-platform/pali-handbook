@@ -12,7 +12,7 @@
 - devamanussā = devā ca manussā ca (天神众和人们, gods and men) 。
 - devamānussanaṃ = devānañ ca manussānañ ca (天神众和人们的, of gods and men)。
 - candimasuriyā = candimā ca suriyo ca (日月,the sund and the moon)。 
-- aggidhūmā = aggi ca dhūmo  ca (火和烟, fire and smoke)。
+- aggidhūmā = aggi ca dhūmo ca (火和烟, fire and smoke)。
 - dhammaṭṭhā = dhammo ca aṭṭho ca （法和义，） 
 - sariputtamoggallāne = sāriputte ca moggallāne ca (于舍利 弗与目犍連 , in Sariputta and in Moggallana)
 (2) 部份范例 : 注意: 这部份的复合词, 有时会呈现复数语形,如(i)。

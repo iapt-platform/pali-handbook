@@ -29,7 +29,7 @@
 例词 karoti
 
 |kar.pr|sg|pl|reflx sg|reflx pl|
-| -- | -- | -- | -- |  -- |
+| -- | -- | -- | -- | -- |
 |opt<br>3rd|kare<br>kareyya<br>kayirā<br>kubbe<br>kubbeyya<br>kubbaye|kareyyuṃ<br>kubbeyyuṃ<br>kayiruṃ|kayirātha<br>kubbetha|kubberaṃ|
 |opt<br>2nd|kareyyāsi<br>kubbeyyāsi<br>kayirāsi|kareyyātha<br>kubeyyātha<br>kayirātha|kubbetho|kubbeyyavho|
 |opt<br>1st|kareyyāmi<br>kubeyyāmi<br>kayirāmi|kareyyāma<br>kubeyyāma<br>kayirāma|karekareyyaṃ<br>kubbeyyaṃ|kareyyāmhe<br>kubbeyyāmhe|

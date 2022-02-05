@@ -25,7 +25,7 @@ A2--DAO-P-->C2
 B2--DAO-S-->C2
 end
 </div>
-   
+ 
 
 上述句中，sāmanero是首要主动宾语，bhikkhu是次要主动宾语。
 
@@ -36,7 +36,7 @@ graph LR
 sāmanero--DAO-P-->kātabbo
 bhikkhu--DAO-S-->kātabbo
 </div>
-    
+ 
 
 >注1：当首要与次要主动宾语在性与数上不同时，动词必须与首要主动宾语一致。
 

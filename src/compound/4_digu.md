@@ -10,22 +10,22 @@
 >2. 数词语干置于第一成员。
 
 1. SAMĀHĀRA-DIGU(集合体带数释)：
-    - tilokaṃ (三界, the three worlds); 
-    - tiratanaṃ (三宝, the three jewels) ;
-    - catusaccaṃ (四谛, the four Noble Truths);
-    - sattāhaṃ=satta+ahaṃ , (七天 seven days; Aha【 n. 】日子。); 
-    - pañcasikkhāpadaṃ (五戒, the five Precepts) ; 
-    - dvirattaṃ=dvi+ratti (兩夜) (注: a); 
-    - pañcagavaṃ=pañca+gavo (五牛) (注: a) ; 
-    - navasataṃ (九百, nine hundred) ; 
-    - catusahassaṃ (四千, four thousand) ;
-    - tivaṅgulaṃ=ti+v (見28插入v) aṅguli (三只指头, three fingers) 
+ - tilokaṃ (三界, the three worlds); 
+ - tiratanaṃ (三宝, the three jewels) ;
+ - catusaccaṃ (四谛, the four Noble Truths);
+ - sattāhaṃ=satta+ahaṃ , (七天 seven days; Aha【 n. 】日子。); 
+ - pañcasikkhāpadaṃ (五戒, the five Precepts) ; 
+ - dvirattaṃ=dvi+ratti (兩夜) (注: a); 
+ - pañcagavaṃ=pañca+gavo (五牛) (注: a) ; 
+ - navasataṃ (九百, nine hundred) ; 
+ - catusahassaṃ (四千, four thousand) ;
+ - tivaṅgulaṃ=ti+v (見28插入v) aṅguli (三只指头, three fingers) 
  
 2. ASAMĀHĀRA-DIGU(复数型)
-   - tibhavā (三有,the three states of existence) ;  
-   - catudisā (四方, the four quarters);
-   - catusatāni (四百, four hundreds); 
-   - pañcindriyāni=pañca + indriyāni (五根); 
-   - sakaṭasatāni=sakaṭa+satāni [百辆车, one hundred carts ; Sakata【 m.n. 】四轮马车。] 
-   - dvisatasahassāni=dvi sata sahassāni (兩万, two hundred thousand) 
+ - tibhavā (三有,the three states of existence) ; 
+ - catudisā (四方, the four quarters);
+ - catusatāni (四百, four hundreds); 
+ - pañcindriyāni=pañca + indriyāni (五根); 
+ - sakaṭasatāni=sakaṭa+satāni [百辆车, one hundred carts ; Sakata【 m.n. 】四轮马车。] 
+ - dvisatasahassāni=dvi sata sahassāni (兩万, two hundred thousand) 
 

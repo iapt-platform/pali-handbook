@@ -51,7 +51,7 @@ buddhanāgo [佛陀大象]
 饰一个普通名词。本地文法家,为解决这些复合词,在复合词的两 个成员间插
 入单字 eva[只不 过,即使。但是在以下范例 中,无法被译成英语。]用英语,这些
 复合词必须被翻译成类 似种属格关系。例 如:
-- guṇadhanaṃ=guno eva dhanaṃ  [美德财富, wealth of virtues]。
+- guṇadhanaṃ=guno eva dhanaṃ [美德财富, wealth of virtues]。
 - sīladhanaṃ = sīlaṃ eva dhanaṃ[戒行财富, treasure of morality or of piety].
 - paññāsatthaṃ = paññā eva satthaṃ [智慧劍 thesword of wisdom; Sattha刀劍，槍矛]。
 - paññāpajjoto = paññā eva pajjoto (智慧灯, the lamp of wisdom; Pajjota燈]。
@@ -69,7 +69,7 @@ buddhanāgo [佛陀大象]
 - anariyo = na+ariyo [非圣,低下的, ignoble]。
 - anīti=na+iti [免于灾难,安全 free from calamity, secure]。
 - anūmi = na+umi [没有波浪 ,waveless]。
-- anatikkamma = na+atikkamma  [不犯戒、不逾越 not transgressing]。
+- anatikkamma = na+atikkamma [不犯戒、不逾越 not transgressing]。
 - anatthākamo=na+atthākamo [不求福报, not wishing for the welfare of]。
 
 9. 第九类 巴利称 padipubbapada-kammadharaya, 其中第一个成员是 pa /pa,或者其他接头词。

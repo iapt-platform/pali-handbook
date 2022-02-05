@@ -4,7 +4,7 @@
 释义： **任何**
 
 **kiñci阳性**
-| 变格 | 单数  |复数 |
+| 变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md) |koci | keci |
 | [宾格<br>acc.](acc.md) |kañci<br>kiñci|keci|
@@ -14,7 +14,7 @@
 | [位置格<br>loc.](loc.md) |kasmiñci<br>kamhici<br>kismiñci<br>kimhici|kesuci|
 ---
 **kiñci中性**
-| 变格 | 单数  |复数 |
+| 变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md)<br>[宾格<br>acc.](acc.md) |kiñci|kānici|
 | [来源格<br>abl.](abl.md)|kasmāci|kehici|
@@ -23,7 +23,7 @@
 | [位置格<br>loc.](loc.md) |kasmiñci<br>kamhici<br>kismiñci<br>kimhici|kesuci|
 ---
 **kiñci阴性**
-| 变格 | 单数  |复数 |
+| 变格 | 单数 |复数 |
 | --- | ----- | ------ |
 | [主格<br>nom.](nom.md) |kāci|kāci<br>kāyoci|
 | [宾格<br>acc.](acc.md) |kañci|kāci<br>kāyoci|
@@ -35,6 +35,6 @@
 
 |||
 |--|--|
-|kuhiṃ,哪里?|kuhiñci, kuhiñcanaṃ  任何地方|
+|kuhiṃ,哪里?|kuhiñci, kuhiñcanaṃ 任何地方|
 |kudā,何时?|kudācanaṃ 有时, 在任何时候|
 |kadā,何时?|kadāci 有时|

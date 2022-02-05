@@ -4,11 +4,15 @@
 subject) in Instrumental or Accusative case and Radial object in Accusative 
 case.
 
- E.g. purisena dārakaṃ / dārakena gāmaṃ   gamāpīyati = (the) child is caused                                                                                                                                                                                                                                                            by (the) man to go (to) the village
+这里的因果主语在工具格中，因果宾语（Radial subject）在工具格或宾格和Radial object在宾格中。
+
+ E.g. purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = (the) child is caused by (the) man to go (to) the village
+
+ 例如，purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = （该） 孩子是由（该）男人去（to）村庄而引起的
  
-  purisena    -->     gamāpīyati (ISV) 
-   dārakaṃ / dārakena   -->  gamāpīyati(IOV)        -->       √ gam (SV)                    
-gāmaṃ   -->   √ gam (OV) 
+ purisena --> gamāpīyati (ISV) 
+ dārakaṃ / dārakena --> gamāpīyati(IOV) --> √ gam (SV) 
+gāmaṃ --> √ gam (OV) 
 
  **Identical Adjective relation1 (IAD)** 
 
@@ -16,21 +20,32 @@ gāmaṃ   -->   √ gam (OV)
 adjective must follow the case of the substantive but may differ in gender and 
 number.
 
+在这里，形容词用法中的名词与它修饰的名词有关。形容词必须遵循实质的情况，但在性和数上可能有所不同。
+
+
+
  mahatā purisena =...with (a/ the) great man 
+
+ mahatā purisena =...与（一位/该位）伟人
  
  mahatā --> purisena (IAD) 
  
  nandā nāma saro = (the) lake Nandā by name--- 
  
- nandā  --> saro (IAD)
+ nandā nāma saro = （该）南达湖的名字---
+
+ nandā --> saro (IAD)
  
-  vīsati purisā = twenty men--- 
-  
-  vīsati       -->       purisā (IAD) 
+ vīsati purisā = twenty men--- 
+ 
+ vīsati purisā = 二十个人---
+
+ vīsati --> purisā (IAD) 
 
 
 **Note**: mark the difference of gender in the second example and that of both 
 gender and number in the last.
 
+**注意**：在第二个例句中标记**性**的差异以及在最后标记两者**性**和**数**的差异。
 
  1 tulyādhikaraṇavisesana - visesya

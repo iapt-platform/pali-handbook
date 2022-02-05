@@ -8,7 +8,7 @@
 
 * 巴利： pakati (avuttakamma) - kiriyā
 * 中文： 宾语·主 - 动词
-* English： Primary Inactive Object  - Verb Relation
+* English： Primary Inactive Object - Verb Relation
 ## DIO-S
 
 * 巴利： vikati (avuttakamma) - kiriyā

@@ -10,15 +10,15 @@ Other words may be related to it, but not vice-versa.
 5. 另外，两个或更多的名词表示不同的内容，则它们可能有相同的格、性与数。<br>On the other hand, two or more nouns of different contents may have the same case, gender and number.
 6. 一些不变词比如*ca*, *tathā*, *yathā*等等，和其他词语没有关联。<br>Some indeclinables such as *ca, tathā, yathā*, etc. are not related to other words.
 7. 主语与宾语的主动被动<br>**Activity/Inactivity of subjects and objects**
-   - 当说主语或宾语[主动](# "vutta")时；<br>When a subject or object is said to be [*active*](# "vutta");
-   1. 它必须是主格，如果它关联于一个主要动词，且<br>it must be in *nominative* case if related to a main verb and
-   2. 它相应的动词必须与它一致：<br>its corresponding verb must agree with it,
-      - (a) 在人称与数上与曲折了的动词一致，或者<br>in person and number if the verb is a conjugated form or,
-      - (b) 如果动词是现在、过去或者未来分词，那么在性、格与数上要一致。<br>in gender, case and number if the verb is a present, past or future participle.
+ - 当说主语或宾语[主动](# "vutta")时；<br>When a subject or object is said to be [*active*](# "vutta");
+ 1. 它必须是主格，如果它关联于一个主要动词，且<br>it must be in *nominative* case if related to a main verb and
+ 2. 它相应的动词必须与它一致：<br>its corresponding verb must agree with it,
+ - (a) 在人称与数上与曲折了的动词一致，或者<br>in person and number if the verb is a conjugated form or,
+ - (b) 如果动词是现在、过去或者未来分词，那么在性、格与数上要一致。<br>in gender, case and number if the verb is a present, past or future participle.
 
-   - 当说主语或宾语[被动](# "avutta")时；<br>When a subject or object is said to be [*inactive*](# "avutta");
-   1. 它相应的动词不必与之保持一致，且<br>its corresponding verb need not have any agreement with it and,
-   2. 一个**被动主语**可能是**工具格**或者**属格**<br>an *inactive subject* may be in *instrumental* or *genitive* case<br>而一个**被动宾语**必须是宾格。<br>while an *inactive object* must be in accusative case.
+ - 当说主语或宾语[被动](# "avutta")时；<br>When a subject or object is said to be [*inactive*](# "avutta");
+ 1. 它相应的动词不必与之保持一致，且<br>its corresponding verb need not have any agreement with it and,
+ 2. 一个**被动主语**可能是**工具格**或者**属格**<br>an *inactive subject* may be in *instrumental* or *genitive* case<br>而一个**被动宾语**必须是宾格。<br>while an *inactive object* must be in accusative case.
 
 ## 三种语态的用法Usage of Three Voices
 ### 主动语态Active Voice

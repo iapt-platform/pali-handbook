@@ -38,7 +38,7 @@
 例词 karoti
 
 ||单数|复数|反照态 单数|反照态 复数|
-| -- | -- | -- | -- |  -- |
+| -- | -- | -- | -- | -- |
 |第三人称|karo**tu**<br>kubbatu|karo**ntu**<br>kubbantu|kurutaṃ<br>kubbataṃ|kubbantaṃ|
 |第二人称|karo**hi**<br>kubbāhi|karo**tha**<br>kubbatha|karassu<br>kurussu<br>kubbassu|kuruvho<br>kubbavho|
 |第一人称|karo**mi**<br>kubbāmi|karo**ma**<br>kubbāma|kare<br>kubbe|karomase<br>kubbāmase|

@@ -14,4 +14,4 @@ Dvi (二, two)
 | [属格](gen.md) | dvinnaṃ<br>duvinnaṃ |
 | [位置格](loc.md) | dvīsu |
 
-在[复合词]中的拼写  dvi 
+在[复合词]中的拼写 dvi 

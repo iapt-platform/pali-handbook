@@ -2,14 +2,14 @@
 ## 查字典
 - 输入该词（忽略特殊字符如：ā，ṭ等）
 - 查询无结果，删掉最后一个字母来进行尝试，并根据返回结果数量判断该词的可信度，通常超过10为非常可信。
-  - 删掉结尾的ṃ
+ - 删掉结尾的ṃ
 - 查询语尾用 -XX
 - 拆词遇到双辅音开头，删掉其中一个进行查询尝试
 - 还原词典源型——即词典中真实查询用的拼写
 - 去前缀查询法
-  - 去掉否定前缀a-,an-等，增加查字典成功率
-  - 去掉修饰前缀，方便追寻词根源头
-  - 
+ - 去掉否定前缀a-,an-等，增加查字典成功率
+ - 去掉修饰前缀，方便追寻词根源头
+ - 
 
 ## 语料常见规则
 
@@ -36,9 +36,9 @@ suffix 后缀
 关系词与其先行词的一致(Concord of the Relative and its Antecedent)
 关系代名词与其先行词性、數、格必须一致。
 1. 关系词可被单独使用,不需名词,
-   如：yo jānāti so imaṃ gaṇhatu (任何人懂,就让他拿去。he who knows let him take this.)
-   注意：以上指示代名词“so”被用作关連词(correlative)引导主要子句。
-   yo是关系代名词,引导关系子句。
+ 如：yo jānāti so imaṃ gaṇhatu (任何人懂,就让他拿去。he who knows let him take this.)
+ 注意：以上指示代名词“so”被用作关連词(correlative)引导主要子句。
+ yo是关系代名词,引导关系子句。
 2. 使用关系代名词(指示代名词)而不用先前使用过的名词：ahaṃ ekaṃ upāyaṃ jānāmi, yena amhe gaṇhituṃ no sakkissati [我有个权宜之计,透过其(计)他将不能够抓住我们。I know an expedient by which he will not able to seize us.]
 3. 带有表达过的名词：yassa purisassa buddhi hoti so mahaddhano ti vuccati (有觉
 慧的人,被称为有大财富。to whom there is wisdom, he is called very wealthy)

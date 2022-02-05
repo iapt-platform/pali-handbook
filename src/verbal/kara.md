@@ -1,5 +1,5 @@
 |kar.pr|sg|pl|reflx sg|reflx pl|
-| -- | -- | -- | -- |  -- |
+| -- | -- | -- | -- | -- |
 |pr<br>3rd|karoti<br>kubbati|karonti<br>kubbanti|kurute<br>kubbate|kubbante|
 |pr<br>2nd|karosi<br>kubbasi|karotha<br>kubbatha|kuruse<br>kubbase|kuruvhe<br>kubbavhe|
 |pr<br>1st|karomi<br>kubbāmi|karoma<br>kubbāma|kare<br>kubbe|kurumhe<br>kubbamhe|

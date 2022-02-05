@@ -45,7 +45,7 @@
 在完成分析并找出关系后，利用这种关系对标记本身进行合理的翻译。
 >After the analysis has been finished and the relation found out, that relation is used to make a reasonable translation of the marker itself.
 
-  
+ 
 ## **Essential Content** (*Piṇḍattha*)
 The term **essential content** is used in contrast with the *literal* content.
 
@@ -63,27 +63,27 @@ Depending on the relation of their **essential contents**, they are divided into
 
 ### A. Units of Identical Contents
 
-  1. Unit of [Summarized Content](# "saṅkhepa vākya") followed by Unit of [Elaborated Content](# "vitthāra vākya")
-  2. Unit of [Elaborated Content](# "vitthāra vākya") followed by Unit of [Summarized Content](# "saṅkhepa vākya") (the pair above reversed)
-  3. Unit of [Vague Content](# "apākaṭa vākya") followed by Unit of [Illuminated Content](# "tappākaṭīkaraṇa vākya")
-  4. Unit of [Doubtful Content](# "daḷhiya vākya待定") followed by Unit of [Confirming Content](# "daḷhīkaraṇa vākya确定")
-  5. Unit of [Main Content](# "nigamanīya vākya") followed by Unit of [Concluding Content](# "nigamana vākya")
+ 1. Unit of [Summarized Content](# "saṅkhepa vākya") followed by Unit of [Elaborated Content](# "vitthāra vākya")
+ 2. Unit of [Elaborated Content](# "vitthāra vākya") followed by Unit of [Summarized Content](# "saṅkhepa vākya") (the pair above reversed)
+ 3. Unit of [Vague Content](# "apākaṭa vākya") followed by Unit of [Illuminated Content](# "tappākaṭīkaraṇa vākya")
+ 4. Unit of [Doubtful Content](# "daḷhiya vākya待定") followed by Unit of [Confirming Content](# "daḷhīkaraṇa vākya确定")
+ 5. Unit of [Main Content](# "nigamanīya vākya") followed by Unit of [Concluding Content](# "nigamana vākya")
 ### B. Units of Cause and Effect
  
-  1. Unit of [Premise (Cause)](# "kāraṇa vākya") followed by Unit of [Conclusion (Effect)](# "phala vākya")
-  2. Unit of [Conclusion (Effect)](# "phala vākya") followed by Unit of [Premise (Cause)](# "kāraṇa vākya") (the pair above reversed)
-  3. Unit of [Confirmable Content](# "yutti vākya") followed by Unit of [Convincing Implication](# "laddhaguṇa vākya")
-  4. Unit of [Disputable Content](# "ayutti vākya") followed by Unit of [Destructive Implication](# "laddhadosa vākya")
+ 1. Unit of [Premise (Cause)](# "kāraṇa vākya") followed by Unit of [Conclusion (Effect)](# "phala vākya")
+ 2. Unit of [Conclusion (Effect)](# "phala vākya") followed by Unit of [Premise (Cause)](# "kāraṇa vākya") (the pair above reversed)
+ 3. Unit of [Confirmable Content](# "yutti vākya") followed by Unit of [Convincing Implication](# "laddhaguṇa vākya")
+ 4. Unit of [Disputable Content](# "ayutti vākya") followed by Unit of [Destructive Implication](# "laddhadosa vākya")
 ### C. Units of Ordinary Connection
 
-  1.   Unit of [Partial Content](# "āraddha vākya") followed by Unit of [Continued Supplement](# "upanyāsa vākya")
-  2.   Unit of [Partial Content](# "āraddha vākya") followed by Unit of [Resumed Supplement](# "vākyārambha vākya")
-  3.   Unit of [General Content](# "sāmañña vākya") followed by Unit of [Particular Content](# "visesa vākya")
-  4.   Unit of [Particular Content](# "visesa vākya") followed by Unit of [General Content](# "sāmañña vākya") (the pair above reversed)
-  5.  Unit of [Affirmative Content](# "anvaya vākya") followed by Unit of [Negative Content](# "byatireka vākya")
-  6.  Unit of [Negative Content](# "byatireka vākya") followed by Unit of [Affirmative Content](# "anvaya vākya") (the pair above reversed)
-  7.  Unit of [Disapproved Content](# "garahā vākya") followed by Unit of [Commended Content](# "sambhāvanā vākya")
-  8.  Unit of [Commended Content](# "sambhāvanā vākya") followed by Unit of [Disapproved Content](# "garahā vākya") (the pair above reversed)
-  9.  Unit of [Previous Theme](# "pakkha vākya") followed by Unit of [Next Theme](# "pakkhantara vākya")
+ 1. Unit of [Partial Content](# "āraddha vākya") followed by Unit of [Continued Supplement](# "upanyāsa vākya")
+ 2. Unit of [Partial Content](# "āraddha vākya") followed by Unit of [Resumed Supplement](# "vākyārambha vākya")
+ 3. Unit of [General Content](# "sāmañña vākya") followed by Unit of [Particular Content](# "visesa vākya")
+ 4. Unit of [Particular Content](# "visesa vākya") followed by Unit of [General Content](# "sāmañña vākya") (the pair above reversed)
+ 5. Unit of [Affirmative Content](# "anvaya vākya") followed by Unit of [Negative Content](# "byatireka vākya")
+ 6. Unit of [Negative Content](# "byatireka vākya") followed by Unit of [Affirmative Content](# "anvaya vākya") (the pair above reversed)
+ 7. Unit of [Disapproved Content](# "garahā vākya") followed by Unit of [Commended Content](# "sambhāvanā vākya")
+ 8. Unit of [Commended Content](# "sambhāvanā vākya") followed by Unit of [Disapproved Content](# "garahā vākya") (the pair above reversed)
+ 9. Unit of [Previous Theme](# "pakkha vākya") followed by Unit of [Next Theme](# "pakkhantara vākya")
 
 

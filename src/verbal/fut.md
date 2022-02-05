@@ -23,7 +23,7 @@
 例词 *karoti*
 
 |kar.pr|sg|pl|reflx sg|reflx pl|
-| -- | -- | -- | -- |  -- |
+| -- | -- | -- | -- | -- |
 |fut<br>3rd|karissati<br>kāhati<br>kāhiti|karissanti<br>kāhanti<br>kāhinti|karissate<br>kāhate|karissante<br>kāhante|
 |fut<br>2nd|karissasi<br>kāhasi<br>kāhisi|karissatha<br>kāhattha|karissase<br>kāhase|karissavhe<br>kāhavhe|
 |fut<br>1st|karissāmi<br>kassāma<br>karissaṃ<br>kassaṃ<br>kāhāmi|karissāma<br>kassāma<br>kahāma|karisse<br>kāhe|karissāmhe<br>kāhamhe|

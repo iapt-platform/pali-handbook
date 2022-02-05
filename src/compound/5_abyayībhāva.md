@@ -17,7 +17,7 @@
 - pativātaṃ=pati+vātaṃ (acc.) (逆风, against the wind); 
 - tiropabbataṃ=pabbatassa tiro (穿越山嶺, across the mountain); 
 - uparipabbataṃ =pabbatassa+upari (依旁着山, upon the mountain); 
-- paṭisotaṃ=sotassa+paṭilomaṃ (逆流地,against the stream; Sota【 m. 】 流水，奔流。);  
+- paṭisotaṃ=sotassa+paṭilomaṃ (逆流地,against the stream; Sota【 m. 】 流水，奔流。); 
 - adhogaṅgaṃ =gaṅgaya+adho (在恒河下面, below the Ganges); 
 - upavadhu=upa+vadhu (近其 妻, near his wife); 
 - adhikumāi =adhi+kumāri (年轻女孩, the young girl) 
