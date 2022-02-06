@@ -8,7 +8,7 @@ ending with *iti* is related to it in POS relation.
 
 **Ex**. Posoti puriso, bodhisattoti attho. 
 
-Posoti --> puriso, bodhisatto (NIO) / attho (POS), (ayaṁ) --> attho (NIO) 
+Posoti --> puriso, bodhisatto (NIO) / attho (POS), (ayaṃ) --> attho (NIO) 
 
 **译**. *poso*这个词是（即意思是）"那个男人"，*也就是说*，菩萨。这就是poso这个词的含义。
 
