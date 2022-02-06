@@ -4,7 +4,7 @@
 subject) in Instrumental or Accusative case and Radial object in Accusative 
 case.
 
-这里的因果主语在工具格中，因果宾语（Radial subject）在工具格或宾格和Radial object在宾格中。
+这里的使令主语用工具格，使令宾语（根本主语）用工具格或宾格及根本宾语用宾格。
 
  E.g. purisena dārakaṃ / dārakena gāmaṃ   gamāpīyati = (the) child is caused                                                                                                                                                                                                                                                            by (the) man to go (to) the village
 
@@ -32,13 +32,13 @@ number.
  
  nandā nāma saro = (the) lake Nandā by name--- 
  
- nandā nāma saro = （该）南达湖的名字---
+ nandā nāma saro = 名为Nandā的（那个）湖---
 
  nandā  --> saro (IAD)
  
   vīsati purisā = twenty men--- 
   
-  vīsati purisā = 二十个人---
+  vīsati purisā = 二十个男人---
 
   vīsati       -->       purisā (IAD) 
 
@@ -46,6 +46,6 @@ number.
 **Note**: mark the difference of gender in the second example and that of both 
 gender and number in the last.
 
-**注意**：在第二个例句中标记**性**的差异以及在最后标记两者**性**和**数**的差异。
+**注意**：在第二个例句中**性**的差异以及在最后一例**性**和**数**的差异。
 
  1 tulyādhikaraṇavisesana - visesya
