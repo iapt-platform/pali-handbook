@@ -6,9 +6,9 @@ breviated form of “*yathā āha* = this is why (the inserted Active Subject) s
 
 短语*yathā āha*用于引用某个官方资料来源。它被视为"*yathā āha* 的缩写形式 = 这就是为什么（插入主语）说......"或
 
-“*mayā vuttassa vacanassa sādhakaṁ yathā [kiṁ (vacanaṁ)] āha* = what set of speech, 
+“*mayā vuttassa vacanassa sādhakaṃ yathā [kiṃ (vacanaṃ)] āha* = what set of speech, 
 which validate the words mentioned by me, did (the inserted Active subject) say?” or 
-“*yathā [yena (vacanena)] āha, tathā [tena (vacanena)] mayā vuttaṁ vacanaṁ sameti* = 
+“*yathā [yena (vacanena)] āha, tathā [tena (vacanena)] mayā vuttaṃ vacanaṃ sameti* = 
 the set of speech, by which (the inserted Active Subject) said, the set of speech 
 mentioned by me agrees with it.” 
 
