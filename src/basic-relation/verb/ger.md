@@ -1,25 +1,37 @@
-# **Gerunds** 
-# **动名词**
- They are also indeclinable verbal derivatives of Absolute voice. They can 
-have two senses; (a) real or figurative priority in time (b) causality. When used 
+# 连续体<br>Gerunds
+连续体，也成独立体、绝对体，属于动词不变词的一种。
+表达两种含义：
+1. 这个动作在的时间上发生在后面动词之前
+   - 可以表示**一连串**的**动作**
+   - 他们的**主语相同**
+   - 动词之间是**副词关系**
+   - 动作发生的优先性可能是**实际**的，也可能是**象征性**的。
+2. 因果关系
+   - 主语不同
+   - 动词之间是**因果关系**
+
+They are also indeclinable verbal derivatives of Absolute voice. They can have two senses; (a) real or figurative priority in time (b) causality. When used 
 in the first sense, they have the same subject as the verbs qualified by them and 
 are related to them in Adverbial Relation (ADV). 
 
-绝对式过去分词也被看做是绝对语态的无语尾变化的动词派生词。他们可以有两种意思;（a）真实的或象征性的时间上的优先（b）因果关系。如果是（a） ，它们有相同的主语，它们的关系是副词关系。
-
- However, when the second sense is to be understood, they have subjects 
+However, when the second sense is to be understood, they have subjects 
 different from those of the verbs they qualify and related to them in causality 
 Relation (CAU). 
 
-然而，如果是（b），它们会有不同的主语，属于因果关系。
 
-**E.g**. * So pacitvā bhuñjati = He cooks and eats. (**real priority in time**)
 
-**例如**。 * 所以 pacitvā bhuñjati = 他煮了以后吃。（**实际时间优先级**）
+例句：So pacitvā bhuñjati
+他煮了以后吃。（**实际的时间优先**）
+He cooks and eats. (**real priority in time**)
+```mermaid
+
+```
+
 
  So --> (pacitvā) --> bhuñjati (ASV)
  
  pacitvā --> bhuñjati (ADV) 
+
  * So mukhaṃ vivaritvā sayati = He opens the mouth and sleeps, i.e., sleeps with 
  
  So --> (vivaritvā) --> sayati (ASV) the open mouth. 
@@ -31,10 +43,9 @@ Relation (CAU).
  所以-->（pacitvā）-->bhuñjati（ASV）
 
 
-
 pacitvā --> bhuñjati （ADV）
 
-* 所以 mukhaṃ vivaritvā sayati = 他张开嘴睡觉，即他睡觉时嘴巴张开着
+所以 mukhaṃ vivaritvā sayati = 他张开嘴睡觉，即他睡觉时嘴巴张开着（**象征性时间优先**）
 
 
 
@@ -42,7 +53,7 @@ pacitvā --> bhuñjati （ADV）
 
 
 
-  mukhaṃ --> vivaritvā （IOV） （**象征性时间优先**）
+  mukhaṃ --> vivaritvā （IOV） 
 
 
 
