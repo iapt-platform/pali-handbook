@@ -110,30 +110,32 @@ of the main verb *vasati*; *sāmanero* follows *puriso* in case, gender and
 number because they are identical in content. As regards *hutvā*, they are 
 only **inactive subjects**. 
 
-
-
- E.g. Purisena sāmanerena (hutvā) bhattaṃ bhuñjīyate. 
- 
- = Food is eaten by him, having been a novice [ = Food is eaten by him as 
-a novice (**adverbially**) OR Food is eaten by him becoming a novice (**change 
-of state**) OR Food is eaten by him after becoming a novice (**both**)] 
-
 例如，Purisena sāmanerena （hutvā） bhattaṃ bhuñjīyate。
 
 =（那个）人成为沙马内拉后，食物被吃。[ = 他以沙马内拉的身份，食物被他吃（**副词性质**）或他成了沙马内拉后，食物被他吃（**状态的改变**）或他成为沙马内拉以后，食物被他吃（**两者兼具**）]
 
- Purisena --> bhuñjīyate (ISV) Purisena--> hutvā (DSO-P) 
+ = Food is eaten by him, having been a novice [ = Food is eaten by him as 
+a novice (**adverbially**) OR Food is eaten by him becoming a novice (**change 
+of state**) OR Food is eaten by him after becoming a novice (**both**)] 
 
-bhattaṃ --> bhuñjīyate (AOV) sāmanerena --> hutvā (DSO-S)
 
- Here also, *purisena* is the **primary inactive subject** and 
-*sāmanerena*, the **secondary inactive subject** of *hutvā*. *Purisena* is in 
-**instrumental** case because it is the **inactive subject** of the main verb 
-*bhuñjīyate*; *sāmanerena* follows *purisena* in case, gender and number 
-because they are identical in content. As regards *hutvā*, they are only 
-**inactive subjects**. 
-
+```mermaid
+flowchart LR
+A("purisena")
+B("bhuñjīyate")
+C("hutvā")
+D("sāmanerena")
+E("bhattaṃ")
+A--"ISV"--> B
+A--"DSO-P"-->C
+D--"DSO-S"-->C
+E--"AOV"-->B
+```
 在这里也一样，*puriso*是**hutvā*的**主要被动主语**而*sāmanero*是*hutvā*的**次要被动主语**。*Puriso*是**具格**，因为它是**主要动词 *bhuñjīyate*的**被动主语;*sāmanero* 跟随 *puriso*的格、性 和数，因为它们在内容上是相同的。至于*hutvā*，他们只是**被动主语**。
+
+Here also, *purisena* is the **primary inactive subject** and *sāmanerena*, the **secondary inactive subject** of *hutvā*.
+*Purisena* is in **instrumental** case because it is the **inactive subject** of the main verb *bhuñjīyate*;
+*sāmanerena* follows *purisena* in case, gender and number because they are identical in content. As regards *hutvā*, they are only **inactive subjects**. 
 
 **Exception**: Purisena sāmanero (hutvā) bhattaṃ bhuñjīyate. 
 
