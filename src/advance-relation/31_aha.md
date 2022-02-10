@@ -4,7 +4,7 @@
  
  当 *aha* 在 （LOV）具有和 *idani* 相关联的句子中用作主要动词时，*aha* 具有现在时的含义。
  
- Ex. Evaṁ kusalaṁ dassetvā idāni akusalaṁ dassetuṁ / dassento “katame 
+ Ex. Evaṃ kusalaṃ dassetvā idāni akusalaṃ dassetuṃ / dassento “katame 
 dhammā akusalā” ti āha. 
 
  In the sentence above, the verb *āha* is translated in the Present Tense sense as, “says, speaks” for *idāni*, having the sense, “now, at present”, is related to it in (LOV) relation.

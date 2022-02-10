@@ -33,10 +33,10 @@
 31. [Usage of idani ... aha](31_aha.md)
 32. [Usage of kiñcettha](32_kiñcettha.md)
 33. [Usage of nanu](33_nanu.md)
-34. [Usage of taṁ yathā](34_tam.md)
-35. [Usage of yadidaṁ](35_yadidam.md)
+34. [Usage of taṃ yathā](34_tam.md)
+35. [Usage of yadidaṃ](35_yadidam.md)
 36. [Usage of yathā āha](36_yatha.md)
-37. [Usage of yathā taṁ](37_taṁ.md)
+37. [Usage of yathā taṃ](37_taṃ.md)
 38. [Usage of vuccate](38_vuccati.md)
 39. [Usage of vuccati](39_vuccati.md)
  
