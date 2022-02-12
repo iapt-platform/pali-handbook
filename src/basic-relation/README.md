@@ -88,3 +88,7 @@ $$
 注Note:
 >In the following sections, all sample Pali sentences are given with English translations.
 In the English equivalents, words given in brackets are those that are necessary for English syntax yet have no representation in the Pali version.
+
+英文来源：
+> ——Compiled and commented by Ven.Paṇḍita Pariyatti Faculty ITBMU.<br>
+——Revised edition at PA-AUK Tawya, Mawlamyine.
