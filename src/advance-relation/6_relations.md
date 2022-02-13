@@ -32,7 +32,7 @@ $$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{�
 **自学参考内容如下：**
 
 ---
-Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ / dassento “katame dhammā akusalā” ti āha. 
+Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ “katame dhammā akusalā” ti āha. 
 
 <div class="mermaid">
 flowchart LR
@@ -41,36 +41,78 @@ direction LR
 A("katame")
 B("dhammā")
 C("akusalā")
+A---B---C
 end
-D("dassetuṃ / dassento")
-iti--IMP-->D
+D("dassetuṃ")
+E("āha")
+iti--"IMP"-->D
+iti--"IOV<br>"-->E
 </div>
 
-“katame dhammā akusalā” ti --> āha (IOV) 
+- **译**（带*dassetum*）：-（佛陀），宣说了善法之后，说“katame dhamma akusala”来讲解不善法。（带有"katame dhamma akusala"的话）。
+- (with *dassetuṃ*) :- (the Lord Buddha), showed the Merit thus and, said (the words), “katame dhammā akusalā” to show the Demerit (with the words, “katame dhamma akusala”). 
 
-“katame dhammā akusalā” --> iti (QUS), iti --> āha (QUM) 
+<div class="mermaid">
+flowchart LR
+subgraph 引号内
+direction LR
+A("katame")
+B("dhammā")
+C("akusalā")
+A---B---C
+end
+E("āha")
+F("iti")
+引号内--"QUS"-->F
+F--"QUM<br>"-->E
+</div>
 
- (Other relations can be inferred from the translation.) 
-
- （其他关系可以从翻译中推断出来。）
-
- **Trs**. (with *dassetuṃ*) :- (the Lord Buddha), showed the Merit thus and, said (the words), “katame dhammā akusalā” to show the Demerit (with the words, “katame dhamma akusala”). 
-
-**译**.（与*dassetum*）：-（佛陀），宣说了善法之后，"katame dhamma akusala"来宣说不善法（带有"katame dhamma akusala"的话）。
-
- **(or)** (The Lord Buddha), showed the Merit thus and, said thus, “katame dhammā 
+- **（或）**（佛陀），宣说了善法之后，"katame dhamma akusala"来宣说不善法（带有"katame dhamma akusala"的话）。
+- **(or)** (The Lord Buddha), showed the Merit thus and, said thus, “katame dhammā 
 akusalā” to show the Demerit (with the words, “katame dhammā akusalā”). 
 
-**（或）**（佛陀），宣说了善法之后，"katame dhamma akusala"来来宣说不善法（带有"katame dhamma akusala"的话）。
+---
+Ex. Evam kusalaṃ dassetvā akusalaṃ dassento “katame dhammā akusalā” ti āha. 
 
- **Trs**. (with *dassento*):- (the Lord Buddha), who showed the Merit and showed the 
+<div class="mermaid">
+flowchart LR
+subgraph iti
+direction LR
+A("katame")
+B("dhammā")
+C("akusalā")
+A---B---C
+end
+D("dassento")
+E("āha")
+iti--"IMP"-->D
+iti--"IOV<br>"-->E
+</div>
+
+- **译**.（与*dassento*）：- 宣说了善和不善法之后（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+- **Trs**. (with *dassento*):- (the Lord Buddha), who showed the Merit and showed the 
 Demerit (with the words, “katame dhammā akusalā”), said (the words), “katame 
 dhamma akusala” / (or) said thus, “katame dhammā akusalā”. 
 
-**译**.（与*dassento*）：- 宣说了善和不善法之后（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+<div class="mermaid">
+flowchart LR
+subgraph 引号内
+direction LR
+A("katame")
+B("dhammā")
+C("akusalā")
+A---B---C
+end
+E("āha")
+F("iti")
+引号内--"QUS"-->F
+F--"QUM<br>"-->E
+</div>
 
- **(or)** When (the Lord Buddha), showed the Merit and showed the Demerit (with 
+（其他关系可以从翻译中推断出来。）<br>(Other relations can be inferred from the translation.)
+
+- 当（佛陀）宣说了善和不善法之后（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
+- When (the Lord Buddha), showed the Merit and showed the Demerit (with 
 the words, “katame dhammā akusalā”), (he) said (the words), “katame dhammā 
 akusalā” / (or) said thus, “katame dhammā akusalā”. 
 
-**（或）****当（佛陀）宣说了善和不善法之后（带有"katame dhamma akusala"的话），（他）说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
