@@ -34,7 +34,7 @@ $$宣说完\underbrace{善法}_{A主题(宾格)} 之后，当宣说\underbrace{�
 ---
 Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ / dassento “katame dhammā akusalā” ti āha. 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 subgraph iti
 direction LR
@@ -44,7 +44,7 @@ C("akusalā")
 end
 D("dassetuṃ / dassento")
 iti--IMP-->D
-```
+</div>
 
 “katame dhammā akusalā” ti --> āha (IOV) 
 

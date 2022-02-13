@@ -14,29 +14,29 @@ The adjective must follow the case of the substantive but may differ in gender a
 例句：mahatā purisena
 - 被一个伟人
 - ...with (a/ the) great man
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("mahatā<br>大<br>三性|阳·单·具")
 B("purisena<br>男人<br>名|阳·单·具")
 A--"IAD<br>同格位修饰-被修饰"-->B
-```
+</div>
 
 例句：nandā nāma saro
 - 名为“nandā”的湖
 - (the) lake Nandā by name
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("nandā<br>喜庆<br>名|阴·单·主")
 B("saro<br>湖<br>名|中·单·主")
 A--"IAD<br>同格位修饰-被修饰"-->B
-```
+</div>
 
 例句：vīsati purisā
 - 二十位男人
 - twenty men
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("vīsati<br>二十<br>数词干")
 B("purisā<br>男人[们]<br>名|阳·复·主")
 A--"IAD<br>同格位修饰-被修饰"-->B
-```
+</div>

@@ -43,7 +43,7 @@ C--"QUM"-->D
 例句：so datto iti ñāyate
 - 他以Datta（之名）被人所知。
 - He is known as Datta.
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("so")
 B("datto")
@@ -52,7 +52,7 @@ D("ñāyate")
 A--AOV-->D
 B--"QUS"-->C
 C--"QUM"-->D
-```
+</div>
 
 #### A2.
 可把引文与iti当作一个**粘音词**。这个整体是一个**无词尾变化**的名词。
