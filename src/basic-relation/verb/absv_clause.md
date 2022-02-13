@@ -13,7 +13,7 @@
 - （当……的时候/作为/当） （那个）人在吃食物时，孩子死了。
 - (While/ As / When) food is (being) eaten by (the) man, (the) child dies. 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("Purisena")
 B("bhutte")
@@ -24,13 +24,13 @@ A--"ISV"-->B
 C--"IOV"-->B
 B--"DEF"-->D
 E--"ASV"-->D
-```
+</div>
 
 例句：Purisena bhojanaṃ bhutte dārako diṭṭho
 - （当……的时候/作为/当）（那个）人在吃食物时，看见了孩子。
 - (while/ as/ when) food is (being) eaten by (the) man, (the) child is seen (by him).
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("Purisena")
 B("bhutte")
@@ -42,4 +42,4 @@ A--"ISV"-->C
 D--"IOV"-->B
 B--"DEF"-->C
 E--"AOV"-->C
-```
+</div>

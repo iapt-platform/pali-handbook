@@ -178,7 +178,7 @@
   * [Usage of verbals derived from √ gah(未完成)](advance-relation/23_verbals.md)
   * [Usage of ayam pana(未完成)](advance-relation/24_pana.md)
   * [Usage of ci(未完成)](advance-relation/25_ci.md)
-  * [Usage of double negatives(未完成)](advance-relation/26_negatives.md)
+  * [双重否定词的用法Usage of double negatives(未完成)](advance-relation/26_negatives.md)
   * [Usage of double pronouns(未完成)](advance-relation/27_pronouns.md)
   * [Usage of eseva nayo(未完成)](advance-relation/28_nayo.md)
   * [Usage of ettha siya(未完成)](advance-relation/29_ettha.md)

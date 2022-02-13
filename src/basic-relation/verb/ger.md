@@ -19,7 +19,7 @@ However, when the second sense is to be understood, they have subjects different
 So pacitvā bhuñjati
 - 他煮了以后吃。（**实际的时间优先**）
 - He cooks and eats. (**real priority in time**)
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("so")
 B("pacitvā")
@@ -27,14 +27,14 @@ C(" bhuñjati")
 A--"ASV"-->B
 A--"ASV"-->C
 B--"ADV"-->C
-```
+</div>
 
 ## 例句2：
 So mukhaṃ vivaritvā sayati
 - 他张开嘴睡觉，即他睡觉时嘴巴张开着（**象征性时间优先**）
 - He opens the mouth and sleeps, i.e., sleeps with the open mouth.(**figurative priority in time**)
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("so")
 B("vivaritvā")
@@ -44,14 +44,14 @@ A--"ASV"-->B
 A--"ASV"-->C
 D--"IOV"-->B
 B--"ADV"-->C
-```
+</div>
 
 ## 例句3：
 tassa sīhaṃ disvā bhayaṃ hoti
 - 他的恐惧是因為看到獅子而產生的。(**因果关系**)
 - His fear arises because of seeing the lion.(**Causality**) 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("tassa")
 B("bhayaṃ")
@@ -63,7 +63,7 @@ A--"ISV"-->C
 B--"ASV"-->D
 E--"IOV"-->C
 C--"CAU"-->D
-```
+</div>
 
 ## hutvā引导的双重被动主语关系DISO
 >Hutvā**" with **Double Inactive Subject** (*Ordinary*) relation [DISO ] 
@@ -87,7 +87,7 @@ C--"CAU"-->D
 [= He stays as a novice (**adverbially**) OR He becomes a novice and stays 
 (**change of state**) OR He stays after becoming a novice (**both**)] 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("puriso<br>男人<br>阳·单·主")
 B("hutvā<br>成为<br>动不变·连续体")
@@ -97,7 +97,7 @@ A-."性数格一致".-D
 A--"DISO-P<br>"-->B
 D--"DISO-S"-->B
 A--"ASV"-->C
-```
+</div>
 在上面的句子中，*puriso*是*hutvā*的**主要被动主语**；
 而*sāmanero*是*hutvā*的**次要被动主语**。
 *Puriso*是**主格**，**单数**只是因为它是**主要动词** *vasati*的**主动主语**;
@@ -119,7 +119,7 @@ a novice (**adverbially**) OR Food is eaten by him becoming a novice (**change
 of state**) OR Food is eaten by him after becoming a novice (**both**)] 
 
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("purisena")
 B("bhuñjīyate")
@@ -130,7 +130,7 @@ A--"ISV"--> B
 A--"DSO-P"-->C
 D--"DSO-S"-->C
 E--"AOV"-->B
-```
+</div>
 在这里也一样，*puriso*是**hutvā*的**主要被动主语**而*sāmanero*是*hutvā*的**次要被动主语**。*Puriso*是**具格**，因为它是**主要动词 *bhuñjīyate*的**被动主语;*sāmanero* 跟随 *puriso*的格、性 和数，因为它们在内容上是相同的。至于*hutvā*，他们只是**被动主语**。
 
 Here also, *purisena* is the **primary inactive subject** and *sāmanerena*, the **secondary inactive subject** of *hutvā*.
