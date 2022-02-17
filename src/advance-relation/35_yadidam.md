@@ -2,9 +2,9 @@
 
 短语 *yadidaṃ* 被视为下列组合：
 **关系代词***ya*和**指示代词***ima*，
-两者都可以是数字和任何词性的**主格**。<br>
+两者任何性和数的**主格**。<br>
 The phrase *yadidaṃ* is viewed as equivalent to a combination of the *relative* and *demonstrative* pronouns *ya* and *ima*, which can be of *nominative* case, both number and any gender.<br>
-也就是说，这个成语对应于短语<br>
+也就是说，这个固定搭配相当于下表中6种组合之一：<br>
 That is, this idiom corresponds to phrases
 
 |性|单数|复数|
