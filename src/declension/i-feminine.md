@@ -1,4 +1,4 @@
-#i结尾的[阴性](feminine.md)名词
+# i/ī结尾的[阴性](feminine.md)名词
 
 [返回变格目录](declension.md)
 

@@ -19,7 +19,7 @@
 			* [ā阴性](declension/a-feminine.md)
 			* [i阳性](declension/i-masculine.md)
 			* [i中性](declension/i-neutral.md)
-			* [ī阴性](declension/i-feminine.md)
+			* [i/ī阴性](declension/i-feminine.md)
 			* [u阳性](declension/u-masculine.md)
 			* [u中性](declension/u-neutral.md)
 			* [ū阴性](declension/u-feminine.md)
