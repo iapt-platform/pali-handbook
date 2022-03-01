@@ -11,9 +11,9 @@ This type of relation is also possible here as with Genitive case.
 rājā manussesu
 - （那位/一位） **在**男人们**中**的国王...
 - (The/A) king, **among/of** men...
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("manussesu<br>[在]人[们中]<br>复·处")
 B("rājā<br>国王<br>单·主")
 A--"COI"-->B
-```
+</div>

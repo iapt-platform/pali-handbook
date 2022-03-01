@@ -9,9 +9,9 @@ Here a noun expressing a sort of motive or grounds that compels an action is rel
 
 cammesu haññate.
 - [旨在]皮革而被杀死。
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("cammesu<br>[旨在]皮革<br>复·处")
 B("haññate<br>杀死<br>单·现")
 A--"MOT<br>动机-动词"-->B
-```
+</div>

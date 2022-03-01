@@ -11,9 +11,9 @@ rukkhe sākhā
 - （那棵）树的（一根）分支。
 - (a) branch of (the) tree.
 
-```mermaid
+<div class="mermaid">
 flowchart LR
 A("rukkhe<br>树[上]<br>单·处")
 B("sākhā<br>分枝<br>单·主")
 A--"WHP<br>整体-局部"-->B
-```
+</div>
