@@ -1,18 +1,23 @@
-# sambandha - sambandhin
+# 从属关系 (POS)
 
-# 从属关系3 (POS)
-
-# Possessor Relation3 (POS)
-When a thing or person belongs to another, the latter is related to the former in Possessor Relation.
+* 巴利： sambandha - sambandhin
+* 中文： 所有者 → 所属物
+* English：Possessor Relation(POS)
+* English2：belonger - belonging
 
 当一个事物或人属于另一个事物或人时，后者是与前者有着从属的关系。
+> When a thing or person belongs to another, the latter is related to the former in Possessor Relation.
 
-bhikkhuno patto 
+bhikkhuno patto
+- 比库的缽有两种， 陶砵和铁钵
+- (The/A) monk's bowl
+```mermaid
+flowchart LR
+bhikkhuno --"POS<br>所有者 → 所属物"--> patto
+```
 
-=...（这位/一位）僧侣的碗
-
-=... (The/A) monk's bowl
-- bhikkhuno ——> patto (POS)
-
-Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. 
-- anāthapiṇḍikassa ——> ārāme (POS)
+Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
+```mermaid
+flowchart LR
+anāthapiṇḍikassa--"POS<br>所有者 → 所属物"-->ārāme
+```

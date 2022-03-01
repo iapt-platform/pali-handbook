@@ -1,12 +1,12 @@
 # 绝对语态从句<br>Absolute Voice Clause
 
 
-1. 主导从句的分词是一个过去或现在或将来的分词。<br>
+1. 主导从句的分词可以是**过去分词**、**现在分词**或**未来被动分词**。<br>
    The participle governing the clause is a past or present or future participle.
-2. 它是绝对时态，属格或处格，中性和单数。它与限定关系(DEF)与主要动词相关联。<br>
+2. 在绝对语态中，**属格**或**处格**，中性和单数。它以**限定关系**(DEF)与主要动词相关联。<br>
    It is in Absolute Voice, Genitive or Locative case, Neutral gender and Singular number. It is related to the main verb in Definitive Relation (DEF). 
 
-3. 分词的被动主语或被动宾语，可能或不可能与主句中的有些词有关系。<br>
+3. 分词的被动主语或宾语，可能或不可能与主句中的有些词有关系。<br>
    The Inactive subject or Inactive object of the participle may or may not be related to some word in the main clause.
 
 例句：Purisena bhojanaṃ bhutte dārako marati
