@@ -1,18 +1,29 @@
-# -an 结尾的[阳性](masculime.md)名词
+# -ā/-an 结尾的[阳性](masculime.md)名词
 
 [返回变格目录](readme.md)
 
+| 变格 | 单数 |复数 |
+| ---| ---| ---|
+| [主格<br>nom.](nom.md)| -ā| -āno<br>-ā| 
+| [呼格<br>voc.](voc.md)| -a<br>-ā| -āno<br>-ā| 
+| [宾格<br>acc.](acc.md)| -aṃ<br>-ānaṃ|-e<br>-āno| 
+| [工具格<br>instr.](instr.md)| -inā<br>-ññā<br>-ena| -ehi<br>-ebhi<br>-ūhi<br>-ūbhi| 
+| [来源格<br>abl.](abl.md)| -ññā<br>-smā<br>-inā| -ehi<br>-ebhi<br>-ūhi<br>-ūbhi| 
+| [属格<br>gen.](gen.md)| -ino<br>-ñño<br>-ññassa| -ānaṃ<br>-ññaṃ<br>-ūnaṃ| 
+| [位置格<br>loc.](loc.md)| -ññe<br>-ññi<br>-ini<br>-imhi<br>-smiṃ<br>-ismiṃ<br>-ṃhi| -esu<br>-ūsu| 
+
+
 例词： Rājan(国王)
 
-| 变格 | 单数 |复数 |
-| ---| -----| ------|
-| [主格](../../declension/nom.md) | Rāj**ā** | Rāj**āno** | 
-| [呼格](../../declension/voc.md) | Rāja<br>Rāj**ā** | Rāj**āno** |
-| [宾格](../../declension/acc.md) | Rāja**ṃ**<br>Rāj**ānaṃ** | Rāj**e**<br>Rāj**āno** |
-| [工具格](../../declension/instr.md) | Rāj**inā**<br>Ra**ññā**<br>Rāj**ena** | Rāj**ehi**<br>Rāj**ebhi**<br>Rāj**ūhi**<br>Rāj**ūbhi** | 
-| [来源格](../../declension/abl.md) | Ra**ññā**<br>Rāja**smā**<br>Rāj**inā** | Rāj**ehi**<br>Rāj**ebhi**<br>Rāj**ūhi**<br>Rāj**ūbhi** | 
-| [属格](../../declension/gen.md)<br>[目的格](../declension/dat.md) | Rāj**ino**<br>Ra**ñño**<br>Ra**ññassa** | Rāj**ānaṃ**<br>Ra**ññaṃ**<br>Rāj**ūnaṃ** | 
-| [位置格](../../declension/loc.md) | Ra**ññe**<br>Rāj**ini**<br>Rāja**smiṃ** | Rāj**esu**<br>Rāj**ūsu** | 
+| 变格 | 单数 |复数 | 
+| ---| ------|  ------|
+| [主格<br>nom.](nom.md) | Rāj**ā** | Rāj**āno**<br>Rāj**ā** | 
+| [呼格<br>voc.](voc.md)  | Rāja<br>Rāj**ā** | Rāj**āno**<br>Rāj**ā** |
+| [宾格<br>acc.](acc.md) | Rāja**ṃ**<br>Rāj**ānaṃ** | Rāj**e**<br>Rāj**āno** |
+|  [工具格<br>instr.](instr.md) | Rāj**inā**<br>Ra**ññā**<br>Rāj**ena** | Rāj**ehi**<br>Rāj**ebhi**<br>Rāj**ūhi**<br>Rāj**ūbhi** | 
+| [来源格<br>abl.](abl.md) | Ra**ññā**<br>Rāja**smā**<br>Rāj**inā** | Rāj**ehi**<br>Rāj**ebhi**<br>Rāj**ūhi**<br>Rāj**ūbhi** | 
+| [属格<br>gen.](gen.md)<br>[目的格<br>dat.](dat.md) | Rāj**ino**<br>Ra**ñño**<br>Ra**ññassa** | Rāj**ānaṃ**<br>Ra**ññaṃ**<br>Rāj**ūnaṃ** | 
+| [位置格<br>loc.](loc.md) | Ra**ññe**<br>Ra**ññi**<br>Rāj**ini**<br>Raj**imhi**<br>Rāja**smiṃ**<br>Rāji**smiṃ** | Rāj**esu**<br>Rāj**ūsu** | 
 
 
 例词： Attan(自己)
