@@ -11,7 +11,7 @@ It can be separated into two parts, one of the compared object (*upameyya*) and 
 >|-|**合并比喻**<br>**Incorporated Comparison**|**拆分比喻**<br>**Excluded Comparison**|
 >|-|-|-|
 >|例<br>**Ex**|Samaṇo ākāse gacchati narā viya/iva/yathā bhūmiyaṃ|Samaṇo ākāse gacchati / narā bhūmiyaṃ (*gacchanti*) viya / iva / yathā|
->|**译**|僧侣在天空中，就像人们在地上（走）一样。|僧侣在天空中走。（像谁？）就像人们在地面上（走）一样。|
+>|**译**|比库在天空中，就像人们在地上（走）一样。|比库在天空中走。（像谁？）就像人们在地面上（走）一样。|
 >|**Trs**|The monk goes in the sky as people (go) on the ground.|The monk goes in the sky. (Like whom?) Just as people (go) on the ground.|
 
 
@@ -27,7 +27,7 @@ The phrase *yathā … tathā* can be used to form a comparison sentence.
 固定搭配 *yathā … tathā* 可以用来构成一个比喻句。
 
 >- Ex. Yathā narā bhumiyaṃ gacchanti, tathā samaṇo ākāse gacchati.
->- 译：就像人们在地上走一样，僧侣也在天空中走。
+>- 译：就像人们在地上走一样，比库也在天空中走。
 >- Trs. Just as people go on the ground, so also the monk goes in the sky.
 
 Note: when *yathā … tathā* is used not to denote a comparison, the verb which *tathā* (meaning “in that way”) modifies must be changed into a *participle* and related in **DEF** relation to the verb of the *yathā* (meaning “in which way”) sentence.

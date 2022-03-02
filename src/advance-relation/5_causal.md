@@ -1,14 +1,18 @@
-# **5. Causal Nouns** 
-# **5.因果名词**
+# 5. 原因名词<br>Causal Nouns
 
- Causal nouns are those related to other words in causal relation. They are 
-usually *abstract derivatives* or *compounds* having the last member *bhava*, and they may 
-have either *instrumental* or *ablative* cases. For each *causal* noun, there is always 
-another noun, expressed or implied, termed as a **causal possessor** and related to it in 
-*possessor* relation. # It **must** be of the same content as the *abstract derivative* 
-stem, or the compound member united with *bhava*, of the causal noun. # 
+因果名词是在因果关系中与其他词相关的名词。<br>
+Causal nouns are those related to other words in causal relation.
+他们通常是*abstract derivatives*或*复合词*具有最后一个成员*bhava*，<br>
+They are usually *abstract derivatives* or *compounds* having the last member *bhava*,
+and they may have either *instrumental* or *ablative* cases. For each *causal* noun, there is always another noun,
+expressed or implied, termed as a **causal possessor** and related to it in *possessor* relation. 
+It **must** be of the same content as the *abstract derivative* stem, or the compound member united with *bhava*, of the causal noun.
 
-因果名词是在因果关系中与其他词相关的名词。 他们通常是*abstract derivatives*或*复合词*具有最后一个成员*bhava*，它们要么是*工具格*要么是*ablative*。 对于每个*因果*名词，总是有另一个明示或暗示名词，被称为**causal possessor**，并在*possessor*关系中与之相关联。 # 它必须**具有与*abstract derivative*相同内容的词干，或与*bhava*结合成因果名词复合词。#
+它们要么是*工具格*要么是*ablative*。<br>
+对于每个*因果*名词，总是有另一个明示或暗示名词，被称为**causal possessor**，<br>
+并在*possessor*关系中与之相关联。<br>
+它**必须**具有与*abstract derivative*相同内容的词干，<br>
+或与*bhava*结合成因果名词复合词。<br>
 
  A *causal possessor* is generally the *active* subject / object of the sentence in 
 which its causal noun is mentioned. (When the *double *active* subject* / *object* relation is 

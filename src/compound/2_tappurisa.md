@@ -26,7 +26,7 @@
 [3]为格依主释[第四格依主释, catutthi tappurisa] 
 注意: 为格依主释复合词,最后一员为指定受词,作某种作用或属性来 限定第一个成员所表达的内容。
 例如:
-- kaṭhinadussaṃ = kaṭhinassa dussaṃ[做功德衣的布, cloth for the kathina robe－居士做功德、供衣;僧侣坐夏得衣。传统上迦絺那、功德衣每年 固定日期缝制。 Dussa布料]。
+- kaṭhinadussaṃ = kaṭhinassa dussaṃ[做功德衣的布, cloth for the kathina robe－居士做功德、供衣;比库坐夏得衣。传统上迦絺那、功德衣每年 固定日期缝制。 Dussa布料]。
 - saṅghabhattaṃ = saṅghassa bhattaṃ [为斋僧的食物，rice prepared for the Order]。
 - buddhadeyyaṃ = buddhassa deyyaṃ[应被供养给佛陀, worthy to be offered to the Buddha]。
 - rājārahaṃ = rañño arahaṃ[与国王相称的, worthy of the king]。

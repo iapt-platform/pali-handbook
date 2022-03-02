@@ -21,9 +21,9 @@
 case, it may have the same implied sense as the Relative clause 
 participle.
 
-例句：Purise gāmaṃ gacchante / gate dārako sayati<br>
-（作为/当/当……的时候）（该）人去/已经去（到）村庄，孩子在睡觉。<br>
-(As / When / While ) (the) man goes / has gone (to) the village, the child sleeps.
+### 例句：Purise gāmaṃ gacchante / gate dārako sayati.
+- （作为/当/当……的时候）（该）人去/已经去（到）村庄，孩子在睡觉。<br>
+- (As / When / While ) (the) man goes / has gone (to) the village, the child sleeps.
 <div class="mermaid">
 flowchart LR
 A("Purise")
@@ -37,9 +37,9 @@ B--"DEF"-->D
 E--"ASV"-->D
 </div>
 
-Pitari kāḷe putto kāḷo hoti
-（作为/当） （该） 父亲是黑的，（该）儿子是黑的。
-(As / When) (the) father is dark, (the) son is dark. 
+### Pitari kāḷe putto kāḷo hoti
+- （作为/当） （该） 父亲是黑的，（该）儿子是黑的。
+- (As / When) (the) father is dark, (the) son is dark. 
 <div class="mermaid">
 flowchart LR
 A("Pitari")
@@ -53,7 +53,7 @@ D--"DASO-P"-->C
 E--"DASO-S"-->C
 </div>
 
-例句：dārakassa rodantassa asso dhāvati
+### 例句：dārakassa rodantassa asso dhāvati
 - （正巧在……的时候/就在……时）（该）孩子哭泣时，（该）马跑（走了）。
 - (Even as / Even while) (the) child is crying, the horse runs (away).
 

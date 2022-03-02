@@ -18,7 +18,7 @@ Tattha --> eko (whole-part)
  Tattha --> eko (整体) 
 
 
- **译**. 三位僧侣来了。在这三者中，其中一位是*arahat*。
+ **译**. 三位比库来了。在这三者中，其中一位是*arahat*。
 
  **Trs**. Three monks come. Of these three, one is an *arahat*.
 

@@ -57,8 +57,8 @@ demerit, he is the evil one.
 - **d**. 比较喻体分句/比较本体分句的相互关联翻译
  - **Ex**. Samano akase gacchati nara viya bhumiyam.
  - **Trs**. (simple) The monk goes in the sky as people on the ground. 
- - **译**.（简单）僧侣像地面上的人一样在天空中行走。 
+ - **译**.（简单）比库像地面上的人一样在天空中行走。 
  (interrelated) The monk goes in the sky. (As whom that goes where?) As people go on the ground, the monk goes in the sky. 
- （相互关联）僧侣在天空中走。 （像谁？去哪儿？)像人们在地上行走，僧侣在天空中行走。
+ （相互关联）比库在天空中走。 （像谁？去哪儿？)像人们在地上行走，比库在天空中行走。
  - **Note**: It is different from the **Excluded Comparison** method given before. 
  - **注意**：它与之前给出的**Excluded Comparison**方法不同。

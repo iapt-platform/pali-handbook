@@ -23,7 +23,7 @@ Objects in others. Hence, it is called a **definite** sentence.
 
 *Samano Tisso nama [The monk (is / was) Tissa by name. Samano --> Tisso (NID)] = Yo samano, so Tisso nama. [ The one who (is / was) the monk, he is / was Tissa by name] 
 
-*Samano Tisso nama [那位僧侣（是/曾经是）叫Tissa。Samano --> Tisso （NID）] = Yo samano， so Tisso nama.[那位（是/曾经是）僧侣的人，他的名字是/是Tissa]
+*Samano Tisso nama [那位比库（是/曾经是）叫Tissa。Samano --> Tisso （NID）] = Yo samano， so Tisso nama.[那位（是/曾经是）比库的人，他的名字是/是Tissa]
 
 *Tassa pita acariyo hoti. [His father becomes a teacher. pita --> hoti (DASO-P) 
 
@@ -34,7 +34,7 @@ Objects in others. Hence, it is called a **definite** sentence.
 *Samano Tisso nama ahosi [The monk was Tissa by name. 
 Samano --> ahosi (DASD-P) Tisso --> ahosi (DASD-S)] 
 
- acariyo --> hoti （DASO-S）] = Yo tassa pita， so acariyo hoti [他的父亲，成为了一名老师] *Samano Tisso nama ahosi [僧侣的名字是Tissa。 萨马诺 --> ahosi （DASD-P） Tisso --> ahosi （DASD-S）] 
+ acariyo --> hoti （DASO-S）] = Yo tassa pita， so acariyo hoti [他的父亲，成为了一名老师] *Samano Tisso nama ahosi [比库的名字是Tissa。 萨马诺 --> ahosi （DASD-P） Tisso --> ahosi （DASD-S）] 
  
  
  
@@ -45,24 +45,24 @@ name]
 
  *Samanero bhikkhu kato [The novice is made a monk] 
 
- *Samanero bhikkhu kato [那位出家人成为一名僧侣]
+ *Samanero bhikkhu kato [那位出家人成为一名比库]
  
  Samanero --> kato (DAO-P) 
  bhikkhu --> kato (DAO-S) 
  
  = Yo samanero, so bhikkhu kato [The one who is a novice, he is made a monk.] 
 
-=Yo samanero，所以bhikkhu kato[一位出家人，他变成了一位僧侣。
+=Yo samanero，所以bhikkhu kato[一位出家人，他变成了一位比库。
 
 *Acariyo samaneram bhikkhum karoti. [The teacher makes the novice a monk] 
 
-*Acariyo samaneram bhikkhum karoti.[那位老师让那位出家人成为一名僧侣]
+*Acariyo samaneram bhikkhum karoti.[那位老师让那位出家人成为一名比库]
 
  samaneram --> karoti (DIO-P) bhikkhum --> karoti (DIO-S) 
  
  = Acariyo yo samanero, tam bhikkhum karoti. [The one who is the novice, the teacher 
 makes him a monk. 
 
-= Acariyo yo samanero， tam bhikkhum karoti.[那位出家人，是那位老师使他成为一名僧侣。
+= Acariyo yo samanero， tam bhikkhum karoti.[那位出家人，是那位老师使他成为一名比库。
 
 Acariyo --> karoti (ASV) / tam --> karoti (DIO-P) / bhikkhum --> karoti (DIO-S)

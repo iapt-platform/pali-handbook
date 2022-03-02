@@ -18,7 +18,7 @@ sometimes used as 1. Gerunds, 2. Nominative forms, 3. Accusative forms.
 
 **Trs**. Staying / to stay at a monastery is the custom of monks. 
 
-**译**. 住在/留在寺院是僧侣的习俗。
+**译**. 住在/留在寺院是比库的习俗。
 
 **Ex.3**. Rājā anujānāti coraṃ hantuṃ (√ han + tuṃ) // 
 

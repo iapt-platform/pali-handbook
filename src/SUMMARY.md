@@ -172,7 +172,7 @@
   * [Usage of *iti etaṃ ...vacanaṃ*(未完成)](advance-relation/17_etam.md)
   * [Usage of *multiple identical adjectives*(未完成)](advance-relation/18_multiple.md)
   * [Usage of partial *comment units*(未完成)](advance-relation/19_partial.md)
-  * [Usage of *participles / nouns* having DEF relations(未完成)](advance-relation/20_nouns.md)
+  * [分词/名词DEF关系的用法(未完成)](advance-relation/20_nouns.md)
   * [Usage of tattha(未完成)](advance-relation/21_tattha.md)
   * [Usage of tuṃ, & -tthaṃ(未完成)](advance-relation/22_tum.md)
   * [Usage of verbals derived from √ gah(未完成)](advance-relation/23_verbals.md)

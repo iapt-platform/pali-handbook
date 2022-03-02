@@ -29,13 +29,13 @@ vscode 菜单->终端->新终端
 
 键入
 
-```
+</div>
 c:\mdbook.exe serve --port 3000 --hostname 192.168.2.12 --open
 
 or
 
 c:\mdbook.exe serve --open
-```
+</div>
 其中：
 - `--port`后面设置端口
 - `--hostname`后面写自己的ip地址

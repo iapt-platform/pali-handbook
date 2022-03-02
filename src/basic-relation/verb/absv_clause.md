@@ -1,7 +1,7 @@
 # 绝对语态从句<br>Absolute Voice Clause
 
 
-1. 主导从句的分词可以是**过去分词**、**现在分词**或**未来被动分词**。<br>
+1. 引导从句的分词可以是**过去分词**、**现在分词**或**未来被动分词**。<br>
    The participle governing the clause is a past or present or future participle.
 2. 在绝对语态中，**属格**或**处格**，中性和单数。它以**限定关系**(DEF)与主要动词相关联。<br>
    It is in Absolute Voice, Genitive or Locative case, Neutral gender and Singular number. It is related to the main verb in Definitive Relation (DEF). 

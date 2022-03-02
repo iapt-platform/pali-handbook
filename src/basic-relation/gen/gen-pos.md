@@ -1,4 +1,4 @@
-# 从属关系 (POS)
+# 所有者 → 所属物(POS)
 
 * 巴利： sambandha - sambandhin
 * 中文： 所有者 → 所属物
@@ -11,13 +11,13 @@
 bhikkhuno patto
 - 比库的缽有两种， 陶砵和铁钵
 - (The/A) monk's bowl
-```mermaid
+<div class="mermaid">
 flowchart LR
 bhikkhuno --"POS<br>所有者 → 所属物"--> patto
-```
+</div>
 
 Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
-```mermaid
+<div class="mermaid">
 flowchart LR
 anāthapiṇḍikassa--"POS<br>所有者 → 所属物"-->ārāme
-```
+</div>
