@@ -1,7 +1,8 @@
-# **30. Usage of** *etthāha* 
-# 30. *etthaha***的使用**
+# 30. *etthāha*的用法
  
- *Etthāha* is an abbreviated form of the sentence, “*Ettha ṭhatvā codako codanaṃ āha*.” Hence, its translation is given as, “having stopped at this point, the opponent 
-utters the criticism”.
+*etthāha* 是句子*Ettha ṭhatvā codako codanaṃ āha*.的缩略形式。
+> *Etthāha* is an abbreviated form of the sentence, “*Ettha ṭhatvā codako codanaṃ āha*.”
 
-*Etthaha* 是句子"*Ettha thatva codako codanam aha*."的缩写形式。因此，它的翻译是，"对手批评道，在这一点上停下来"。
+因此，它的翻译是，“针对这一点而说出……的反驳”。
+> Hence, its translation is given as, “having stopped at this point, the opponent utters the criticism”.
+

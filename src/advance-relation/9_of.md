@@ -1,5 +1,4 @@
-# **9. *añña/ sesa (avasesa) ...vajjetvā / ṭhapetvā* 的用法<br>Usage of** *añña/ sesa (avasesa) ...vajjetvā / ṭhapetvā*
-
+# 9. *añña/ sesa (avasesa) ...vajjetvā / ṭhapetvā* 的用法
 The *inactive* object of *vajjetvā / ñhapetvā* is changed into a form of *ablative* case and inserted to be related to *añña/ sesa* in DET relation. 
 
 **非主格受动者/宾格**与*vajjetvā / ṭhapetvā*的动宾短语，

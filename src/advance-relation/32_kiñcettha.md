@@ -1,5 +1,5 @@
 # **32. Usage of** *kiñcettha* 
-# 32. *kibcettha* **的用法** 
+# 32. *kiñcettha*的用法
 
  *Kiñcettha* is an abbreviated form of the sentence, “*Ettha kiñci vattabbaṃ. Asamattā tava codanā. Avasittham tāva brūhi*”. Hence, its translation is given as, “Here, something should be mentioned. Your argument is not finished. State the 
 remaining (part), indeed”. 

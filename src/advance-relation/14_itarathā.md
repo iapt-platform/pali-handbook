@@ -1,6 +1,5 @@
-# **14. Usage of** *itaratha / abbatha* 
-# 14. *itaratha / abbatha***的使用**
- 
+# 14. *itarathā / aññathā*的使用
+
  When these Indeclinable Derivatives having the sense, “otherwise, differently”, are used, some text insertion is necessary.
 
  当使用这些具有"否则，不同"意义的无语尾变化的衍生词时，需要插入一些文本。

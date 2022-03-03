@@ -1,12 +1,15 @@
-# **31. Usage of** *idāni ... āha* 
-# 31. *idani ...aha* **的用法** 
- When *āha* is used as the main verb in a sentence having *idāni* related to it in (LOV) relation, *āha* carries the sense of Present Tense. 
- 
- 当 *aha* 在 （LOV）具有和 *idani* 相关联的句子中用作主要动词时，*aha* 具有现在时的含义。
- 
- Ex. Evaṃ kusalaṃ dassetvā idāni akusalaṃ dassetuṃ / dassento “katame 
-dhammā akusalā” ti āha. 
+# 31. *idāni ... āha*的用法
 
- In the sentence above, the verb *āha* is translated in the Present Tense sense as, “says, speaks” for *idāni*, having the sense, “now, at present”, is related to it in (LOV) relation.
+在句子中有*idāni*存在时，
+且 *āha* 在句子中做主要动词，
+此时，*āha*有表达**现在时**的含义，关系如图所示：
 
- 在上面的句子中，动词*aha*在现在时意义上与它在（LOV）关系中相关,被翻译为为*idani*"说，说话"，具有"现在，目前"的含义。
+```mermaid
+flowchart LR
+A("idāni<br>现在/当前<br>副词")
+B("āha<br>说[了]<br>动|过去式")
+A--"LOV"-->B
+```
+### 例句：Evaṃ kusalaṃ dassetvā idāni akusalaṃ dassetuṃ / dassento “katame dhammā akusalā” ti āha. 
+
+>When *āha* is used as the main verb in a sentence having *idāni* related to it in (LOV) relation, *āha* carries the sense of Present Tense. 
