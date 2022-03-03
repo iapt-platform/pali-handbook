@@ -13,7 +13,6 @@ same in *causal* relation. If the clause governed by the participle / noun is a 
 *absolute* one, the *active subject* or *active object* of the participle comes to have the 
 *genitive case* and be the *causal possessor* of the derivative. 
 
-
 ### 例句： Puriso gacchanto magge bhikkhum passati. 
 - 当那个男人去的时候，（他）在路上看到比库。
 - When the man goes (*because of the man’s act of going*), (he) sees the monk on the way.
@@ -27,12 +26,12 @@ D("magge")
 E("bhikkhuṃ")
 A--"ASV<br>施动者<sub>主</sub> → 动词"-->B
 A--"ASV<br>施动者<sub>主</sub> → 动词"-->C
-B--"当……时<br>De"-->C
+B--"lakkhaṇa → lakkhya<br>限定从句 → 限定动词"-->C
 D--"LOV"-->C
 E--"IOV"-->C
 </div>
 
-### 例句： purisassa gacchantattā magge bhikkhum passati. 
+### 例句： purisassa gacchantattā magge bhikkhum passati.
 - 因为男人的前往而在路上看到比库。
 - Because of the man’s act of going, (he) sees the monk on the way.
 <div class="mermaid">

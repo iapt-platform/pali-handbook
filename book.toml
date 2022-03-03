@@ -9,3 +9,9 @@ title = "巴利手册"
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 mathjax-support = true
+git-repository-url = "https://github.com/iapt-platform/pali-handbook"
+
+
+[output.html.fold]
+enable = true
+level = 0
