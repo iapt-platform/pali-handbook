@@ -22,8 +22,7 @@ A1("变位动词")
 A2("分词<br>主格")
 A3("找到主语<br>主动施动者/被动受动者")
 click A1 "../verbal/bian-wei-dong-ci-shi-tai-yu-qi/index.html"
-click A
-2 "../verbal/participle.html"
+click A2 "../verbal/participle.html"
 subgraph 确定主句结构
 A-->A0
 A0--"有人数态变化"-->A1
@@ -63,7 +62,8 @@ C2("次要动词2<br>连续体")
 D2("次要动词3<br>分词")
 E2("次要动词4<br>连续体")
 F2("次要动词5<br>不定体")
-B2--"ADV<br>形式先 → 后"-->C2
+click D2 "../verbal/bian-wei-dong-ci-shi-tai-yu-qi/index.html"
+B2-- "ADV<br>形式先 → 后" -->C2
 C2--"ADV<br>实际先 → 后"-->A2
 E2--"CAU<br>原因状语 → 结果"-->A2
 D2--"DEF<br>时间状语 → 动词"-->A2
