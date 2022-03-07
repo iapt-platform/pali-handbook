@@ -1,5 +1,10 @@
 # 巴利字母表<br>Pali Alphabet
 
+<video controls="controls" style="width: 80%;">
+  <source src="https://assets-hk.wikipali.org/video/发音技巧点拨.mp4" type="video/mp4" ></source>
+  Video not playing? <a href="https://assets-hk.wikipali.org/video/发音技巧点拨.mp4">Download file</a> instead.
+</video>
+
 ## 元音vowels
 |-|*rassa*<br>短音<br>short|*dīgha*<br>长<br>long|*guṇa*<br>双元音<br>diphthongs|
 |-|-|-|-|

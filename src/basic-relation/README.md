@@ -1,5 +1,6 @@
 # 基础语法basic-relation
-
+## 分析句子的主干结构
+主干架构即知道这个句子是
 <div class="mermaid">
 flowchart TD
 C("找到次要动词")
@@ -7,6 +8,7 @@ C0{"动词<br>类型"}
 C1("动词不变词")
 C2("分词")
 C3("找到主语")
+click C2 "../verbal/participle.html"
 subgraph 确定从句结构
 C-->C0
 C0--"固定变化"-->C1
@@ -17,8 +19,11 @@ end
 A("找到主要动词")
 A0{"动词<br>类型"}
 A1("变位动词")
-A2("分词")
-A3("找到主语")
+A2("分词<br>主格")
+A3("找到主语<br>主动施动者/被动受动者")
+click A1 "../verbal/bian-wei-dong-ci-shi-tai-yu-qi/index.html"
+click A
+2 "../verbal/participle.html"
 subgraph 确定主句结构
 A-->A0
 A0--"有人数态变化"-->A1
