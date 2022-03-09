@@ -5,6 +5,8 @@
   Video not playing? <a href="https://assets-hk.wikipali.org/video/发音技巧点拨.mp4">Download file</a> instead.
 </video>
 
+缅甸口音，泰国口音暂缺。
+
 ## 元音vowels
 |-|*rassa*<br>短音<br>short|*dīgha*<br>长<br>long|*guṇa*<br>双元音<br>diphthongs|
 |-|-|-|-|
@@ -27,8 +29,6 @@
 |*muddhaja*<br>卷舌音<br>Cerebrals|**ṭ**<br>ဋ<br>ට|**ṭh**<br>ဌ<br>ඨ|**ḍ**<br>ဍ<br>ඩ|**ḍh**<br>ဎ<br>ඪ|**ṇ**<br>ဏ<br>ණ|**r/ḷ**<br>ရ/ဠ<br>ර/ළ||
 |*dantaja*<br>齿音<br>Dentals|**t**<br>တ<br>ත|**th**<br>ထ<br>ථ|**d**<br>ဒ<br>ද|**dh**<br>ဓ<br>ධ|**n**<br>န<br>න|**l**<br>လ<br>ල|**s**<br>သ<br>ස|
 |*oṭṭhaja*<br>唇音<br>Labials|**p**<br>ပ<br>ප|**ph**<br>ဖ<br>ඵ|**b**<br>ဗ<br>බ|**bh**<br>ဘ<br>භ|**m**<br>မ<br>ම|**v**<br>ဝ<br>ව||
-
-
 
 1. 双辅音：遇到一个词当中有两个辅音连在一起时，两个辅音必须分开发音：
 前一个辅音与它前面的元音一起发音，后面的辅音与它后面的元音一起发音。
