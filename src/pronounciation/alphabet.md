@@ -1,5 +1,5 @@
 # 巴利字母表<br>Pali Alphabet
-
+## 发音技巧解说（兰卡口音）
 <video controls="controls" style="width: 80%;">
   <source src="https://assets-hk.wikipali.org/video/发音技巧点拨.mp4" type="video/mp4" ></source>
   Video not playing? <a href="https://assets-hk.wikipali.org/video/发音技巧点拨.mp4">Download file</a> instead.
