@@ -1,18 +1,17 @@
-# 绝对语态
-# **Absolute Voice** 
+# 被动语态的使役句型
  Here the causal subject is in Instrumental case, causal object (Radial 
 subject) in Instrumental or Accusative case and Radial object in Accusative 
 case.
 
 这里的使令主语用工具格，使令宾语（根本主语）用工具格或宾格及根本宾语用宾格。
 
- E.g. purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = (the) child is caused by (the) man to go (to) the village
-
- 例如，purisena dārakaṃ / dārakena gāmaṃ gamāpīyati = （该） 孩子是由（该）男人去（to）村庄而引起的
+例句：purisena dārakaṃ / dārakena gāmaṃ gamāpīyati
+- (the) child is caused by (the) man to go (to) the village
+- （该） 孩子应（该）男人的要求而去的村庄。
  
- purisena --> gamāpīyati (ISV) 
- dārakaṃ / dārakena --> gamāpīyati(IOV) --> √ gam (SV) 
-gāmaṃ --> √ gam (OV) 
+purisena --> gamāpīyati (ISV)
+dārakaṃ / dārakena --> gamāpīyati(IOV) --> √ gam (SV)
+gāmaṃ --> √ gam (OV)
 
  **Identical Adjective relation1 (IAD)** 
 

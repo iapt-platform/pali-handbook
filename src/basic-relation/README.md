@@ -1,6 +1,6 @@
 # 基础语法basic-relation
 ## 分析句子的主干结构
-主干架构即知道这个句子是
+主干架构分析即
 <div class="mermaid">
 flowchart TD
 C("找到次要动词")
