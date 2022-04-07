@@ -2,11 +2,11 @@
 
 [基本关系语法](basic-relation.md)&gt;[主格](nom.md)&gt;AOV
 
-## AOV
+## ASV
 
-* 巴利语： vuttakamma - kiriyā
-* 中文： 受動者-動詞關係（vutta）
-* English： Active Object Relation
+- 巴利语：vuttakattar - kiriyā
+- English：Active Subject Relation
+- 中文：施动者-动词关系（vutta）
 
 ## C.主动主语关系
 
@@ -16,6 +16,8 @@
 
 <div class="mermaid">
 graph LR
-puriso-->gacchati/gato
+A("puriso<br><br>")
+B("gacchati/gato<br><br>")
+A--"ASV"-->B
 </div>
  
