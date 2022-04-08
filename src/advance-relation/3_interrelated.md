@@ -1,6 +1,6 @@
 # 3. 相互关联的翻译<br>Interrelated Translations 
 
->译者注：此章节中翻译的方法并不适合巴汉翻译，因此仅参考例句的简单翻译即可
+>译者注：此章节中翻译的方法并不是非常契合巴汉翻译，因此仅参考例句的简单翻译即可
 
  It is the method in which a foregoing sentence is translated first; the following 
 one is dealt with later and returning to the first one again. Its purpose is to clarify the 
