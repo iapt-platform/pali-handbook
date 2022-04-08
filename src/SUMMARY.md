@@ -160,7 +160,7 @@
 * [进阶关系语法手册](advance-relation/README.md)
   * [以*iti*结尾的引号(未完成)](advance-relation/1_iti.md)
   * [比喻修辞(未完成)](advance-relation/2_comparison.md)
-  * [相关翻译Interrelated Translations(未完成)](advance-relation/3_Interrelated.md)
+  * [相关翻译Interrelated Translations(未完成)](advance-relation/3_interrelated.md)
   * [不确定的/确定的翻译Indefinite / Definite Translations (未完成)](advance-relation/4_indefinite.md)
   * [因果关系的名词Causal Nouns(未完成)](advance-relation/5_causal.md)
   * [句型*dassetvā ...dassetuṃ (dassento)...āha*的关系(未完成)](advance-relation/6_relations.md)
