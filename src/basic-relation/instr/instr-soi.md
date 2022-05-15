@@ -2,11 +2,6 @@
 
 # 伴隨-動詞關係（僅含義）
 
-# Sociative Relation
-This relation is used to denote the associative or dissociative aspects of sense, that is, the notions of " **with / together**" and " **without/ not having with**". It may further be classified into two sub-relations.
-
-这种关系用于表示意义的关联或分离方面，即"**与/一起**"和"**没有/没有与**"的概念。它可以进一步分为两个子关系。
-
 2. Sociative (Implicit) Relation3 (SOI)
  
 2. 伴隨（隐性）关系3 （SOI）
