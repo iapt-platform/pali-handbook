@@ -1,8 +1,4 @@
-# nāmavisesana - visesya 
-
-# 名詞的形容-被形容關係 (ADJ)
-
-Adjectival Relation1 (ADJ)
+# nāmavisesana - visesya<br>名詞的形容-被形容關係(ADJ)<br>Adjectival Relation(ADJ)
 
 Here a noun is related to another that it modifies.
 
