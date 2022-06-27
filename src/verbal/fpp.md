@@ -22,6 +22,7 @@
 - 结尾包含**eyya**
 
 在实际句子中未来被动分词必定以变格形式存在，且阳中阴三种性都有可能，尤其以主格居多，因此以主格为例列举实际上常见的结尾：
+
 |性数格|-tabba|-anīya|-eyya|
 |-|-|-|-|
 |阳单主|-tabbo|-anīyo|-eyyo|
@@ -35,7 +36,7 @@
 >可能被譯為“is to be; ought to be; should be”
 >有時是“can be；could be；may be; might be”
 >亦即表示“某事或動作應當或可能被做”。
->>——《巴利語入門》釋性恩(Dhammajīvī)
+><br>——《巴利語入門》釋性恩(Dhammajīvī)
 
 
 ## 例句
@@ -54,18 +55,15 @@
 >3. 当动词
  未來被動分詞常常被使用如句子的動詞，通常是單獨用。但是有時與助動詞atthi, hoti一起用。
  如：paccavekkhitabba应被省思；
->>——《巴利語入門》釋性恩(Dhammajīvī)
+><br>——《巴利語入門》釋性恩(Dhammajīvī)
 
-
-
-
-Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.（vinaya Sekhiyā）
+## 例句
+- [*Parimaṇḍalaṃ nivāsessāmīti sikkhā* **karaṇīyā**.](https://www-hk.wikipali.org/app/article/?view=para&book=214&par=1728) <br>——《应学法》
 
 **翻译指南**： 通常翻译为 **应该~的**
 
-
 ## 进阶用法：
 
-
 ## 相关资料：
+
 [分词](derivative\particle.md)
