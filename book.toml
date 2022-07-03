@@ -7,8 +7,9 @@ title = "巴利手册"
 
 
 [output.html]
-additional-js = ["mermaid.min.js", "mermaid-init.js"]
+additional-js = ["theme/myjs/mermaid.min.js", "theme/myjs/mermaid-init.js","theme/myjs/jquery-1.12.3.min.js","theme/myjs/social-share.min.js","theme/myplugin/layer/layer.js"]
 mathjax-support = true
+additional-css = ["theme/fonts/tai-tham-kh-new-v3.ttf","theme/mycss/font.css","theme/mycss/lrc.css","theme/mycss/share.min.css","theme/fonts/iconfont.ttf","theme/fonts/iconfont.woff","theme/myplugin/layer/theme/default/layer.css","theme/myplugin/layer/theme/default/icon.png"] 
 git-repository-url = "https://github.com/iapt-platform/pali-handbook"
 
 

@@ -4,11 +4,14 @@ Here a noun is related to another that it modifies.
 
 在这里，一个名词与它修饰的另一个名词有关。
 
-E.g. Gottena gotamo nāma 
+例句：Gottena gotamo nāma 
 
-= ...**以** （他的） 种族（叫作）Gotama 。
+- **以** （他的）族Gotama得名。
+- (called) Gotama **by** (his) race.
 
-= ... (called) Gotama **by** (his) race.
-
-
-- Gottena ——> gotamo (ADJ)
+<div class="mermaid">
+flowchart LR
+A("gottena<br>家族<br>单·具")
+B("gotamo<br>果德玛<br>单·主")
+A--"ADJ<br>形容-被形容"-->B
+</div>

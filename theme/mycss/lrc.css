@@ -1,0 +1,91 @@
+.fullscreen-lyric {
+	align-items: center;
+	justify-content: center;
+	font-size: var(--full-font-size);
+	flex-direction: column;
+}
+
+.fullscreen-lyric #line-last {
+	height: 30vh;
+}
+
+.fullscreen-lyric #line-current {
+	height: 30vh;
+}
+
+.fullscreen-lyric #line-next {
+	height: 30vh;
+}
+.fullscreen-lyric #line-tools {
+	font-size: 1.6rem;
+	align-items: center;
+	justify-content: center;
+	flex-direction:row;
+	width:100%
+}
+.fullscreen-lyric div {
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.fullscreen-lyric .active {
+	font-weight: bold
+}
+
+
+.def-lyric {
+	background: linear-gradient(to right, rgba(0,0,0,.1) 0%, rgba(202,234,206) 50%, rgba(0,0,0,.1) 100%);
+	font-size: var(--default-font-size);
+	display: flex;
+	width: 100%;
+	flex-direction: column;	
+	height:100%;
+}
+
+.def-lyric .active {
+	font-weight: bold
+}
+
+.def-lyric div {
+	display: flex;
+	flex-direction: column;
+}
+
+.def-lyric #line-tools {
+	font-size: 1.6rem;
+	align-items: center;
+	justify-content: center;
+	flex-direction:row;
+	width:100%
+}
+
+.def-lyric #line-last {
+	height: 8em;
+	padding-left: 1em;
+}
+
+.def-lyric #line-current {
+	height: 8em;
+	padding-left: 1.5em;
+}
+
+.def-lyric #line-next {
+	height: 8em;
+	padding-left: 2em;
+}
+
+#line-tools button {
+	height: 2em;
+	width: 6em;
+	color: #fff;
+	background-color: #57a957;
+	border-color: #57a957;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.3)), to(rgba(255,255,255,0)));
+	background-image: -webkit-linear-gradient(top, rgba(255,255,255,.3), rgba(255,255,255,0));
+	background-image: -moz-linear-gradient(top, rgba(255,255,255,.3), rgba(255,255,255,0));
+	background-image: -ms-linear-gradient(top, rgba(255,255,255,.3), rgba(255,255,255,0));
+	background-image: -o-linear-gradient(top, rgba(255,255,255,.3), rgba(255,255,255,0));
+	background-image: linear-gradient(top, rgba(255,255,255,.3), rgba(255,255,255,0));
+}

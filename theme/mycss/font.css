@@ -1,0 +1,8 @@
+﻿/*傣仂文*/
+@font-face {
+	font-family: "ATaiThamKHNewV3-Normal";
+	font-style: normal;
+	font-weight: 400;
+	src: local("A Tai Tham KH New V3"), url(../fonts/tai-tham-kh-new-v3.ttf) format("truetype");
+	font-display: fallback;
+}
