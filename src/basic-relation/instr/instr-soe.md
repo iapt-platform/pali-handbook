@@ -21,11 +21,11 @@ This relation is used to denote the associative or dissociative aspects of sense
 Puttena saha gacchati 
 - ...跟儿子一起去。
 - ... goes with the son.
+
 <div class="mermaid">
 flowchart LR
 A("puttena<br/>[跟]儿子<br/>阳·单·具")
 B("saha<br/>一起<br/>不变·连")
-
 A--"SOE<br>伴随"-->B
 </div>
 
@@ -37,5 +37,5 @@ Puttena vinā gacchati
 flowchart LR
 A("puttena<br/>[跟]儿子<br/>阳·单·具")
 B("vinā<br/>分离<br/>不变·连")
-A--"SOE<br>伴随"-->B
+A--"SOE<br/>伴随"-->B
 </div>
