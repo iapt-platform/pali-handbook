@@ -239,5 +239,6 @@
 * [其他参考手册](qi-ta-can-kao-shou-ce/README.md)
   * [三藏缩略语表](./grammar-abbr.md)
   * [连音手册](sandhi/readme.md)
+  * [Markdown语法教程](./markdown_guide.md)
   * [文章结构手册](article/readme.md)
   * [书写范例之公式](math\_formular.md)
