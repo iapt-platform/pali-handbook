@@ -45,17 +45,19 @@ pie
     "不一致" : 5
 </div>
 
+
+## 名词与动词之间的关系
 <div class="mermaid">
 flowchart LR
-subgraph 名词与动词
-direction LR
 A1("名词")
 B1("动词")
 C1("名词")
 A1 --> B1 --x C1
-end
-subgraph 主要动词与次要动词
-direction LR
+</div>
+
+## 动词与动词之间的关系
+<div class="mermaid">
+flowchart LR
 A2("主要动词")
 B2("次要动词1<br>连续体")
 C2("次要动词2<br>连续体")
@@ -68,9 +70,11 @@ C2--"ADV<br>实际先 → 后"-->A2
 E2--"CAU<br>原因状语 → 结果"-->A2
 D2--"DEF<br>时间状语 → 动词"-->A2
 F2--"PUR<br>目的状语 → 动词"-->A2
-end
-subgraph 名词与名词
-direction LR
+</div>
+
+## 名词与名词之间的关系
+<div class="mermaid">
+flowchart LR
 A3("名词1<br>性数格")
 B3("名词2<br>性数格")
 C3("名词<br>属格")
@@ -92,5 +96,4 @@ E3--"COI<br>群体 → 个体"-->F3
 I3--"WHP<br>整体 → 局部"-->J3
 G3--"COC<br>比 → 较"-->H3
 M3--"DET<br>来源 → 距离"-->N3
-end
 </div>

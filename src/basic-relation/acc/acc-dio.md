@@ -17,6 +17,20 @@
 
 表示相同内容的两个宾语与动词的主动态或绝对态相关联动词带有“使得，变成”的意思，两个宾语在性与数上可能不同。
 这种关系用于表达；由于某个动作者（主语）的原因，而使得某事或某人发生改变。
+
+## 常见双宾语动词词根
+- duha
+- yāca
+- rudhi
+- puccha
+- bhikkha
+- sāsa
+- vaca
+- nī
+- vaha 
+- hara
+
+例句：
 >sāmaṇere bhikkhū karoti/kato<br>使见习沙门们成为比库
 <div class="mermaid">
 graph LR
