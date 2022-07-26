@@ -12,27 +12,85 @@
 ## 状态衍生
 
 
-**构成**：名词干+后缀 -> 抽象词干<br>
+**构成**：名词干+后缀 ——> 抽象词干<br>
 **后缀的使用**：ṇya, ṇeyya, ṇa, kaṇ, tta, ttana, tā<br>
-  例子：dāraka(孩子)+tta -> dārakatta(童年)<br>
-          Alasa(懒惰的)+tā -> alasatā(懒惰)<br>
-**1. 和**ṇya, ṇeyya, ṇa, kaṇ
+
+<div class="mermaid">
+flowchart LR
+X("dāraka<br>孩子")
+Y("dārakatta<br>童年")
+X--"+tta"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("Alasa<br>懒惰的")
+Y("alasatā<br>懒惰")
+X--"+tā"-->Y
+</div>
+
+**1. 和**ṇya, ṇeyya, ṇa, kaṇ<br>
         衍生的结果通常是**中性**
-            例子： alasa    + ṇya   -> ālasya(or)ālasiya
-                  adhipati + ṇeyya -> ādhipateyya
-                  suci     + ṇa    -> soca
-                  paṭu     + ṇa    -> pāṭava
-                  ramaṇīya + kaṇ   -> rāmaṇītaka
+            
+<div class="mermaid">
+flowchart LR
+X("alasa<br>懒惰的")
+Y("alasatā<br>懒惰")
+X--"+tā"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("adhipati")
+Y("ādhipateyya")
+X--"+ṇeyya"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("suci")
+Y("soca")
+X--"+ṇa"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("paṭu")
+Y("pāṭava")
+X--"+ṇa"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("ramaṇīya")
+Y("rāmaṇītaka")
+X--"+kaṇ"-->Y
+</div>
+
 **2. 和tta, ttana, tā**
-        例子：purisa + tta / ttana / tā -> purisatta / purisattana / purisatā
+
+<div class="mermaid">
+flowchart LR
+X("purisa")
+Y("purisatta/purisattana/purisatā")
+X--"+tta/ttana/tā"-->Y
+</div>
 
 
 
 ## 从属衍生
 
-构成：名词干+后缀(持有) -> 名词干(持有者)
-一些后缀的使用：vant, mant, vin, ṇa, in, ita, ika, ila, āla
+**构成**：名词干+后缀(持有) ——> 名词干(持有者)<br>
+**一些后缀的使用**：vant, mant, vin, ṇa, in, ita, ika, ila, āla<br>
     从属衍生都是会变化的性;它们的性取决于它们的持有者
+
+<div class="mermaid">
+flowchart LR
+X("dhana<br>财产")
+Y("dhanavant<br>")
+X--"+vant"-->Y
+</div>
+
 例子：dhana (riches)+ vant -> dhanavant (the one that possesses riches)
 sati (mindfulness) + mant -> satimant (the one that possesses mindfulness, i.e., the mindful one)
 medhā (wisdom) + vin -> medhāvin (the one that possesses wisdom)
@@ -42,37 +100,240 @@ puppha (flower) + ita -> pupphita (the one that possesses flowers)
 mālā (garland) + ika -> mālika (the one that possesses garlands)
 jaṭā (locks of hair) + ila -> jaṭila (the one that possesses locks of hair)
 vcā (speech) + āla -> vācāla (the one that possesses speech, i.e.,a talkative person)
-注：后缀vant只用于名词干结尾是a而mant只用于其他元音结尾的。
+
+
+**注**：后缀vant只用于名词干结尾是a而mant只用于其他元音结尾的。
 
 
 ## 不变衍生
-构成：名词干+后缀 -> 不变
-后缀的使用：dhā, kkhattuṁ, jjha, so, thā, thattā, thaṁ, jja, jju, tana, etc.
+**构成**：名词干+后缀 -> 不变<br>
+**后缀的使用**：dhā, kkhattuṁ, jjha, so, thā, thattā, thaṁ, jja, jju, tana, etc.<br>
 衍生的结果会衍生出多种不变的衍生种类
-1. 和kkhattuṁ
-   使用数词去获得频率衍生
-   例子：eka(一) + kkhattuṁ -> ekakkhattuṁ (一次)
-   dvi(二) + kkhattuṁ -> dvikkhattuṁ(两次)
-2. 和dhā, jjha, so
+1. **和kkhattuṁ**<br>
+   使用数词得到频率衍生
+
+<div class="mermaid">
+flowchart LR
+X("eka<br>一")
+Y("ekakkhattuṁ<br>一次")
+X--"+kkhattuṁ"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("dvi<br>二")
+Y("dvikkhattuṁ<br>两次")
+X--"+kkhattuṁ"-->Y
+</div>
+
+
+2. **和dhā, jjha, so**<br>
    数词后跟随后缀dhā，eka和dvi后加jjha，so跟在bahu后面，等构成vibhāga("份，类，种")类的衍生词
-   例子：eka (one) + dhā/jjha/so -> ekadhā / ekajjha / ekaso (一份，类，种)
-        dvi (two) + dhà / jjha -> dvidhā / dvijjha (两份，类，种)
-        bahu (many, much) + so -> bahuso (多种)
-3. 和thā, thattā, thaṁ
-   它们通常加在代词后构成pakāra("种类，")类的衍生词
-   例子：ta + thā/thattā -> tathā/tathattā（）
+
+<div class="mermaid">
+flowchart LR
+X("eka<br>一")
+Y("ekadhā / ekajjha / ekaso<br>一份，类，种")
+X--"+dhā/jjha/so"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("dvi<br>二")
+Y("dvidhā / dvijjha<br>两份，类，种")
+X--"+dhā / jjha"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("bahu<br>多")
+Y("bahuso<br>多份")
+X--"+so"-->Y
+</div>
+
+3. **和thā, thattā, thaṁ**<br>
+   它们通常加在代词后构成pakāra("种类，类别")类的衍生词
+   
+<div class="mermaid">
+flowchart LR
+X("ta")
+Y("tathā/tathattā<br>那种，那类")
+X--"+thā/thattā"-->Y
+</div>
+
+
+<div class="mermaid">
+flowchart LR
+X("ima")
+Y("itthaṁ<br>那种，那类")
+X--"+tthaṁ"-->Y
+</div>
+
+4. **ima和jja，samāna与apara和jju**
+
+<div class="mermaid">
+flowchart LR
+X("ima")
+Y("ajja<br>今日")
+X--"+jja"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("samāna<br>相同的，类似的")
+Y("sajju<br>同一时间，同一天")
+X--"+jju"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("apara<br>下一个，另一个")
+Y("aparajju<br>下一天，另一天")
+X--"+jju"-->Y
+</div>
+
+5. **和tana**<br>
+   增加名词干指示多种时间的状态来构成bhava(“发生，出现”)类的衍生
+
+<div class="mermaid">
+flowchart LR
+X("ajja<br>今天")
+Y("ajjatana<br>今天发生一件事情")
+X--"+tana"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("sve<br>明天")
+Y("svātana<br>明天发生的一件事情")
+X--"+tana"-->Y
+</div>
+
+6. **和to等**<br>
+   后缀是to等其他带有确定意味的词尾，以及加了代词词干来构成不变衍生的固定模式。后缀to通常带有ablative模式；dā，dācanaṁ，dāni，rahi和dhunā每一个带有时间上的位置感，其他的后缀则是空间上的位置感。
+
+<div class="mermaid">
+flowchart LR
+X("ta<br>那")
+Y("tato<br>从那里")
+X--"+to"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("ta<br>那")
+Y("tadā<br>在那个时候")
+X--"+dā"-->Y
+</div> 
+
+<div class="mermaid">
+flowchart LR
+X("ta<br>那")
+Y("tattha<br>在那里")
+X--"+tha"-->Y
+</div> 
 
 ## 数字衍生
-表示：
+1. 大多数在词尾变格章节里提到的序数词都是数字衍生。
+2. 数词添加了后缀ka之后带有了saka(结果的意义和其词干没有不同)，parimāṇa(“计量，衡量，测量”)或者samūha("收集，聚集，汇集")的含义。
+
+<div class="mermaid">
+flowchart LR
+X("dasa<br>十")
+Y("dasaka<br>十(saka)，十的数量(parimāṇa)，十的聚集或汇集(samūha)")
+X--"+ka"-->Y
+</div> 
 
 ## 后裔衍生
 
+**构成**：名词干(指一个家庭或一个人) + 后缀 ——>名词干(代指它/他/她的后代)<br>
+**后缀使用**：ṇa, ṇāyana, ṇāna, ṇeyya, ṇi, ṇika, ṇya, ṇava, ṇera<br>
+**注**：衍生的性的结果通常是灵活的，表示原词干所代表意义的后代。例如：儿子和孙子(阳性词)，女儿和孙女(阴性词)，后代的家庭(中性词)等。
+
+<div class="mermaid">
+flowchart LR
+X("vasiṭṭha")
+Y1("vāsiṭṭha<br>Vasiṭṭha的儿子(阳性)，家庭(中性)]")
+Y2("vāsiṭṭhā<br>Vasiṭṭha的女儿(阴性)")
+X--"+ṇa"-->Y1
+X--"+ṇa"-->Y2
+</div> 
+
+<div class="mermaid">
+flowchart LR
+X("aditi")
+Y("āditya<br>=ādicca(女神Aditi的儿子 = 太阳)")
+X--"+ṇya"-->Y
+</div>
+
 ## 分级衍生
+
+**构成**：名词干(代指品质或属性) + 后缀 ——> 名词干(代指品质的比较级或最高级)<br>
+**后缀使用**：tara，iya(比较)，tama，ima(最高级)等<br>
+**注**：衍生的性的结果也是灵活的。
 
 ### 比较级衍生
 
+<div class="mermaid">
+flowchart LR
+X("pāda<br>坏")
+Y("pāpatara/pāpiya<br>更坏的")
+X--"+tara/iya"-->Y
+</div>
+
 ### 最高级衍生
+
+<div class="mermaid">
+flowchart LR
+X("pāda<br>坏")
+Y("pāpatama/pāpima<br>最坏的")
+X--"+tama/ima"-->Y
+</div>
+
 
 ## 同义衍生
 
+**构成**：名词干 + 后缀 ——> 名词干(原词干的同义)<br>
+**后缀使用**：ṇika，tā，maya等
+
+<div class="mermaid">
+flowchart LR
+X("nāma<br>名字")
+Y("nāmika<br>名字=nāma词干的根本意思")
+X--"+ṇika"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("deva<br>天神")
+Y("devatā<br>天神")
+X--"+tā"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("dāna<br>给予")
+Y("dānamaya<br>给予")
+X--"+maya"-->Y
+</div>
+
 ## 其他衍生
+
+**注**：所有其他二次衍生的后缀和多种含义的都包含在这个标题下面。它们通常被提在字典里面，所以没有必要详细阐述和研究。<br>
+**构成**：名词干+后缀 ——> 名词干(代指多种派生意义)
+
+
+<div class="mermaid">
+flowchart LR
+X("nāva<br>船")
+Y("nāvika<br>用船过河的人")
+X--"+ṇika"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("vana<br>森林")
+Y("vāneyya<br>在森林住或在森林里出生")
+X--"+ṇeyya"-->Y
+</div>
+
