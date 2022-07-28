@@ -87,26 +87,75 @@ X--"+tta/ttana/tā"-->Y
 <div class="mermaid">
 flowchart LR
 X("dhana<br>财产")
-Y("dhanavant<br>")
+Y("dhanavant<br>拥有财产的人")
 X--"+vant"-->Y
 </div>
 
-例子：dhana (riches)+ vant -> dhanavant (the one that possesses riches)
-sati (mindfulness) + mant -> satimant (the one that possesses mindfulness, i.e., the mindful one)
-medhā (wisdom) + vin -> medhāvin (the one that possesses wisdom)
-daṇḍa (stick) +in -> daṇḍin (the one that possesses a stick)
-saddhā (faith) + ṇa -> saddha (the one that possesses faith)
-puppha (flower) + ita -> pupphita (the one that possesses flowers)
-mālā (garland) + ika -> mālika (the one that possesses garlands)
-jaṭā (locks of hair) + ila -> jaṭila (the one that possesses locks of hair)
-vcā (speech) + āla -> vācāla (the one that possesses speech, i.e.,a talkative person)
+<div class="mermaid">
+flowchart LR
+X("sati<br>正念")
+Y("satimant<br>拥有正念的人=正念的人")
+X--"+mant"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("medhā<br>智慧")
+Y("medhāvin<br>拥有智慧的人")
+X--"+vin"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("daṇḍa<br>棍子")
+Y("daṇḍin<br>拥有棍子的人")
+X--"+in"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("saddhā<br>信心")
+Y("saddha<br>拥有信心的人")
+X--"+ṇa"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("puppha<br>花")
+Y("pupphita<br>拥有花的人")
+X--"+ita"-->Y
+</div>
+
+<div class="mermaid">
+flowchart LR
+X("mālā<br>花环")
+Y("mālika<br>拥有花环的人")
+X--"+ika"-->Y
+</div>
+
+
+<div class="mermaid">
+flowchart LR
+X("mālā<br>几绺头发")
+Y("mālika<br>拥有几绺头发的人")
+X--"+ika"-->Y
+</div>
+
+
+<div class="mermaid">
+flowchart LR
+X("vcā<br>表达")
+Y("vācāla<br>拥有语言能力的人=健谈的人")
+X--"+āla"-->Y
+</div>
+
 
 
 **注**：后缀vant只用于名词干结尾是a而mant只用于其他元音结尾的。
 
 
 ## 不变衍生
-**构成**：名词干+后缀 -> 不变<br>
+**构成**：名词干+后缀 ——> 不变<br>
 **后缀的使用**：dhā, kkhattuṁ, jjha, so, thā, thattā, thaṁ, jja, jju, tana, etc.<br>
 衍生的结果会衍生出多种不变的衍生种类
 1. **和kkhattuṁ**<br>
@@ -253,7 +302,7 @@ X--"+ka"-->Y
 <div class="mermaid">
 flowchart LR
 X("vasiṭṭha")
-Y1("vāsiṭṭha<br>Vasiṭṭha的儿子(阳性)，家庭(中性)]")
+Y1("vāsiṭṭha<br>Vasiṭṭha的儿子(阳性)，家庭(中性)")
 Y2("vāsiṭṭhā<br>Vasiṭṭha的女儿(阴性)")
 X--"+ṇa"-->Y1
 X--"+ṇa"-->Y2
@@ -261,9 +310,9 @@ X--"+ṇa"-->Y2
 
 <div class="mermaid">
 flowchart LR
-X("aditi")
-Y("āditya<br>=ādicca(女神Aditi的儿子 = 太阳)")
-X--"+ṇya"-->Y
+X("aditi<br>女神")
+Y("ādicca<br>太阳")
+X--"+ṇya<br>儿子"-->Y
 </div>
 
 ## 分级衍生
@@ -299,7 +348,7 @@ X--"+tama/ima"-->Y
 <div class="mermaid">
 flowchart LR
 X("nāma<br>名字")
-Y("nāmika<br>名字=nāma词干的根本意思")
+Y("nāmika<br>名字")
 X--"+ṇika"-->Y
 </div>
 
