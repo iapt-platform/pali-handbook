@@ -31,8 +31,8 @@ iti--"QUS"-->C
 C--"QUM"-->D
 </div>
 
->He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
->他说/想：“puriso gacchati”（不翻）/“他走了”（翻）。
+- He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
+- 他说/想：“puriso gacchati”（不翻）/“他走了”（翻）。
 
 >Ex. so “datto” iti ñāyate
 
