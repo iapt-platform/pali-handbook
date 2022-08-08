@@ -1,18 +1,45 @@
+
+
+
 [book]
+language = "zh"
 authors = ["bhikkhu-kosalla-china"]
-language = "en"
 multilingual = false
 src = "src"
 title = "巴利手册"
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+
+
 
 [output.html]
-additional-js = ["theme/myjs/mermaid.min.js", "theme/myjs/mermaid-init.js","theme/myjs/jquery-1.12.3.min.js","theme/myjs/social-share.min.js","theme/myplugin/layer/layer.js"]
+additional-js = ["theme/myjs/mermaid.min.js", 
+	"theme/myjs/mermaid-init.js",
+	"theme/myjs/jquery-1.12.3.min.js",
+	"theme/myjs/social-share.min.js",
+	"theme/myplugin/layer/layer.js",
+	"mermaid.min.js",
+	"mermaid-init.js",
+	"theme/myjs/HyperlinkText.js",
+	"theme/myjs/anchor_list.js",
+	"theme/myjs/go-init.js"
+	]
+additional-css = [
+	"theme/fonts/tai-tham-kh-new-v3.ttf",
+	"theme/mycss/font.css",
+	"theme/fonts/iconfont.ttf",
+	"theme/fonts/iconfont.woff",
+	"theme/css/anchor_list.css"
+	]
+
+git-repository-url = "https://gitee.com/bhikkhu-kosalla/pali-handbook"
+git-repository-icon = "fa-git"
+git_repository_edit_url = "https://github.com/iapt-platform/pali-handbook"
+git_repository_edit_icon = "fa-github"
+
 mathjax-support = true
-additional-css = ["theme/fonts/tai-tham-kh-new-v3.ttf","theme/mycss/font.css","theme/mycss/lrc.css","theme/mycss/share.min.css","theme/fonts/iconfont.ttf","theme/fonts/iconfont.woff","theme/myplugin/layer/theme/default/layer.css","theme/myplugin/layer/theme/default/icon.png"] 
-git-repository-url = "https://github.com/iapt-platform/pali-handbook"
-
-
 [output.html.fold]
 enable = true
 level = 0
