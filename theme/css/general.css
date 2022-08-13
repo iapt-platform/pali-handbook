@@ -9,7 +9,7 @@
 
 
 html {
-    font-family: "Noto Sans","Times New Roman", "Open Sans", sans-serif;
+    font-family: "Open Sans", "Noto Sans", "Times New Roman", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
