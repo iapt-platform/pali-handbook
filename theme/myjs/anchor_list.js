@@ -1,12 +1,12 @@
 
 //是否显示导航栏
- var showNavBar = true;
+ var showNavBar = false;
  //是否展开导航栏
  var expandNavBar = true;
  var currentIndex = 0;
  var currentScrollHigh = 0;
  var currentContentScrollHigh = 0;
- function sleep(numberMillis) {  
+ /*function sleep(numberMillis) {  
     var now = new Date();  
     var exitTime = now.getTime() + numberMillis;  
     while (true) {  
@@ -14,12 +14,12 @@
         if (now.getTime() > exitTime)  
         return;  
         }  
-}
+}*/
  
  
-$(window).onbeforeunload = function(){ 
+/*$(window).onbeforeunload = function(){ 
 currentIndex = 0;
-} 
+} */
  
  
  $(window).load(function(){
@@ -175,7 +175,7 @@ var sum = 0;
 			$(".BlogAnchor").css("transform","translateX(var(--sidebar-width))");
         }else{
             //$(this).html("目录▲");
-            $(this).attr({"state":"show"});
+			$(this).attr({"state":"show"});
 			$("#page-wrapper").css("marginRight","var(--sidebar-width)");
 			//$("#page-wrapper").css("max-width",xlength);
 			$(".next").css("right","var(--sidebar-width)");
@@ -189,8 +189,8 @@ $(".anchor-link").click(function(){
  
         //$("html,body").animate({scrollTop: $($(this).attr("link")).offset().top}, 10);
         var index  = $(this).attr("index");
-                $(".BlogAnchor li .nav_item.current").removeClass('current');
-                $(headerNavs[index]).addClass('current');
+                //$(".BlogAnchor li .nav_item.current").removeClass('current');
+                //$(headerNavs[index]).addClass('current');
                       var scrollTop = $(window).scrollTop(); // 获得将要到达的点离顶距离
                       currentScrollHigh = scrollTop;
                       currentContentScrollHigh = headerHightALL[index];
@@ -219,7 +219,7 @@ window.onresize = function(){
 headerTops = [];
 $.each(headerNavs, function(i, n){
 $(n).trigger("click"); 
-document.querySelector(headerIDALL[i]).scrollIntoView(true);
+//document.querySelector(headerIDALL[i]).scrollIntoView(true);
 //var high = $(n).offset().top;
 var scrollTop = $(window).scrollTop();
 headerTops.push(scrollTop);
@@ -239,7 +239,7 @@ $(".next").css("right","var(--sidebar-width)");
 //$("body").css("max-width",xlength);
 //$(".BlogAnchor").css("top",headbar_height+'px')
 $(headerNavs[currentIndex]).trigger("click"); 
-document.querySelector(headerIDALL[i]).scrollIntoView(true);
+//document.querySelector(headerIDALL[i]).scrollIntoView(true);
  
  
 }
@@ -258,8 +258,8 @@ $(window).scroll(function(){
         $.each(headerTops, function(i, n){
             if( (scrollTop >= (headerTops[i])  && scrollTop < (headerTops[i+1] -1))  ){
                 console.log("headerTops[i-1]"+headerTops[i-1]+"headerTops[i]"+headerTops[i]+"  scrollTop ="+ scrollTop+"  headerTops[i+1]= "+headerTops[i+1] +"  i ="+i);
-                $(".BlogAnchor li .nav_item.current").removeClass('current');
-                $(headerNavs[i]).addClass('current');
+                //$(".BlogAnchor li .nav_item.current").removeClass('current');
+                //$(headerNavs[i]).addClass('current');
                 currentScrollHigh = scrollTop;
                 currentContentScrollHigh = headerHightALL[i];
                 currentIndex = i;
@@ -309,7 +309,7 @@ headerTops = [];
 $.each(headerNavs, function(i, n){
  
 $(n).trigger("click"); 
-document.querySelector(headerIDALL[i]).scrollIntoView(true);
+//document.querySelector(headerIDALL[i]).scrollIntoView(true);
  
 var scrollTop = $(window).scrollTop();
  
@@ -323,7 +323,7 @@ console.log("headerNavs_index="+i +"   scrollTop="+scrollTop +"  headerTops="+he
  
 headerTops.push($(document).height());
 $(headerNavs[0]).trigger("click"); 
-document.querySelector(headerIDALL[0]).scrollIntoView(true);
+//document.querySelector(headerIDALL[0]).scrollIntoView(true);
  
  
  
@@ -333,13 +333,20 @@ var headbar_height =  $("#menu-bar-hover-placeholder").height();
 
 var xWidth = $(window).width();
 var xlength = xWidth - xcontentWidth;
-$("#page-wrapper").css("marginRight","var(--sidebar-width)");
+//$("#page-wrapper").css("marginRight","var(--sidebar-width)");
 //$("#page-wrapper").css("max-width",xlength);
 $(".next").css("right","var(--sidebar-width)");
 //$(".BlogAnchor").css("top",headbar_height+'px')
 
     if(!showNavBar){
-        $('.BlogAnchor').hide();
+        //$('.BlogAnchor').hide();
+		$("#AnchorContentToggle").attr({"state":"show"});
+		$("#page-wrapper").css("marginRight","var(--sidebar-width)");
+		//$("#page-wrapper").css("max-width",xlength);
+		$(".next").css("right","var(--sidebar-width)");
+		$(".BlogAnchor").css("transform","translateX(0)");
+
+
     }
     if(!expandNavBar){
         //$(this).html("目录▼");
