@@ -7,25 +7,21 @@
 
 <div class="mermaid">
 flowchart LR
-subgraph 1
-direction LR
 A1("sāmanero")
 B1("bhikkhu")
 C1("karāyate")
 A1--DAO-P-->C1
 B1--DAO-S-->C1
-end
-1---2
-subgraph 2
-direction LR
+</div>
+
+<div class="mermaid">
+flowchart LR
 A2("sāmanero")
 B2("bhikkhu")
 C2("kato")
 A2--DAO-P-->C2
 B2--DAO-S-->C2
-end
 </div>
- 
 
 上述句中，sāmanero是首要主动宾语，bhikkhu是次要主动宾语。
 
