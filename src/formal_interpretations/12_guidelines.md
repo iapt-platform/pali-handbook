@@ -34,3 +34,8 @@ be taken in the *abstract sense*.
 
  Ex. **gamanan**ti gacchantatā / gacchantattaṃ / gacchantabhāvo 
  gamanaṃ - the state of the one who goes (the abstract sense of a *primary derivative with subjective suffixal case*)
+
+ # **正式表达的一般标准** 
+
+ **被注释单元的初级衍生** 
+  - 1. When an *inactive object* not mentioned with a commented *primary derivative* is inserted into its comment unit, the *subjective suffixal case* is usually indicated. 
