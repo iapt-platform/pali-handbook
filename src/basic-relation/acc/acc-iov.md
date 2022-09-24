@@ -1,6 +1,6 @@
-# IOV
+# 非主格受动者 → 动词(IOV)
 
-* English： Inactive Object Relation
+* English： **I**nactive **O**bject **V**erb Relation
 * 中文： 受动者-动词关系
 * 巴利语： avuttakamma - kiriyā
  
