@@ -17,8 +17,8 @@
 
 <div class="mermaid">
 flowchart LR
-X("dāraka<br>孩子")
-Y("dārakatta<br>童年")
+X("eka<br>一")
+Y("ekatta<br>")
 X--"+tta"-->Y
 </div>
 
