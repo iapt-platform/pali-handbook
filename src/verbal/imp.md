@@ -43,7 +43,6 @@
 |第二人称|karo**hi**<br>kubbāhi|karo**tha**<br>kubbatha|karassu<br>kurussu<br>kubbassu|kuruvho<br>kubbavho|
 |第一人称|karo**mi**<br>kubbāmi|karo**ma**<br>kubbāma|kare<br>kubbe|karomase<br>kubbāmase|
 
-
 ## 翻译指南
 
 

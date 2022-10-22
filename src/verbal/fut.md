@@ -39,17 +39,24 @@
 
 ## 进阶用法
 
-**Bhavissati= Future Tense**
+>1. 以“未來”為記述的點（包括“歷史中的未來動作”）
+>2. “未定”語氣，表“可能、假設”等  （尚未發生，亦未確定）
+>3. 表“自然律、習慣”（終會、必會），語氣比用pres.表達真理更強
+>4. 常配合Kathaṃ hi nāma（怎麼、竟然）來表達“困惑、訝異”或“遺憾、非難”
+>——《简明实用文法 释性恩》
 
-It is used, of course, to refer to future events but it has a special usage.
-- e.g.: “so gamissati nāma.”
+```markdown
+例句: “so gamissati nāma.”
 
-When “nāma” is used in combination with a Future Tense verb, it can have two
-meanings:
-1. Vimhaya = surprise, wonder, astonishment
-2. Garaha = disapproval, reproach, blame
+当*nāma*和动词将来时连用时，可能表达两种含义：
+1. Vimhaya = 惊讶, 猜测, 意料之外
+2. Garaha = 反对, 批评, 责备
 
-In the sentence, “gamissati” is used in the sense of the Past to denote “surprise for his going” and translated as “O! he has gone”. It implies that his act of going was a cause of surprise.
+例句中, “gamissati”这个动作发生在过去，表达“对他的前往表示惊讶”
 
+可以翻译为：“他居然去了”。
+同时暗示了惊讶是因为他的前去。
+——译自 “sadda pan goen”缅甸Paṇḍita西亚多著
+```
 ## 参考手册
 
