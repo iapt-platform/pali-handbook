@@ -32,11 +32,10 @@ A("puriso")
 B("gacchati")
 C("iti")
 D("vadati/cinteti")
-subgraph iti
+subgraph 引号内
 A--"ASV"-->B
-direction LR
 end
-iti--"QUS"-->C
+引号内--"QUS"-->C
 C--"QUM"-->D
 </div>
 
@@ -127,11 +126,10 @@ flowchart LR
 B("rodati")
 C("putto")
 D("gacchati")
-subgraph iti
-direction LR
+subgraph 引号内
 C--"ASV"-->D
 end
-iti--"CAU"-->B
+引号内--"CAU"-->B
 </div>
 The marker of the end of a theme, a topic, a chapter, etc.
 

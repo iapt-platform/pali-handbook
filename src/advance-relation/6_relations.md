@@ -36,8 +36,7 @@ Ex. Evam kusalaṃ dassetvā akusalaṃ dassetuṃ “katame dhammā akusalā”
 
 <div class="mermaid">
 flowchart LR
-subgraph iti
-direction LR
+subgraph 引号内
 A("katame")
 B("dhammā")
 C("akusalā")
@@ -45,8 +44,8 @@ A---B---C
 end
 D("dassetuṃ")
 E("āha")
-iti--"IMP"-->D
-iti--"IOV<br>"-->E
+引号内--"IMP"-->D
+引号内--"IOV<br>"-->E
 </div>
 
 - **译**（带*dassetum*）：-（佛陀），宣说了善法之后，说“katame dhamma akusala”来讲解不善法。（带有"katame dhamma akusala"的话）。
@@ -54,8 +53,7 @@ iti--"IOV<br>"-->E
 
 <div class="mermaid">
 flowchart LR
-subgraph 引号内
-direction LR
+
 A("katame")
 B("dhammā")
 C("akusalā")
@@ -76,8 +74,7 @@ Ex. Evam kusalaṃ dassetvā akusalaṃ dassento “katame dhammā akusalā” t
 
 <div class="mermaid">
 flowchart LR
-subgraph iti
-direction LR
+subgraph 引号内
 A("katame")
 B("dhammā")
 C("akusalā")
@@ -85,8 +82,8 @@ A---B---C
 end
 D("dassento")
 E("āha")
-iti--"IMP"-->D
-iti--"IOV<br>"-->E
+引号内--"IMP"-->D
+引号内--"IOV<br>"-->E
 </div>
 
 - **译**.（与*dassento*）：- 宣说了善和不善法之后（带有"katame dhamma akusala"的话）的（佛陀），说（道），"katame dhamma akusala"/（或）这样说，"katame dhamma akusala"。
@@ -96,8 +93,7 @@ dhamma akusala” / (or) said thus, “katame dhammā akusalā”.
 
 <div class="mermaid">
 flowchart LR
-subgraph 引号内
-direction LR
+
 A("katame")
 B("dhammā")
 C("akusalā")

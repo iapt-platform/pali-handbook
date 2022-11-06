@@ -50,7 +50,7 @@ A("abhidhammatthasaṅgahaṃ bhasissaṃ")
 B("sambandho")
 C("iti")
 D("kātabbo<br>√kar+tabba")
-subgraph 引号内
+
 A--QUM-->C
 end
 C--QUS-->B

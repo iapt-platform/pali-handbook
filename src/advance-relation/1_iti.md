@@ -17,19 +17,20 @@ The quoted speech itself may be **translated** or **not**.
 
 >Ex. puriso gacchati iti so vadati / cinteti.
 
+
 <div class="mermaid">
 flowchart LR
-subgraph iti
-direction LR
-A("Puriso<br>单·主<br>男人<br>")
-B("gacchati<br>动·第三·单·现<br>前往")
-A--"ASV"-->B
-end
+A("Puriso<br>男人<br>单·主")
+B("gacchati<br>前往<br>动·第三·单·现")
 C("iti<br>引号<br>不变·副")
 D("vadati/cinteti<br>[其]说/想<br>动·第三·单·现")
-iti--"QUS"-->C
+subgraph 引号
+A--"ASV"-->B
+end
+引号--"QUS"-->C
 C--"QUM"-->D
 </div>
+
 
 - He says / thinks as, “puriso gacchati” (untranslated) / “He goes” (translated).
 - 他说/想：“puriso gacchati”（不翻）/“他走了”（翻）。
@@ -41,8 +42,8 @@ flowchart LR
 A("datto<br>已赐予；阿赐<br>阳·单·主")
 B("ñāyate")
 C("iti<br>引号<br>不变·副")
-A--QUS-->C
-C--QUM-->B
+A--"QUS"-->C
+C--"QUM"-->B
 </div>
 
 >He is known as Datta.
@@ -61,7 +62,6 @@ The result is an indeclinable noun. Its case may be one of the seven cases (the 
 <div class="mermaid">
 flowchart LR
 subgraph "引号内"
-direction LR
 A("Puriso<br>单·主<br>男人<br>")
 B("gacchati<br>动·第三·单·现<br>前往")
 A--"ASV"-->B
