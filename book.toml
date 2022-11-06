@@ -15,15 +15,16 @@ command = "mdbook-mermaid"
 
 
 [output.html]
-additional-js = ["theme/myjs/mermaid.min.js", 
+additional-js = [
+	"theme/myjs/mermaid.min.js", 
 	"theme/myjs/mermaid-init.js",
 	"theme/myjs/jquery-1.12.3.min.js",
 	"theme/myjs/social-share.min.js",
 	"theme/myplugin/layer/layer.js",
+	"theme/myplugin/pagetoc/sidebar.js",
 	"mermaid.min.js",
 	"mermaid-init.js",
 	"theme/myjs/HyperlinkText.js",
-	"theme/myjs/anchor_list.js",
 	"theme/myjs/go-init.js"
 	]
 additional-css = [
@@ -31,7 +32,9 @@ additional-css = [
 	"theme/mycss/font.css",
 	"theme/fonts/iconfont.ttf",
 	"theme/fonts/iconfont.woff",
-	"theme/css/anchor_list.css"
+	"theme/myplugin/layer/theme/default/layer.css",
+	"theme/myplugin/layer/theme/default/icon.png",
+	"theme/myplugin/pagetoc/style.css"
 	]
 
 git-repository-url = "https://gitee.com/bhikkhu-kosalla/pali-handbook"

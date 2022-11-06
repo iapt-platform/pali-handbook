@@ -107,7 +107,7 @@
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
-
+		
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
@@ -135,10 +135,10 @@
                         {{/if}}
                     </div>
 
-                    <h class="menu-title">{{ book_title }}</h>
+                    <h1 class="menu-title">{{ book_title }}</h1>
 
                     <div class="right-buttons">
-                        {{#if print_enable}}
+						{{#if print_enable}}
                         <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
@@ -156,10 +156,7 @@
                             <i id="git-edit-button" class="fa {{git_repository_edit_icon}}"></i>
                         </a>
                         {{/if}}
-                        <a title="显示大纲" >
-                            <i id="AnchorContentToggle" class="fa fa-list-ul" state="show"></i>
-                        </a>
-						<a href="javascript:openQrcode()" ><i class="fa fa-qrcode" aria-hidden="true"></i></a>
+						<a href="javascript:openQrcode()" ><i class="fa fa-qrcode"></i></a>
                     </div>
                 </div>
 
@@ -187,6 +184,9 @@
 
                 <div id="content" class="content">
                     <main>
+						 <!-- Page table of contents -->
+						<div class="sidetoc" style="display:none"><nav class="pagetoc"></nav></div>
+						
                         {{{ content }}}
                     </main>
 
@@ -207,7 +207,7 @@
                     </nav>
                 </div>
             </div>
-
+			
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 {{#previous}}
                     <a rel="prev" href="{{ path_to_root }}{{link}}" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
@@ -221,7 +221,6 @@
                     </a>
                 {{/next}}
             </nav>
-
         </div>
 		<div style="height:50vh"></div>
 
@@ -314,6 +313,8 @@
         {{/if}}
         {{/if}}
 		<div id="qrcode" style="margin:1rem;display:none;"></div>
+		<div id="pop-sidebar"></div>
+		<div id="btn-showsidebar"><a href="javascript:openToc()" >文&nbsp;章&nbsp;目&nbsp;录</a></div>
 		<script>
 		new QRCode($('#qrcode')[0], location.href);  // 设置要生成二维码的链接
 		function openQrcode(){
@@ -322,6 +323,18 @@
 			  title: false,
 			  content: $('#qrcode') //这里content是一个DOM，注意：最好该元素要存放在body最外层，否则可能被其它的相对元素所影响
 			});
+		}
+		var popTocIndex=-1;
+		function openToc(){
+			//if(sidebar=='visible'){
+			//	$(".sidetoc").toggle();
+			//}else{
+				popTocIndex=layer.open({
+				  type: 1,
+				  title: false,
+				  content: $('#pop-sidebar') 
+				});
+			//}
 		}
 		</script>
     </body>

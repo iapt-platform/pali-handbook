@@ -1,0 +1,97 @@
+// Un-active everything when you click it
+Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
+    el.addEventHandler("click", function() {
+        Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
+            el.classList.remove("active");
+        });
+        el.classList.add("active");
+    });
+});
+
+var updateFunction = function() {
+
+    var id;
+    var elements = document.getElementsByClassName("header");
+    Array.prototype.forEach.call(elements, function(el) {
+        if (window.pageYOffset >= el.offsetTop) {
+            id = el;
+        }
+    });
+
+    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
+        el.classList.remove("active");
+    });
+
+    Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
+        if (id && id.href.localeCompare(el.href) == 0) {
+            el.classList.add("active");
+        }
+    });
+};
+
+// Populate sidebar on load
+window.addEventListener('load', function() {
+    var pagetoc = document.getElementsByClassName("pagetoc")[0];
+    var elements = document.getElementsByClassName("header");
+    Array.prototype.forEach.call(elements, function(el) {
+        var link = document.createElement("a");
+
+        // Indent shows hierarchy
+        var indent = "";
+        switch (el.parentElement.tagName) {
+            case "H2":
+                indent = "20px";
+                break;
+            case "H3":
+                indent = "40px";
+                break;
+            case "H4":
+                indent = "60px";
+                break;
+            default:
+                break;
+        }
+
+        link.appendChild(document.createTextNode(el.text));
+        link.style.paddingLeft = indent;
+		link.href = el.href;
+        pagetoc.appendChild(link);
+    });
+		
+    updateFunction.call();
+	
+	var pop_pagetoc = document.getElementById("pop-sidebar");
+	Array.prototype.forEach.call(elements, function(el) {
+		var link = document.createElement("a");
+
+		// Indent shows hierarchy
+		var indent = "";
+		switch (el.parentElement.tagName) {
+			case "H2":
+				indent = "10px";
+				break;
+			case "H3":
+				indent = "20px";
+				break;
+			case "H4":
+				indent = "30px";
+				break;
+			default:
+				break;
+		}
+
+		link.appendChild(document.createTextNode(el.text));
+		link.style.paddingLeft = indent;
+		link.href = "javascript:clickToc('"+el.href+"');";
+		
+		pop_pagetoc.appendChild(link);
+		
+		
+	});
+});
+function clickToc(href){
+	location.href=href;
+	layer.close(popTocIndex);
+}
+// Handle active elements on scroll
+window.addEventListener("scroll", updateFunction);
