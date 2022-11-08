@@ -1,10 +1,9 @@
 # Summary
 
 * [首页](./chapter_1.md)
-* [教程](jiao-cheng/README.md)
-  * [巴利语零基础快速入门](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/README.md)
-    * [开始](jiao-cheng/ba-li-yu-ling-ji-chu-kuai-su-ru-men/kai-shi.md)
-    * [句子构成](shortcut/sentence.md)
+* [教程](learn_guide/README.md)
+  * [巴利语学习原则](learn_guide/principle.md)
+  * [句子构成](shortcut/sentence.md)
 * [字母与发音](pronounciation/README.md)
   * [字母表](pronounciation/alphabet.md)
   * [发音技巧](pronounciation/rule.md)
