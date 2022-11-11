@@ -19,20 +19,20 @@
 
 ## 语尾表
 
-|ati.pr|sg|pl|reflx sg|reflx pl|
+|人称|单数|复数|反身 单数|反身 复数|
 | -- | -- | -- | -- | -- |
-|opt 3rd|eyya<br>e|eyyuṃ|etha|eraṃ|
-|opt 2nd|eyyāsi<br>e|eyyātha<br>etha|etho|eyyavho<br>eyyāvho|
-|opt 1st|eyyāmi<br>e|eyyāma<br>ema<br>emu|eyyaṃ|eyyāmhe|
+|第三|eyya<br>e|eyyuṃ|etha|eraṃ|
+|第二|eyyāsi<br>e|eyyātha<br>etha|etho|eyyavho<br>eyyāvho|
+|第一|eyyāmi<br>e|eyyāma<br>ema<br>emu|eyyaṃ|eyyāmhe|
 
 
 例词 karoti
 
-|kar.pr|sg|pl|reflx sg|reflx pl|
+|人称|单数|复数|反身 单数|反身 复数|
 | -- | -- | -- | -- | -- |
-|opt<br>3rd|kare<br>kareyya<br>kayirā<br>kubbe<br>kubbeyya<br>kubbaye|kareyyuṃ<br>kubbeyyuṃ<br>kayiruṃ|kayirātha<br>kubbetha|kubberaṃ|
-|opt<br>2nd|kareyyāsi<br>kubbeyyāsi<br>kayirāsi|kareyyātha<br>kubeyyātha<br>kayirātha|kubbetho|kubbeyyavho|
-|opt<br>1st|kareyyāmi<br>kubeyyāmi<br>kayirāmi|kareyyāma<br>kubeyyāma<br>kayirāma|karekareyyaṃ<br>kubbeyyaṃ|kareyyāmhe<br>kubbeyyāmhe|
+|第三|kare<br>kareyya<br>kayirā<br>kubbe<br>kubbeyya<br>kubbaye|kareyyuṃ<br>kubbeyyuṃ<br>kayiruṃ|kayirātha<br>kubbetha|kubberaṃ|
+|第二|kareyyāsi<br>kubbeyyāsi<br>kayirāsi|kareyyātha<br>kubeyyātha<br>kayirātha|kubbetho|kubbeyyavho|
+|第一|kareyyāmi<br>kubeyyāmi<br>kayirāmi|kareyyāma<br>kubeyyāma<br>kayirāma|karekareyyaṃ<br>kubbeyyaṃ|kareyyāmhe<br>kubbeyyāmhe|
 
 
 ## 翻译指南
