@@ -1,5 +1,5 @@
-**Secondary Derivatives as Commented Units** 
- - 1. When a *secondary derivative* is commented --- 
+**解释二次衍生** 
+## 1. When a *secondary derivative* is commented --- 
  
  a. with a *primary derivative* which has the *verbal suffixal case*, especially with those having the suffix *ana* **OR**, 
  b. with its *secondary* stem compounded with *bhāva*, or, *ākāra*, 
