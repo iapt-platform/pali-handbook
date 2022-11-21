@@ -4,7 +4,7 @@
 
 # Whole-Part Relation3 (WHP)
 
-Here a noun expressing an integrated whole is related to another expressing one or more parts which are to be spoken on.
+Here a noun expressing an integrated whole is related to another expressing one or more parts which are to be spoken.
 
 在这里，表达一个整体的名词与另一个表达一个或多个要说的部分的名词有关。
 

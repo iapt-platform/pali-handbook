@@ -16,7 +16,7 @@ A(purise<br>人们)--IOV-->B(hanati/hato<br>杀死)
 >purise haññate/hataṃ（绝对态）<br>（那些）人被杀了
 <div class="mermaid">
 graph LR
-A(purise<br>人们)--IOV-->B(haññate/hataṃ<br>被杀了)
+A("purise<br>人们<br>复·宾")--IOV-->B(haññate/hataṃ<br>被杀了)
 </div>
 
 
