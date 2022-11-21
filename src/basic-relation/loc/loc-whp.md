@@ -3,10 +3,16 @@
 * 中文：整体-局部
 * English：Whole-Part Relation(WHP)
 
-在这里，表达一个整体的名词与另一个表达一个或多个要说的部分的名词有关。
+分类：名词 → 名词
 
-Here a noun expressing an integrated whole is related to another expressing one or more parts which are to be spoken on.
+<div class="mermaid">
+flowchart LR
+A("samudāya<br>整体<br>单·处")
+B("samudāyin<br>局部<br>单/复")
+A--"WHP<br>整体-局部"-->B
+</div>
 
+例句：
 rukkhe sākhā 
 - （那棵）树的（一根）分支。
 - (a) branch of (the) tree.

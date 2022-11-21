@@ -4,9 +4,9 @@
 * 中文： 集合-个体元素关系
 * English： Collection -Individual Relation (COI)
 
-这里的这种关系类型在**属格**的时候也是有可能的。
+分类：名词 → 名词
 
-This type of relation is also possible here as with Genitive case.
+这种关系类型可能出现在**属格**和**处格**两种情况。
 
 rājā manussesu
 - （那位/一位） **在**男人们**中**的国王...

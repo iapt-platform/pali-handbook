@@ -4,9 +4,12 @@
 * 中文： 容器-动词(LOV)
 * English：Locus - Verb Relation (LOV)
 
-在这里，表达空间或时间点的名词与动词相关，动词表示在那里或那时发生的动作。有时，它与位于那里或那时的实体有关。
+分类：名词 → 动词
 
-Here a noun expressing a point in space or time is related to a verb, which denotes the action that takes place there or then. Sometimes, it is related to an entity situated there or then.
+在这里，表达空间或时间点的名词关联到动词，表示动作发生的时间和空间。
+有时，它也可能表达某种整体的环境状态。
+
+
 
 gaṅgāyaṃ nhāyati
 - 沐浴**在**恒河（河）**中**。

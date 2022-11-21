@@ -3,12 +3,12 @@
 * 中文：动机-动词
 * English：Motivational Relation(MOT)
 
-在这里，用一个名词来表达促使一个动作发生的**动机**或**理由**。
-这个名词要连向动词，然后
+分类：名词 → 动词
 
+在这里，用名词的处格表达促使一个动作发生的**动机**或**理由**。
+连法见例句：
 
-Here a noun expressing a sort of motive or grounds that compels an action is related to a verb denoting the action itself.
-
+例句：
 cammesu haññate.
 - [旨在]皮革而被杀死。
 <div class="mermaid">
