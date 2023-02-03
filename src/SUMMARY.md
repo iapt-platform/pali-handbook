@@ -15,6 +15,7 @@
 		* [名词](shortcut/noun.md)
 		* [三性词](declension/3_gender.md)
 	* [变格表](declension/ending-table.md)
+		* [传统语尾](declension/kaccayana_vibhatti.md)
 		* [元音结尾]()
 			* [a阳性](declension/a-masculine.md)
 			* [a中性](declension/a-neutral.md)
