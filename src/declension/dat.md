@@ -48,6 +48,18 @@
 >6. 常用的慣用語kālo：表達“作某事（dat.）的恰當時機（kālo）”
 >>——《简明实用文法》
 
+|序号|作用|例句|解释|
+|-|-|-|-|
+|1|某物所给予的某事为其而做的人或对象被放在为格中，通常相当于英语中的to/for|bhikkhussa cīvaraṃ deti.|他给比库一件僧衣。|
+|2|含有生气、喜欢、嫉妒、赞叹、责怪、咒骂等情感的动词，要求对应的名词用为格。|devā’pi tesaṃ pihayanti.|即使是天神，也喜欢他们。|
+|3|为格与动词“是”结合表示所属关系。|puttā me n’atthi.|我没有儿子。|
+|4|alaṃ支配为格|alaṃ mallo mallassa.|作为战士是够格的战士。|
+|5|hita（利益）、attha（好处）、sukha（快乐）等词用为格，表示“为了……”。|devamanussānaṃ hitāya.<br>atthāya me bhavissati.|为了天神和人的利益。<br>它将会给我好处。|
+|6|为格可以表示某种意图，而支配一个属格|dārassa bharaṇāya.|为了供养妻子。|
+|7|为格也与动词maññati（认为，看重）结合使用，同时含有贬义。|Jīvitaṃ tiṇāya na maññe.|我不看重这如同草芥的生命。|
+|8|有时一个行动所趋向的地点用为格。|appo saggāya gacchati.|少数人升入天国。|
+>——《巴利语语法手册》v4.4法住禅林巴利语学习小组
+
 
 >事物給予人或者被做、為誰做(表目的或利益對象),使用為格。因此,對格(宾格，acc)為及物動詞的直接受詞,為格（目的格，dat）則用於間接受詞。
 >1. 為格表達的關係,即英語中常用“to, for”來指稱的字彙,如: 
@@ -85,8 +97,7 @@
 >	 - **nirayāya upakaḍḍhati**<br>[(他下到地獄, drags down to hell); upakaḍḍhati (upa + kaddh + a), 拖近。]; 
 >	 - **so maṃ udakāya neti**<br>(他引導我到水邊, he takes me to the water.)
 >9. 為格經常被用來取代受格和處格。
-c
-
+>>——《实用巴利文法》（A Practical Grammar of the Pali Language）——金如是
 
 ## 相关资料：
 

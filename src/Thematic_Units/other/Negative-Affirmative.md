@@ -1,4 +1,4 @@
-# 否定-肯定
+# 否定-肯定<br>byatirekavākya - anvayavākya
 E.g. 例如：
 
 1. 

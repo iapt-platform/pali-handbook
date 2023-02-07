@@ -1,4 +1,4 @@
-# 褒扬-贬抑
+# 褒扬-贬抑<br>sambhāvanāvākya - garahāvākya
 E.g. 例如：
 - A. He is very thin and small.
 - 他很瘦，个子也很小

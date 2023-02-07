@@ -1,4 +1,4 @@
-# 贬抑-褒扬
+# 贬抑-褒扬<br>garahāvākya - sambhāvanāvākya
 E.g. 例如：
 - A. He is really honest.
 - 他真的很诚实。

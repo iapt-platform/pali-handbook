@@ -46,7 +46,14 @@
 >(i) 主格被用作同位語(apposition),如: malliko kosalaraja (Mallika指茉莉、勝鬘夫人,其夫為憍薩羅國王波斯匿。malliko 指波斯匿王,與kosalaraja憍薩羅國王為同位語。)
 >
 >(ii) 書名標題裡獨立使用主格,不需採適當的語尾變化,如: mahajanakajataka (《大闍那伽王本生經》,“The Birth Story of Mahajanaka”)
->>——《实用巴利文法》（A Practical Grammar of the Pali Language）
+>>——《实用巴利文法》（A Practical Grammar of the Pali Language）——金如是
+
+|序号|作用|例句|解释|
+|-|-|-|-|
+|1|作为动词的主语，动词必须在数和人称上与它一致。|narā gāmesu vasanti.|人们住在村里。|
+|2|体格用于同位语|malliko kosalarājā|僑萨罗王|
+|3|它独立地用于书名，也就是不采取体格特有的语尾。|mahājānakajātaka|摩诃遮那迦本生|
+>——《巴利语语法手册》v4.4法住禅林巴利语学习小组
 
 * [主格相关句型手册](../grammar/grammar.md)
 * [hoti](https://github.com/visuddhinanda/pali-handbook/tree/2bdb9c6f5be84217fa8f6966ef2e5d108d7ef6d3/declension/hoti.md)句式中只有主格

@@ -1,4 +1,4 @@
-# 特指-泛指
+# 特指-泛指<br>Visesavākya- sāmañavākya
 E.g.例如：
 - A. The word house means " a building for living in, a building in general, a dwelling - place, an inn, a public house, a household, a family in line of descent, kindred, a trading establishment, etc.".
 - 房屋这个词的意思是“供居住的建筑物，一般的建筑物，住处、客栈、酒馆、家庭、世系家庭、亲属、贸易机构等.“

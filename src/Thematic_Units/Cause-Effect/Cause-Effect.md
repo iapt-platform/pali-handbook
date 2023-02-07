@@ -1,4 +1,4 @@
-# 条件-结论
+# 条件-结论<br>Kāraṇavākya-Phalavākya
 E.g. 例如
 
 1. 

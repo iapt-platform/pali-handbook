@@ -1,4 +1,4 @@
-# 开头-呼应
+# 开头-呼应<br>āraddha vākya - vākyārambhavākya
 E.g. 例如
 - A. She goes to school everyday. She is a teacher at a school nearby. She has taught there for more than two years, etc. etc.
 - 她每天都去学校。她是附近一所学校的老师。她在那里教书两年多了，等等。
