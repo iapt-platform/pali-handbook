@@ -245,3 +245,6 @@
   * [Markdown语法教程](part/markdown_guide.md)
   * [文章结构手册](part/readme.md)
   * [书写范例之公式](part/math\_formular.md)
+* [某些佛教术语](term/readme.md)
+  * [度量衡](term/metrology.md)
+    * [长度](term/length.md)
