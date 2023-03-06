@@ -62,6 +62,7 @@
 |17|sadiso（同样）、samo（等同）、ūno（减）、hīṇo（缺）、nipuno（精通））等，要求相应的名词变具格。|pitarā sadiso.<br>mātarā samo.|像父亲。<br>等同于母亲。|
 |18|有时具格用作副词。|sukhena vasati.|活得快乐。|
 |19|一个人走的方向、路线或途径用具格表示|kena maggena so gato.|他走哪条路？|
+
 >——《巴利语语法手册》v4.4法住禅林巴利语学习小组
 
 

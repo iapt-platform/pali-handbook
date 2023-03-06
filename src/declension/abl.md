@@ -82,6 +82,7 @@
 |14|从格也表示比较。|sīlam’eva sutā seyyo.|戒胜于闻。|
 |15|从格有时表示原因。|avijjānirodhā saṅkhāranirodho.|无明灭则行灭。|
 |16|从格常常代替具格、业格、属格、依格。|vinā saddhammā/saddhammaṃ/saddhammena.|没有正法。|
+
 >——《巴利语语法手册》v4.4法住禅林巴利语学习小组
 
 

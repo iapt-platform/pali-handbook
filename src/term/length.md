@@ -12,4 +12,3 @@
 |usabha|20yaṭṭhi||||
 |gāvuta|80usabha|牛呼|||
 |yojana|4gāvuta|由旬|||
-

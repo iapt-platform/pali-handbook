@@ -55,6 +55,7 @@
 |13|有时用属格表示工具。|pattaṃ odanassa pūreti.|以饭装钵。|
 |14|有时用属格表示处所。|divasassa tikkhattuṃ.|一天三次。|
 |15|属格表示“不顾”|mātāpitunnaṃ rudantānaṃ pabbaji.|他不顾父母的痛哭而出家。|
+
 >——《巴利语语法手册》v4.4法住禅林巴利语学习小组
 
 
