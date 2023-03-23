@@ -8,20 +8,25 @@ case.
 例句：purisena dārakaṃ / dārakena gāmaṃ gamāpīyati
 - (the) child is caused by (the) man to go (to) the village
 - （该） 孩子应（该）男人的要求而去的村庄。
- 
+<div class="mermaid">
+flowchart LR
+A("purisena")
+B("gamāpīyati")
+C("dārakaṃ<br>dārakena")
+D("gāmaṃ")
+
+A--"ISV"-->B
+C--"IOV"-->B
+D--"OV"-->B
+</div>
+
 purisena --> gamāpīyati (ISV)
 dārakaṃ / dārakena --> gamāpīyati(IOV) --> √ gam (SV)
 gāmaṃ --> √ gam (OV)
 
- **Identical Adjective relation1 (IAD)** 
+## 同类修饰关系<br>IAD(**I**dentical **Ad**jective relation)
 
- Here a noun in adjectival use is related to a noun it modifies. The 
-adjective must follow the case of the substantive but may differ in gender and 
-number.
-
-在这里，形容词用法中的名词与它修饰的名词有关。形容词必须遵循实质的情况，但在性和数上可能有所不同。
-
-
+在这里，形容词用法中的名词与它修饰的名词有关。起形容作用的名词在**格**上必须与有实际意义的名词保持一致，但在**性**和**数**上可能有所不同。
 
  mahatā purisena =...with (a/ the) great man 
 

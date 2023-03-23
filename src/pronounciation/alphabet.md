@@ -1,8 +1,8 @@
 # 巴利字母表<br>Pali Alphabet
 ## 发音技巧解说（兰卡口音）
 <video controls="controls" style="width: 80%;">
-  <source src="https://assets-hk.wikipali.org/video/video/%E5%8F%91%E9%9F%B3%E6%8A%80%E5%B7%A7%E7%82%B9%E6%8B%A8.webm" type="video/mp4" ></source>
-  Video not playing? <a href="https://assets-hk.wikipali.org/video/video/%E5%8F%91%E9%9F%B3%E6%8A%80%E5%B7%A7%E7%82%B9%E6%8B%A8.webm">Download file</a> instead.
+  <source src="https://djt-res.fzcl.org.cn/jly/video/发音技巧点拨.webm" type="video/mp4" ></source>
+  Video not playing? <a href="https://djt-res.fzcl.org.cn/jly/video/发音技巧点拨.webm">Download file</a> instead.
 </video>
 
 缅甸口音，泰国口音暂缺。
