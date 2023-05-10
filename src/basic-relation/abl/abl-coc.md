@@ -1,23 +1,23 @@
-# Vibhattāpādāna - Vibhattāpādānin<br>比-较<br>[COC](# "Contrastive Comparison Relation")
+# 参照→比较级（COC）
 
-当两件事物或两个人物有属性上的不同时，名词用于表示在质量程度上要差些的事物，与其他名词关联，重新表示它自己的属性。
-<br>When two things or persons have an attributive difference, the noun expressing the entity of a lesser degree of quality is related to the ther representing the attribute itself.
+COC=**Co**ntrastive **C**omparison Relation
+Vibhattāpādāna - Vibhattāpādānin
 
-例如：E.g, 
+作为形容词比较级的参照，做来源格变化。
 
-so asm**āhi** pāpiyataro
->他**比**我们更差。
-><br>He (is) worse **than** us.
+例句：so asm**āhi** pāpiyataro<br>
+他**比**我们更差。
+
 <div class="mermaid">
-graph LR;
-A(asmāhi<br>比我们)--"vibhattāpādāna—vibhattāpādānin<br>比-较<br>COC"-->B(pāpiyataro<br>更差);
+flowchart LR;
+A("asmāhi<br>[比]我们")--"COC<br>参照→比较级"-->B(pāpiyataro<br>更差);
 </div>
 
-ayaṃ saccamagg**ā** añño
->此（道）**跟**真理之道相异。
-><br>This (path is) different **from** the path of truth.
+ayaṃ saccamagg**ā** añño<br>
+此（道）**跟**真理之道相异。
+
 <div class="mermaid">
-graph LR;
-A(saccamaggā<br>跟真理之道)--"vibhattāpādāna—vibhattāpādānin<br>比-较<br>COC"-->B(añño<br>相异);
+flowchart LR;
+A("saccamaggā<br>[跟]真理之道")--"COC<br>参照→比较级"-->B(añño<br>相异);
 </div>
 

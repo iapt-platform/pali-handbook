@@ -16,7 +16,7 @@ Objects in others. Hence, it is called a **definite** sentence.
 
 在第一个句子中，关系代词将在Nominal Identity关系中与第一个名词组合（使用*主格*），及在其他与Primary Subjects或Objects中。 因此，它被称为**不确定**句。 在第二句中，一个分词代词将与第二个名词（*主格*）在Nominal Identity关系中，以及在其他与第二主语或Objects中。因此，它被称为**确定**句。
 
- **Ex**. Tassa pita acariyo [His father (is / was) a teacher. pita --> acariyo (NIO)] 
+ 例句. Tassa pita acariyo [His father (is / was) a teacher. pita --> acariyo (NIO)] 
 = Yo tassa pita, so acariyo [The one who (is / was) his father, he is / was a teacher] 
 
 **译**。Tassa pita acariyo [他的父亲（是/曾经是）一位老师。 pita --> acariyo （NIO）] = Yo tassa pita，所以 acariyo [（是/曾经是）他父亲的那个人，他是/曾经是老师]

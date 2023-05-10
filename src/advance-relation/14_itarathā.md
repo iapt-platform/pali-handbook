@@ -4,7 +4,7 @@
 
  当使用这些具有"否则，不同"意义的无语尾变化的衍生词时，需要插入一些文本。
 
-**Ex**. Sāccāni cattāriyeva honti. 
+例句. Sāccāni cattāriyeva honti. 
 
  (*ito*) itarathā / aññathā (*atthe gayhamāne*) buddho sabbaññū na bhaveyya. 
  

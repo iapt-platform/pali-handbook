@@ -1,7 +1,7 @@
 # **19. Usage of** partial *comment units* 
 # 19. 部分*comment units***的使用**
 
- **Ex**. **Rājagahe viharatī**ti rājagahaṃ nagarassa nāmaṃ. 
+ 例句. **Rājagahe viharatī**ti rājagahaṃ nagarassa nāmaṃ. 
  
  Rājagahe viharatīti --> rājagahaṃ (Whole-Part) 
  

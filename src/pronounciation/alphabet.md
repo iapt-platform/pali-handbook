@@ -17,9 +17,8 @@
 ## 辅音consonants
 缅文与新哈拉文的辅音字母，本身带有a音，这与罗马巴利的符号系统有着巨大差异。
 读者有两个选择：
-1. 读的时候把k补充为ka
+1. 读的时候把k补充为ka，完全忽视缅文与新哈拉文字母
 2. 读的时候把က转化为က်；把ක转化为ක්
-3. 完全忽视缅文与新哈拉文字母
 
 ||*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*vagganta*<br>鼻音<br>nasals||咝音<br>Sibilant|
 |-|-|-|-|-|-|-|-|

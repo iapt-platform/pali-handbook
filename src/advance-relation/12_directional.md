@@ -5,7 +5,7 @@ into *instrumental* case, another word in *accusative* case is related to it in 
 
 当表示罗盘方位的*semi-pronoun*时，例如东，西等，作为*工具格*，和另一个做*宾格*的词发生与*detachment*或*拥有者*的关系。
 
-**Ex**. Puriso vasati pubbena gāmaṃ. 
+例句. Puriso vasati pubbena gāmaṃ. 
 <div class="mermaid">
 flowchart LR
 A("pubbena<br>东<br>单·具")

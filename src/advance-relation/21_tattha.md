@@ -7,7 +7,7 @@ part of which is related in the *tattha* sentence.
 
 **a**. 当用作句子的首单词时，无语尾变化的*tattha*，通常指前面句子中提到的一个单词或一组单词，并且其中一部分与*tattha*句子有关。
 
- **Ex**. Tayo bhikkhu āgacchanti. Tattha eko arahā hoti. 
+ 例句. Tayo bhikkhu āgacchanti. Tattha eko arahā hoti. 
 <div class="mermaid">
 
 </div>
@@ -26,7 +26,7 @@ Tattha --> eko (whole-part)
 
 **b**. 当 *tattha* 跟在及物动词的句子后面时，它通常是指该动词的 *宾语*。
 
- **Ex**. Idāni tena vuttaṃ, “buddhaṃ saranaṃ gacchāmī”ti. Tattha ... 
+ 例句. Idāni tena vuttaṃ, “buddhaṃ saranaṃ gacchāmī”ti. Tattha ... 
 
  **译**. 现在"佛随念"是被他说的。在这些话中...
  
@@ -36,7 +36,7 @@ Tattha --> eko (whole-part)
  
  **c**. 当*tattha*跟随短语*dassento* ... *aha*时，
 
- **Ex**. Evam kusalam dassetva akusalam dassento “katame dhamma akusalā” ti aha. 
+ 例句. Evam kusalam dassetva akusalam dassento “katame dhamma akusalā” ti aha. 
 Tattha ... 
 
 “*katame dhamma akusala”ti* --> *dassento* (IMP) 

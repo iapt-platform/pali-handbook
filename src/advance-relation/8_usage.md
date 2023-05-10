@@ -26,7 +26,7 @@ D("nadī<br>河<br>单·主")--"ASV<br>主-谓"-->C
 词干*anantara*或*samaya*的**宾格**变化具有**处格**意义。<br>
 The *accusative* cases with stems *anantara* or *samaya* carry *locative* sense. 
 
-**Ex**. pituno gamanassa anantaraṃ putto āgacchati. 
+例句. pituno gamanassa anantaraṃ putto āgacchati. 
 <div class="mermaid">
 flowchart LR
 A("pituno<br>父亲<br>单·属")

@@ -6,7 +6,7 @@ This phrase is used in *comment units* to express the nominal cases of nouns in
 
 此短语在 *comment units* 中用于表示名词的名词性*commented units*。
 
- **Ex**. yenāti etaṃ karanavacanaṃ 
+ 例句. yenāti etaṃ karanavacanaṃ 
  
  yenāti --> etaṃ (Whole-Part) (or) (IAD) / 
  

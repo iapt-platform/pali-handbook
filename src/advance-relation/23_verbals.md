@@ -2,7 +2,7 @@
 # 23. *verbals derived from √* **的用法** 
 
  
- **Ex**. purisassa / purisaṃ hatthasmiṃ gahetvā ... 
+ 例句. purisassa / purisaṃ hatthasmiṃ gahetvā ... 
  
  purisassa / purisaṃ --> gahetvā (IOV) / hatthasmiṃ --> gahetvā (LOV) 
  

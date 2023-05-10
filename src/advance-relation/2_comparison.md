@@ -10,7 +10,7 @@ It can be separated into two parts, one of the compared object (*upameyya*) and 
 
 >|-|**合并比喻**<br>**Incorporated Comparison**|**拆分比喻**<br>**Excluded Comparison**|
 >|-|-|-|
->|例<br>**Ex**|Samaṇo ākāse gacchati narā viya/iva/yathā bhūmiyaṃ|Samaṇo ākāse gacchati / narā bhūmiyaṃ (*gacchanti*) viya / iva / yathā|
+>|例<br>例句|Samaṇo ākāse gacchati narā viya/iva/yathā bhūmiyaṃ|Samaṇo ākāse gacchati / narā bhūmiyaṃ (*gacchanti*) viya / iva / yathā|
 >|**译**|比库在天空中，就像人们在地上（走）一样。|比库在天空中走。（像谁？）就像人们在地面上（走）一样。|
 >|**Trs**|The monk goes in the sky as people (go) on the ground.|The monk goes in the sky. (Like whom?) Just as people (go) on the ground.|
 
@@ -36,7 +36,7 @@ The word *yathā* must be related to that participle in Adverbial relation.
 注意：当*yathā...tathā* 不用于表示比喻，*tathā* （意思是“那么/以这种方式”）修饰的动词必须改为**分词**，并在 **DEF** 中与 *yathā* （意思是“怎么/以何种方式”）句子的动词相关。
 单词 *yathā* 必须与副词关系中的该分词相关。
 
->**Ex**：yathā (mayi karonte) buddho anujānissati, tathā karissāmi.
+>例句：yathā (mayi karonte) buddho anujānissati, tathā karissāmi.
 <div class="mermaid">
 graph LR
 yathā--ADV-->karonte

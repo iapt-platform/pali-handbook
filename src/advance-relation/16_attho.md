@@ -6,7 +6,7 @@ ending with *iti* is related to it in POS relation.
 
 当句子 *comment unit* 以短语 *iti attho* 结尾时，以 *iti* 结尾的*commented unit*与 POS 关系相关。
 
-**Ex**. Posoti puriso, bodhisattoti attho. 
+例句. Posoti puriso, bodhisattoti attho. 
 
 Posoti --> puriso, bodhisatto (NIO) / attho (POS), (ayaṃ) --> attho (NIO) 
 

@@ -5,7 +5,7 @@ In some sentences with the verb *vuccati*, the Quotation Marker *iti* has to be 
 
 在一些带有动词 *vuccati* 的句子中，必须添加引号 *iti*，因为它尚未表达。
 
-**Ex**. ayam balo (*iti*) vuccati.
+例句. ayam balo (*iti*) vuccati.
 
 **译**.他被作为傻瓜提及"，即被称为傻瓜。
 

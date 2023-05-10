@@ -2,7 +2,7 @@
 
  短语 *nanu* 是否定词 *na* 和问号 *nu* 的组合。就其本身而言，*nanu* 通常是修饰主要动词的。
 
-**Ex**. Nanu samanero gamam gacchati?
+例句. Nanu samanero gamam gacchati?
 >**译**. 沙马内勒难道不是去村子吗？
 
 Samanero gamam gacchati nanu?

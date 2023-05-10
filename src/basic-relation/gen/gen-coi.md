@@ -1,13 +1,15 @@
-# niddhāraṇasamudāya -> niddhāraṇīya<br>集合-个体元素关系4 (COI)<br> Collection -Individual Relation4 (COI)
-Here, a noun expressing a collection is related to another expressing one or more individual elements that are to be spoken on.
+# 集合→个体元素关系(COI)
 
- 
-在这里，表达集合的名词与表示要说出的一个或多个单个元素的另一个名词相关。
+缩写：COI=**Co**llection-**I**ndividual Relation
 
-rājā manussānaṃ 
+表达所提及的词（名词）是集合的名词（复数属格）中的一个或多个元素
 
-=...（这位/一位） 国王，在/男人们之间...
+例句：rājā manussānaṃ<br>
+人类中的王
 
-=... (The/A) king, among/of men...
-
-manussānaṃ ——> rājā (COI)---
+<div class="mermaid">
+flowchart LR
+A("manussānaṃ<br>人类[中的]<br>名·阳·复·属")
+B("rājā<br>王<br>名")
+A--"COI<br>集合→个体元素"-->B
+</div>
