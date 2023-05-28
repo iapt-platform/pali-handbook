@@ -18,3 +18,4 @@ A("Purisānaṃ<br>男人[们的]<br>阳·复·属")
 B("haññate<br>杀<br>动|三·单·现")
 A --"ISV"--> B
 </div>
+

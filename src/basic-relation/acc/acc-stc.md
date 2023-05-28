@@ -50,3 +50,13 @@ māsaṃ sajjhayati<br>学习(经过)(一个)月
 graph LR
 A(māsaṃ<br>月)--STC-->B(sajjhayati<br>学习)
 </div>
+
+---
+## 其他参考
+
+>|序号|作用|例句|
+>|-|-|-|
+>|9|时段使用业格。|ekaṃ samayaṃ.<br>有一次。|
+>|11|业格表示距离。|yojanaṃ gacchati.<br>他走了一由旬。|
+>
+>*——《巴利语语法手册》v4.4法住禅林巴利语学习小组*

@@ -20,6 +20,14 @@
 1. 读的时候把k补充为ka，完全忽视缅文与新哈拉文字母
 2. 读的时候把က转化为က်；把ක转化为ක්
 
+<audio class="mini" controls>
+  <source src="https://djt-res.fzcl.org.cn/jly/audio/巴利发音/ka.mp3" type="audio/mpeg" preload="auto">
+Your browser does not support the audio element.
+</audio>
+
+
+
+
 ||*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*sithila*<br>不送气<br>non-aspirates|*dhanita*<br>送气<br>aspirates|*vagganta*<br>鼻音<br>nasals||咝音<br>Sibilant|
 |-|-|-|-|-|-|-|-|
 |-|*aghosa*<br>清辅音<br>hard consonants|*aghosa*<br>清辅音<br>hard consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*ghosa*<br>浊辅音<br>soft consonants|*aghosa*<br>清辅音<br>hard consonants|

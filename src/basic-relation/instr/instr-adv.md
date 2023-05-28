@@ -1,16 +1,28 @@
-# kiriyāvisesana - kiriyā
+# kiriyāvisesana - kiriyā<br>副词-动词
 
-# 修饰动作的副词-动词关系2 (ADV)
+ADV= **Adv**erbial Relation
 
-# Adverbial Relation2 (ADV)
-It is also possible as with the accusative case.
+也可能用宾格
 
-在与宾格一起时，这也是可能的。
+## 例句
+Samena dhāvati<br>一起跑
 
-Samena dhāvati 
+<div class="mermaid">
+flowchart LR
+A("Samena<br>一起<br>单·具")
+B("dhāvati<br>跑<br>单·现")
+A--"ADJ<br>副词→动词"-->B
+</div>
 
-=...在个体内运行。
+---
+## 其他参考
 
-=... runs (in) unity.
+>|序号|作用|例句|
+>|-|-|-|
+>|18|有时具格用作副词。|sukhena vasati.<br>活得快乐。|
+>
+>*——《巴利语语法手册》v4.4法住禅林巴利语学习小组*
 
-Samena ——> dhāvati (ADV)
+>7. 表示動作的“方式、狀態”（或可當作副詞用，…地）
+>
+>*——《简明实用文法》*

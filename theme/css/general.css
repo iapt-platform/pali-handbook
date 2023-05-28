@@ -181,3 +181,10 @@ blockquote {
 .result-no-output {
     font-style: italic;
 }
+
+blockquote p{
+    display: flex;
+}
+blockquote p em{
+    margin-left: auto;
+}

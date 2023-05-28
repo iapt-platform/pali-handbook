@@ -19,3 +19,4 @@ A("rūpāvacarato<br>色界[中的]<br>单·源")
 B("abhiññākusala<br>神通善")
 A--"COI"-->B
 </div>
+
