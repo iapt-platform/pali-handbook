@@ -150,6 +150,7 @@
     * [MOT](basic-relation/loc/loc-mot.md)
     * [WHP](basic-relation/loc/loc-whp.md)
     * [COI](basic-relation/loc/loc-coi.md)
+    * [DEF](basic-relation/loc/loc-def.md)
   * [动词关系语法(未完成)](basic-relation/verb/verb.md)
     * [使役动词(未完成)](basic-relation/verb/cau_verb.md)
       * [主动语态(未完成)](basic-relation/verb/act_voice.md)
