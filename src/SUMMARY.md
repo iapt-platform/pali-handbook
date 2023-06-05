@@ -145,6 +145,7 @@
   * [目的格(未完成)](basic-relation/dat/dat.md)
     * [REC](basic-relation/dat/dat-rec.md)
     * [PUR](basic-relation/dat/dat-pur.md)
+    * [LOV](basic-relation/dat/dat-lov.md)
   * [位置格(未完成)](basic-relation/loc/loc.md)
     * [LOV](basic-relation/loc/loc-lov.md)
     * [MOT](basic-relation/loc/loc-mot.md)
