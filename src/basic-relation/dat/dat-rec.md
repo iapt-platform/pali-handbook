@@ -36,7 +36,7 @@ C--"IOV<br>受动者→动词"-->B
 
 >|序号|作用|举例|
 >|-|-|-|
->|1|某物所给予的某事为其而做的人或对象被放在为格中，通常相当于英语中的to/for|bhikkhussa cīvaraṃ deti.<br>他给比库一件僧衣。|
+>|1A|某物所给予的某事被放在为格中，通常相当于英语中的to|bhikkhussa cīvaraṃ deti.<br>他给比库一件僧衣。|
 >|2|含有生气、喜欢、嫉妒、赞叹、责怪、咒骂等情感的动词，要求对应的名词用为格。|devā’pi tesaṃ pihayanti.<br>即使是天神，也喜欢他们。|
 >|3|为格与动词“是”结合表示所属关系。|puttā me n’atthi.<br>我没有儿子。|
 >
@@ -45,10 +45,10 @@ C--"IOV<br>受动者→动词"-->B
 >1. 為格表達的關係,即英語中常用“to”來指稱的字彙,如:
 >    - **bhikkhussa cīvaraṃ deti**<br>(他供養比丘一套袈裟, he gives a robe to the priest); 
 >2. 為格接用動詞表示稱揚或者責備,憤怒,相信,不相信,同意,嫉妒,快樂或者不高興,傷害,利益,贊成,寬恕,問候,祝福,憎恨,虐待,隱藏,虔敬,攜帶。例: 
->	 - **Buddhassa silāghate** (pres/mid/3rd/sg)<br>(他讚歎佛陀, he praises the Buddha－Silaghati (silagh + a)頌楊。); 
->	 - **yadi’haṃ tassa kuppeyya**<br>(如果我應對他生氣, if I should be angry with him); 
->	 - **duhayati disānaṃ ogho**<br>洪水使國家受損傷, the flood has injured the country); 
->	 - **tuyhaṃ saddahāmi**<br>(我對你信任, I believe thee); 
+>    - **Buddhassa silāghate** (pres/mid/3rd/sg)<br>(他讚歎佛陀, he praises the Buddha－Silaghati (silagh + a)頌楊。); 
+>    - **yadi’haṃ tassa kuppeyya**<br>(如果我應對他生氣, if I should be angry with him); 
+>    - **duhayati disānaṃ ogho**<br>洪水使國家受損傷, the flood has injured the country); 
+>    - **tuyhaṃ saddahāmi**<br>(我對你信任, I believe thee); 
 >    - **svāgataṃ te**<br>(善來,大德！歡迎您！Hail to thee!) 
 >    - **sotthi tuyhaṃ hotu**<br>(祝福您, Fare thee well!) 
 >    - **khama me**<br>(原諒我﹗Forgive me!) 

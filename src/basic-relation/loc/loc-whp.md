@@ -1,7 +1,9 @@
 # 整体-局部
 * 巴利：samudāya - samudāyin
 * 中文：整体-局部
-* English：Whole-Part Relation(WHP)
+* WHP=**Wh**ole-**P**art Relation(WHP)
+* 成分：地点定语
+
 
 分类：名词 → 名词
 

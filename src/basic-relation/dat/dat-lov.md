@@ -1,4 +1,8 @@
+# 地点状语-动词
 
+* 巴利： ādhāra - ādheyya
+* 中文： 容器-动词(LOV)
+* LOV=**Lo**cus - **V**erb Relation
 
 
 

@@ -32,6 +32,7 @@ A--"PUR<br>目的→动词"-->B
 
 >|序号|作用|举例|
 >|-|-|-|
+>|1B|为其而做的人或对象被放在为格中，通常相当于英语中的for||
 >|5|hita（利益）、attha（好处）、sukha（快乐）等词用为格，表示“为了……”。|devamanussānaṃ hitāya.<br>为了天神和人的利益。<br>atthāya me bhavissati.<br>它将会给我好处。|
 >|6|为格可以表示某种意图，而支配一个属格|dārassa bharaṇāya.<br>为了供养妻子。|
 >

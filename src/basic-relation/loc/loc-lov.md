@@ -1,8 +1,9 @@
-# 容器-动词
+# 时空状语-动词
 
 * 巴利： ādhāra - ādheyya
 * 中文： 容器-动词(LOV)
-* English：Locus - Verb Relation (LOV)
+
+LOV=**Lo**cus - **V**erb Relation
 
 分类：名词 → 动词
 
@@ -31,6 +32,12 @@ A("rattiyaṃ<br>[在]晚上<br>阴·单·处")
 B("sayati<br>[其]睡<br>动|三·单·现")
 A--"LOV<br>容器-动词"-->B
 </div>
+
+表示名法的所缘，如：
+
+sīmaṭṭhakabhikkhusaṅghe sukhitā hontu abyāpajjāti mettā bhāvetabbā<br>
+对近行界内的比库僧团修习慈心：“愿他们快乐而无嗔害。”
+——《清净道论》
 
 ## 其他参考
 

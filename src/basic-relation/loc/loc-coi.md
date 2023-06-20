@@ -2,7 +2,8 @@
 
 * 巴利： niddhāraṇasamudāya - nidhāraṇīya
 * 中文： 集合-个体元素关系
-* English： Collection -Individual Relation (COI)
+* COI=**Co**llection -**I**ndividual Relation
+* 成分：范围定语
 
 分类：名词 → 名词
 
@@ -24,6 +25,8 @@ A--"COI"-->B
 >
 >*——《简明实用文法》*
 
+>|序号|作用|举例|
+>|-|-|-|
 >|4|在表示杰出的个体所属的整个同类时，也与形容词最高级结合，这个与这种杰出或最高级相关的名词使用依格，或使用属格。|manussesu khattiyo sūratamo.<br>人中最勇敢的剎帝利。|
 >|11|与adhipati（君主）、dāyāda（继承人）、issara（君主）、kusala（技巧）、patibhū（保释金）、pasūta（来源于某事物）、kusala（能手）、sakhi（证人）、sāmī（主人）连用的依格可以作为属格解释|lokasmiṃ (lokassa) adhipati. <br>世界之主。<br>goṇesu sāmī.<br>牛主人。|
 >

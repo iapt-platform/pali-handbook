@@ -1,3 +1,10 @@
+# 状语从句
+* 巴利：lakkhaṇa - lakkhya
+* 中文：整体-局部
+* 英文：DEF=**Def**initive Relation
+* 成分：地点定语
+
+
 # 关系从句Relative Clause
 
 1. 该从句必须有一个现在分词来引导。<br>
